@@ -62,5 +62,7 @@
 		}
 	],
 	"workbench.preferredDarkColorTheme": "GitHub Light",
-	"latex-workshop.texcount.autorun": "onSave"
+	"latex-workshop.texcount.autorun": "onSave",
+	"latex-workshop.view.pdf.invert": 1,
+	"workbench.colorCustomizations": {}
 }
