@@ -1,0 +1,484 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.9)  31 JAN 2024 12:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/workspaces/osint_trendradar/demo
+(/workspaces/osint_trendradar/demo.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+(./icis.cls
+Document Class: icis 2014/03/01 ICIS Conference submission style
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/local/texlive/2023/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+Package: xltxtra 2018/12/31 v0.7 Improvements for the "XeLaTeX" format
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)) (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-06-30 L3 programming layer (loader) 
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2023-04-19 L3 backend support: XeTeX
+\g__graphics_track_int=\count189
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count190
+\g__pdf_backend_annotation_int=\count191
+\g__pdf_backend_link_int=\count192
+))
+Package: xparse 2023-02-02 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count193
+\l__fontspec_language_int=\count194
+\l__fontspec_strnum_int=\count195
+\l__fontspec_tmp_int=\count196
+\l__fontspec_tmpa_int=\count197
+\l__fontspec_tmpb_int=\count198
+\l__fontspec_tmpc_int=\count199
+\l__fontspec_em_int=\count266
+\l__fontspec_emdef_int=\count267
+\l__fontspec_strong_int=\count268
+\l__fontspec_strongdef_int=\count269
+\l__fontspec_tmpa_dim=\dimen141
+\l__fontspec_tmpb_dim=\dimen142
+\l__fontspec_tmpc_dim=\dimen143
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/local/texlive/2023/texmf-dist/tex/latex/realscripts/realscripts.sty
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscripts
+\subsupersep=\dimen144
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+)
+\xl@everylogo=\toks18
+\xl@@everylogo=\toks19
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+\l__xetex_show_hyphens_wrapping_box=\box52
+\l__xetex_show_hyphens_temp_box=\box53
+\l__xetex_show_hyphens_final_box=\box54
+\g__xetex_show_hyphens_word_box=\box55
+) (/usr/local/texlive/2023/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many other characters in Unicode lower plane
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+)
+\tipaTiiicode=\count270
+\tipasavetokens=\toks20
+\tipachecktokens=\toks21
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen147
+\captionmargin=\dimen148
+\caption@leftmargin=\dimen149
+\caption@rightmargin=\dimen150
+\caption@width=\dimen151
+\caption@indent=\dimen152
+\caption@parindent=\dimen153
+\caption@hangindent=\dimen154
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count271
+\c@continuedfloat=\count272
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count273
+\Gm@cntv=\count274
+\c@Gm@tempcnt=\count275
+\Gm@bindingoffset=\dimen155
+\Gm@wd@mp=\dimen156
+\Gm@odd@mp=\dimen157
+\Gm@even@mp=\dimen158
+\Gm@layoutwidth=\dimen159
+\Gm@layoutheight=\dimen160
+\Gm@layouthoffset=\dimen161
+\Gm@layoutvoffset=\dimen162
+\Gm@dimlist=\toks22
+
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (469.75499pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (650.43pt) is ignored.
+
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/stackengine/stackengine.sty
+Package: stackengine 2021/07/22 v4.11\ Stacking text and objects in convenient ways
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count276
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/listofitems/listofitems.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/listofitems/listofitems.tex
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 104 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 105 replaced by U+FFFD.
+\loi_cnt_foreach_nest=\count277
+Invalid UTF-8 byte or sequence at line 139 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 146 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 192 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 209 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 209 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 222 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 222 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 223 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 223 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 224 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 226 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 226 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 238 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 243 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 243 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 260 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 310 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 310 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 324 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 339 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+\loi_nestcnt=\count278
+Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 378 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 398 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 398 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 409 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 414 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 422 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 422 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 426 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 428 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 433 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 433 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 441 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 441 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 442 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 448 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 448 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 451 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 455 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 455 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 458 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 458 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 472 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 475 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 492 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 508 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 508 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 509 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 509 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 519 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+)
+Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified sep char (CT)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count279
+\calc@Bcount=\count280
+\calc@Adimen=\dimen163
+\calc@Bdimen=\dimen164
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count281
+\calc@Cskip=\skip61
+)
+\c@@stackindex=\count282
+\@boxshift=\skip62
+\stack@tmplength=\skip63
+\temp@stkl=\skip64
+\@stackedboxwidth=\skip65
+\@addedbox=\box56
+\@anchorbox=\box57
+\@insetbox=\box58
+\se@backgroundbox=\box59
+\stackedbox=\box60
+\@centerbox=\box61
+\c@ROWcellindex@=\count283
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip66
+\enit@outerparindent=\dimen165
+\enit@toks=\toks23
+\enit@inbox=\box62
+\enit@count@id=\count284
+\enitdp@description=\count285
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/xpatch/xpatch.sty
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count286
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count287
+\c@listtotal=\count288
+\c@listcount=\count289
+\c@liststart=\count290
+\c@liststop=\count291
+\c@citecount=\count292
+\c@citetotal=\count293
+\c@multicitecount=\count294
+\c@multicitetotal=\count295
+\c@instcount=\count296
+\c@maxnames=\count297
+\c@minnames=\count298
+\c@maxitems=\count299
+\c@minitems=\count300
+\c@citecounter=\count301
+\c@maxcitecounter=\count302
+\c@savedcitecounter=\count303
+\c@uniquelist=\count304
+\c@uniquename=\count305
+\c@refsection=\count306
+\c@refsegment=\count307
+\c@maxextratitle=\count308
+\c@maxextratitleyear=\count309
+\c@maxextraname=\count310
+\c@maxextradate=\count311
+\c@maxextraalpha=\count312
+\c@abbrvpenalty=\count313
+\c@highnamepenalty=\count314
+\c@lownamepenalty=\count315
+\c@maxparens=\count316
+\c@parenlevel=\count317
+\blx@tempcnta=\count318
+\blx@tempcntb=\count319
+\blx@tempcntc=\count320
+\c@blx@maxsection=\count321
+\blx@maxsegment@0=\count322
+\blx@notetype=\count323
+\blx@parenlevel@text=\count324
+\blx@parenlevel@foot=\count325
+\blx@sectionciteorder@0=\count326
+\blx@sectionciteorderinternal@0=\count327
+\blx@entrysetcounter=\count328
+\blx@biblioinstance=\count329
+\labelnumberwidth=\skip67
+\labelalphawidth=\skip68
+\biblabelsep=\skip69
+\bibitemsep=\skip70
+\bibnamesep=\skip71
+\bibinitsep=\skip72
+\bibparsep=\skip73
+\bibhang=\skip74
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language87
+\c@mincomprange=\count330
+\c@maxcomprange=\count331
+\c@mincompwidth=\count332
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count333
+\c@savedafterword=\count334
+\c@annotator=\count335
+\c@savedannotator=\count336
+\c@author=\count337
+\c@savedauthor=\count338
+\c@bookauthor=\count339
+\c@savedbookauthor=\count340
+\c@commentator=\count341
+\c@savedcommentator=\count342
+\c@editor=\count343
+\c@savededitor=\count344
+\c@editora=\count345
+\c@savededitora=\count346
+\c@editorb=\count347
+\c@savededitorb=\count348
+\c@editorc=\count349
+\c@savededitorc=\count350
+\c@foreword=\count351
+\c@savedforeword=\count352
+\c@holder=\count353
+\c@savedholder=\count354
+\c@introduction=\count355
+\c@savedintroduction=\count356
+\c@namea=\count357
+\c@savednamea=\count358
+\c@nameb=\count359
+\c@savednameb=\count360
+\c@namec=\count361
+\c@savednamec=\count362
+\c@translator=\count363
+\c@savedtranslator=\count364
+\c@shortauthor=\count365
+\c@savedshortauthor=\count366
+\c@shorteditor=\count367
+\c@savedshorteditor=\count368
+\c@labelname=\count369
+\c@savedlabelname=\count370
+\c@institution=\count371
+\c@savedinstitution=\count372
+\c@lista=\count373
+\c@savedlista=\count374
+\c@listb=\count375
+\c@savedlistb=\count376
+\c@listc=\count377
+\c@savedlistc=\count378
+\c@listd=\count379
+\c@savedlistd=\count380
+\c@liste=\count381
+\c@savedliste=\count382
+\c@listf=\count383
+\c@savedlistf=\count384
+\c@location=\count385
+\c@savedlocation=\count386
+\c@organization=\count387
+\c@savedorganization=\count388
+\c@origlocation=\count389
+\c@savedoriglocation=\count390
+\c@origpublisher=\count391
+\c@savedorigpublisher=\count392
+\c@publisher=\count393
+\c@savedpublisher=\count394
+\c@language=\count395
+\c@savedlanguage=\count396
+\c@origlanguage=\count397
+\c@savedoriglanguage=\count398
+\c@pageref=\count399
+\c@savedpageref=\count400
+\shorthandwidth=\skip75
+\shortjournalwidth=\skip76
+\shortserieswidth=\skip77
+\shorttitlewidth=\skip78
+\shortauthorwidth=\skip79
+\shorteditorwidth=\skip80
+\locallabelnumberwidth=\skip81
+\locallabelalphawidth=\skip82
+\localshorthandwidth=\skip83
+\localshortjournalwidth=\skip84
+\localshortserieswidth=\skip85
+\localshorttitlewidth=\skip86
+\localshortauthorwidth=\skip87
+\localshorteditorwidth=\skip88
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/

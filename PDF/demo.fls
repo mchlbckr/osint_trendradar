@@ -1,0 +1,6 @@
+PWD /workspaces/osint_trendradar
+INPUT /usr/local/texlive/2023/texmf.cnf
+INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt
+INPUT /workspaces/osint_trendradar/demo.tex
+OUTPUT PDF/demo.log

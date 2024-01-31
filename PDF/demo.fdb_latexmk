@@ -1,0 +1,20 @@
+# Fdb version 4
+["xdvipdfmx"] 0 "PDF/demo.xdv" "PDF/demo.pdf" "PDF/demo" 0 -1
+  "PDF/demo.xdv" 1706695297 8200 6d3fdf23e9ea9bbbb417bf4c8091c2e3 "xelatex"
+  (generated)
+  "PDF/demo.pdf"
+  (rewritten before read)
+["xelatex"] 1706700702 "/workspaces/osint_trendradar/demo.tex" "PDF/demo.xdv" "demo" 1706700702 2
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1681165822 40967 d940221f8762fd5848760382d97d1226 ""
+  "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1688881119 10795829 afd767820534101205b80429645fb70b ""
+  "/usr/local/texlive/2023/texmf.cnf" 1688881009 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "/workspaces/osint_trendradar/demo.tex" 1706700559 12645 7d837fb89d550b2eb5b1b4ecd12b8909 ""
+  "PDF/demo.aux" 1706695300 132 038e1076a9b61925d6ff2882e6abcd08 "xelatex"
+  "PDF/icis.cls" 0 -1 0 ""
+  "demo.tex" 1706700559 12645 7d837fb89d550b2eb5b1b4ecd12b8909 ""
+  "icis.cls" 0 -1 0 ""
+  (generated)
+  "PDF/demo.aux"
+  "PDF/demo.log"
+  "PDF/demo.xdv"
+  (rewritten before read)
