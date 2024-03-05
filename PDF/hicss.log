@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.9)  5 MAR 2024 14:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.9)  5 MAR 2024 14:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -368,8 +368,23 @@ Underfull \hbox (badness 1394) in paragraph at lines 76--77
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 76--77
-\OT1/ptm/m/n/10 de-vel-oped. They came to the con-clu-sion that the
+Underfull \hbox (badness 3128) in paragraph at lines 76--77
+\OT1/ptm/m/n/10 and ed-u-ca-tional ma-te-ri-als in the field of OS-INT
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 76--77
+\OT1/ptm/m/n/10 has de-vel-oped. They con-cluded that the num-ber
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 76--77
+\OT1/ptm/m/n/10 top-ics. Fi-nally, in 2021, Yo-gish and Kr-ishna [9]
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 76--77
+\OT1/ptm/m/n/10 (Ar-ti-fi-cial In-tel-li-gence) tech-nolo-gies in the con-text
  []
 
 
@@ -444,9 +459,9 @@ Here is how much of TeX's memory you used:
  23427 multiletter control sequences out of 15000+600000
  574157 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,13n,68p,2436b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 62i,13n,68p,2423b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PDF/hicss.pdf (4 pages, 89888 bytes).
+Output written on PDF/hicss.pdf (4 pages, 89879 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
