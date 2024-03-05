@@ -2,45 +2,55 @@ This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: hicss.aux
 The style file: ieeetr.bst
-Database file #1: sample.bib
-You've used 2 entries,
+Database file #1: references.bib
+I was expecting an "="---line 1864 of file references.bib
+ :  
+ :  address = {Wiesbaden},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "Jones2015"
+Warning--I didn't find a database entry for "Smith2015"
+Warning--empty journal in Yogish.2021
+You've used 38 entries,
             1876 wiz_defined-function locations,
-            489 strings with 3641 characters,
-and the built_in function-call counts, 580 in all, are:
-= -- 52
-> -- 25
+            731 strings with 10280 characters,
+and the built_in function-call counts, 8163 in all, are:
+= -- 776
+> -- 307
 < -- 0
-+ -- 9
-- -- 7
-* -- 41
-:= -- 92
-add.period$ -- 2
-call.type$ -- 2
-change.case$ -- 2
++ -- 119
+- -- 81
+* -- 544
+:= -- 1129
+add.period$ -- 35
+call.type$ -- 38
+change.case$ -- 33
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 28
-empty$ -- 53
-format.name$ -- 7
-if$ -- 141
+cite$ -- 39
+duplicate$ -- 421
+empty$ -- 876
+format.name$ -- 81
+if$ -- 2023
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 2
-newline$ -- 9
-num.names$ -- 2
-pop$ -- 6
+int.to.str$ -- 38
+missing$ -- 33
+newline$ -- 123
+num.names$ -- 38
+pop$ -- 144
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 19
+skip$ -- 299
 stack$ -- 0
-substring$ -- 35
-swap$ -- 12
+substring$ -- 387
+swap$ -- 143
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 6
-width$ -- 3
-write$ -- 20
+warning$ -- 1
+while$ -- 76
+width$ -- 40
+write$ -- 338
+(There was 1 error message)
