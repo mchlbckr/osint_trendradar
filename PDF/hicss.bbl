@@ -81,9 +81,6 @@ H.~Gibson, ``Acquisition and preparation of data for osint investigations,'' in 
 \bibitem{JointChiefsofStaffU.S.Army.2013}
 ``Joint intelligence.''
 
-\bibitem{DepartmentoftheArmy.2012}
-``Open-source intelligence.''
-
 \bibitem{Breakspear.2013}
 A.~Breakspear, ``A new definition of intelligence,'' {\em Intelligence and National Security}, vol.~28, no.~5, pp.~678--693, 2013.
 
@@ -116,6 +113,9 @@ M.~Phythian, ed., {\em Understanding the intelligence cycle}.
 \bibitem{Johnston.2005}
 R.~Johnston, {\em Analytic culture in the US intelligence community: An ethnographic study}.
 \newblock Washington, DC: {Central lntelligence Agency (CIA)}, 2005.
+
+\bibitem{DepartmentoftheArmy.2012}
+``Open-source intelligence.''
 
 \bibitem{GarciaLozano.2020}
 M.~{Garc{\'i}a Lozano}, J.~Brynielsson, U.~Franke, M.~Rosell, E.~Tj{\"o}rnhammar, S.~Varga, and V.~Vlassov, ``Veracity assessment of online data,'' {\em Decision Support Systems}, vol.~129, p.~113132, 2020.
