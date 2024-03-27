@@ -1,0 +1,1098 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.9)  27 MAR 2024 08:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/workspaces/osint_trendradar/hicss
+(/workspaces/osint_trendradar/hicss.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (./hicss51-packages.tex (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+) (./hicss51.sty
+Conference Style for HICSS-51 -- released September 15, 2017
+\titlebox=\skip50
+\captionindent=\skip51
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language87
+LaTeX Info: Redefining \_ on input line 43.
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+))
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 34.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box51
+) (./hicss.aux)
+\openout1 = `hicss.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.29489pt
+* \paperheight=794.97006pt
+* \textwidth=469.75484pt
+* \textheight=640.47137pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=19.8752pt
+* \topmargin=-14.22636pt
+* \headheight=5.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=23.04666pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen151
+\scratchbox=\box52
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen152
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 35.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 35.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Underfull \vbox (badness 10000) detected at line 35
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 39--54
+[]\OT1/ptm/m/it/10 Open Source In-tel-li-gence (OS-INT) is cur-rently
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 39--54
+\OT1/ptm/m/it/10 nu-mer-ous at-tempts at stan-dard-ized def-i-ni-tions, the
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 39--54
+\OT1/ptm/m/it/10 in-tro-duces a practice-validated OS-INT trend radar,
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 39--54
+\OT1/ptm/m/it/10 cat-e-go-riz-ing tech-nolo-gies by ma-tu-rity, in-tel-li-gence
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 39--54
+\OT1/ptm/m/it/10 phases, are ev-i-dent. Al-though in-tel-li-gent sup-port
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 39--54
+\OT1/ptm/m/it/10 lags be-hind the-ory. The hu-man fac-tor there-fore
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 39--54
+\OT1/ptm/m/it/10 re-mains cen-tral to the OS-INT pro-cess. Fu-ture
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 39--54
+\OT1/ptm/m/it/10 widespread im-ple-men-ta-tion of proven ap-pli-ca-tions,
+ []
+
+
+LaTeX Warning: Citation `DosPassos.2017' on page 1 undefined on input line 61.
+
+
+LaTeX Warning: Citation `Hatfield.2023' on page 1 undefined on input line 63.
+
+
+LaTeX Warning: Citation `SmithBoyle.24.07.2023' on page 1 undefined on input line 63.
+
+
+LaTeX Warning: Citation `PastorGalindo.2019' on page 1 undefined on input line 64.
+
+
+LaTeX Warning: Citation `Schaurer.2010' on page 1 undefined on input line 64.
+
+
+LaTeX Warning: Citation `Burke.2007' on page 1 undefined on input line 65.
+
+
+LaTeX Warning: Citation `Hwang.2022' on page 1 undefined on input line 66.
+
+
+LaTeX Warning: Citation `PastorGalindo.2020' on page 1 undefined on input line 66.
+
+
+LaTeX Warning: Citation `Yogish.2021' on page 1 undefined on input line 66.
+
+
+LaTeX Warning: Citation `Ghioni.2023' on page 1 undefined on input line 67.
+
+
+LaTeX Warning: Citation `Ish.2022' on page 1 undefined on input line 67.
+
+
+LaTeX Warning: Citation `Williams.2018' on page 1 undefined on input line 67.
+
+
+LaTeX Warning: Citation `Ghioni.2023' on page 1 undefined on input line 70.
+
+
+LaTeX Warning: Citation `Williams.2018' on page 1 undefined on input line 70.
+
+
+LaTeX Warning: Citation `DosPassos.2017' on page 1 undefined on input line 72.
+
+
+LaTeX Warning: Citation `Hwang.2022' on page 1 undefined on input line 72.
+
+
+LaTeX Warning: Citation `Yogish.2021' on page 1 undefined on input line 72.
+
+
+LaTeX Warning: Citation `Burke.2007' on page 1 undefined on input line 73.
+
+
+LaTeX Warning: Citation `Hwang.2022' on page 1 undefined on input line 75.
+
+
+LaTeX Warning: Citation `Williams.2018' on page 1 undefined on input line 75.
+
+
+LaTeX Warning: Citation `Dokman.2020' on page 1 undefined on input line 76.
+
+
+LaTeX Warning: Citation `Benes.2013' on page 1 undefined on input line 78.
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 60--79
+\OT1/ptm/m/n/10 and in-tel-li-gence ser-vices are now ac-ces-si-ble to the
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 60--79
+\OT1/ptm/m/n/10 [[]]. At the same time, the in-creas-ing speed of
+ []
+
+
+LaTeX Warning: Citation `HerreraCubides.2020' on page 1 undefined on input line 81.
+
+
+LaTeX Warning: Citation `Ghioni.2023' on page 1 undefined on input line 82.
+
+
+LaTeX Warning: Citation `Williams.2018' on page 1 undefined on input line 82.
+
+
+LaTeX Warning: Citation `PastorGalindo.2019' on page 1 undefined on input line 85.
+
+
+LaTeX Warning: Citation `PastorGalindo.2020' on page 1 undefined on input line 85.
+
+
+LaTeX Warning: Citation `Hwang.2022' on page 1 undefined on input line 88.
+
+
+LaTeX Warning: Citation `PastorGalindo.2019' on page 1 undefined on input line 88.
+
+
+LaTeX Warning: Citation `Yogish.2021' on page 1 undefined on input line 88.
+
+
+LaTeX Warning: Citation `AlKilani.2021' on page 1 undefined on input line 90.
+
+
+LaTeX Warning: Citation `Dokman.2020' on page 1 undefined on input line 90.
+
+
+LaTeX Warning: Citation `Ghioni.2023' on page 1 undefined on input line 90.
+
+
+LaTeX Warning: Citation `HerreraCubides.2020' on page 1 undefined on input line 94.
+
+
+LaTeX Warning: Citation `PastorGalindo.2019' on page 1 undefined on input line 94.
+
+
+Underfull \hbox (badness 4229) in paragraph at lines 80--99
+[]\OT1/ptm/m/n/10 To date, there has been a lack of de-ci-sive,
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 80--99
+\OT1/ptm/m/n/10 fun-da-men-tal sci-en-tific pub-li-ca-tions to per-vade the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--99
+\OT1/ptm/m/n/10 citeGhioni.2023, Pas-tor-Galindo.2020,Yogish.2021.
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 80--99
+\OT1/ptm/m/n/10 ("use cases") of OS-INT have there-fore re-mained
+ []
+
+
+LaTeX Warning: Citation `Peffers.2007' on page 1 undefined on input line 106.
+
+
+LaTeX Warning: Citation `vomBrocke.2020b' on page 1 undefined on input line 107.
+
+
+LaTeX Warning: Citation `Webster.2002' on page 1 undefined on input line 109.
+
+
+LaTeX Warning: Citation `Bogner.2014' on page 1 undefined on input line 111.
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 100--114
+[]\OT1/ptm/m/n/10 The aim thereby is to iden-tify the tech-nolo-gies
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 100--114
+\OT1/ptm/m/n/10 used in OS-INT ap-pli-ca-tions and to present them
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 100--114
+\OT1/ptm/m/n/10 sys-tem-at-i-cally in a trend radar, ac-cord-ing to their
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 100--114
+\OT1/ptm/m/n/10 char-ac-ter-is-tics. Through ex-pert in-ter-views, the
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
+
+
+
+]
+
+LaTeX Warning: Citation `Williams.2018' on page 2 undefined on input line 121.
+
+
+LaTeX Warning: Citation `AlKilani.2021' on page 2 undefined on input line 123.
+
+
+LaTeX Warning: Citation `Ghioni.2023' on page 2 undefined on input line 123.
+
+
+LaTeX Warning: Citation `Williams.2018' on page 2 undefined on input line 123.
+
+
+LaTeX Warning: Citation `AlKilani.2021' on page 2 undefined on input line 126.
+
+
+LaTeX Warning: Citation `Benes.2013' on page 2 undefined on input line 126.
+
+
+LaTeX Warning: Citation `Chen.2012' on page 2 undefined on input line 126.
+
+
+LaTeX Warning: Citation `Williams.2018' on page 2 undefined on input line 126.
+
+
+LaTeX Warning: Citation `DosPassos.2017' on page 2 undefined on input line 127.
+
+
+LaTeX Warning: Citation `Bohm.2021' on page 2 undefined on input line 134.
+
+
+LaTeX Warning: Citation `Mercado.2005' on page 2 undefined on input line 134.
+
+
+LaTeX Warning: Citation `AlKilani.2021' on page 2 undefined on input line 136.
+
+
+LaTeX Warning: Citation `Dokman.2020' on page 2 undefined on input line 136.
+
+
+LaTeX Warning: Citation `Ghioni.2023' on page 2 undefined on input line 136.
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 120--139
+[]\OT1/ptm/m/n/10 Despite nu-mer-ous at-tempts to de-fine OS-INT, it
+ []
+
+
+Underfull \hbox (badness 3623) in paragraph at lines 120--139
+\OT1/ptm/m/n/10 of the re-sult-ing im-proved record-ing and anal-y-sis
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 120--139
+\OT1/ptm/m/n/10 pos-si-bil-i-ties [[], [], []]. In ad-di-tion, ad-vances in
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 120--139
+\OT1/ptm/m/n/10 OS-INT, [...] also ap-plies the proven pro-cess of
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 120--139
+\OT1/ptm/m/n/10 to-day the dis-ci-pline is no longer seen as a purely
+ []
+
+
+LaTeX Warning: Citation `Gibson.2016' on page 2 undefined on input line 143.
+
+
+LaTeX Warning: Citation `DosPassos.2017' on page 2 undefined on input line 144.
+
+
+LaTeX Warning: Citation `Burke.2007' on page 2 undefined on input line 145.
+
+
+LaTeX Warning: Citation `Schaurer.2010' on page 2 undefined on input line 146.
+
+
+LaTeX Warning: Citation `NorthAtlanticTreatyOrganization.2001' on page 2 undefined on input line 146.
+
+
+LaTeX Warning: Citation `Bohm.2021' on page 2 undefined on input line 147.
+
+
+LaTeX Warning: Citation `Williams.2018' on page 2 undefined on input line 148.
+
+
+LaTeX Warning: Citation `NorthAtlanticTreatyOrganization.2001' on page 2 undefined on input line 148.
+
+
+LaTeX Warning: Citation `JointChiefsofStaffU.S.Army.2013' on page 2 undefined on input line 148.
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 142--150
+[]\OT1/ptm/m/n/10 The start-ing point for all OS-INT ac-tiv-i-ties lies
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 142--150
+\OT1/ptm/m/n/10 that is openly avail-able [[]] as well as legally and
+ []
+
+
+Underfull \vbox (badness 1389) has occurred while \output is active []
+
+
+
+LaTeX Warning: Citation `Williams.2018' on page 2 undefined on input line 154.
+
+
+LaTeX Warning: Citation `DosPassos.2017' on page 2 undefined on input line 157.
+
+
+LaTeX Warning: Citation `NorthAtlanticTreatyOrganization.2001' on page 2 undefined on input line 157.
+
+
+LaTeX Warning: Citation `Schaurer.2010' on page 2 undefined on input line 158.
+
+
+LaTeX Warning: Citation `DosPassos.2017' on page 2 undefined on input line 159.
+
+
+LaTeX Warning: Citation `Schaurer.2010' on page 2 undefined on input line 159.
+
+
+LaTeX Warning: Citation `Hwang.2022' on page 2 undefined on input line 163.
+
+
+LaTeX Warning: Citation `Dokman.2020' on page 2 undefined on input line 163.
+
+
+LaTeX Warning: Citation `Breakspear.2013' on page 2 undefined on input line 165.
+
+
+LaTeX Warning: Citation `May.2020' on page 2 undefined on input line 165.
+
+
+LaTeX Warning: Citation `HerreraCubides.2020' on page 2 undefined on input line 167.
+
+
+LaTeX Warning: Citation `CentralIntelligenceAgency.1987' on page 2 undefined on input line 167.
+
+
+LaTeX Warning: Citation `Reuser.2017' on page 2 undefined on input line 169.
+
+
+LaTeX Warning: Citation `Dokman.2020' on page 2 undefined on input line 169.
+
+
+LaTeX Warning: Citation `DirectorofNationalIntelligence.2011' on page 2 undefined on input line 170.
+
+
+LaTeX Warning: Citation `CentralIntelligenceAgency.1987' on page 2 undefined on input line 171.
+
+
+LaTeX Warning: Citation `CentralIntelligenceAgency.2023' on page 2 undefined on input line 171.
+
+
+LaTeX Warning: Citation `CentralIntelligenceAgency.1987' on page 2 undefined on input line 174.
+
+
+LaTeX Warning: Citation `JointChiefsofStaffU.S.Army.2013' on page 2 undefined on input line 176.
+
+
+LaTeX Warning: Citation `Pellissier.2013' on page 2 undefined on input line 176.
+
+
+LaTeX Warning: Citation `Dokman.2020' on page 2 undefined on input line 177.
+
+
+LaTeX Warning: Citation `Gibson.2016' on page 2 undefined on input line 177.
+
+
+LaTeX Warning: Citation `Gibson.2016' on page 2 undefined on input line 179.
+
+
+LaTeX Warning: Citation `JointChiefsofStaffU.S.Army.2013' on page 2 undefined on input line 181.
+
+
+LaTeX Warning: Citation `Lowenthal.2020' on page 2 undefined on input line 183.
+
+
+LaTeX Warning: Citation `Phythian.2013' on page 2 undefined on input line 183.
+
+
+LaTeX Warning: Citation `Johnston.2005' on page 2 undefined on input line 183.
+
+
+LaTeX Warning: Citation `Bohm.2021' on page 2 undefined on input line 184.
+
+
+LaTeX Warning: Citation `Reuser.2017' on page 2 undefined on input line 184.
+
+
+LaTeX Warning: Citation `Breakspear.2013' on page 2 undefined on input line 186.
+
+
+LaTeX Warning: Citation `Hwang.2022' on page 2 undefined on input line 187.
+
+
+LaTeX Warning: Citation `Lowenthal.2020' on page 2 undefined on input line 189.
+
+
+LaTeX Warning: Citation `NorthAtlanticTreatyOrganization.2001' on page 2 undefined on input line 189.
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 163--190
+\OT1/ptm/m/n/10 in-tel-li-gence dis-ci-pline, re-gard-less of the un-der-ly-ing
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 163--190
+\OT1/ptm/m/n/10 link be-tween the phases is that the re-sult of the
+ []
+
+[2]
+
+LaTeX Warning: Citation `DepartmentoftheArmy.2012' on page 3 undefined on input line 194.
+
+
+LaTeX Warning: Citation `JointChiefsofStaffU.S.Army.2013' on page 3 undefined on input line 196.
+
+
+LaTeX Warning: Citation `DepartmentoftheArmy.2012' on page 3 undefined on input line 196.
+
+
+LaTeX Warning: Citation `CentralIntelligenceAgency.1987' on page 3 undefined on input line 197.
+
+
+LaTeX Warning: Citation `CentralIntelligenceAgency.1987' on page 3 undefined on input line 198.
+
+
+LaTeX Warning: Citation `NorthAtlanticTreatyOrganization.2001' on page 3 undefined on input line 200.
+
+
+LaTeX Warning: Citation `PastorGalindo.2020' on page 3 undefined on input line 201.
+
+
+LaTeX Warning: Citation `DirectorofNationalIntelligence.2011' on page 3 undefined on input line 203.
+
+
+LaTeX Warning: Citation `JointChiefsofStaffU.S.Army.2013' on page 3 undefined on input line 203.
+
+
+LaTeX Warning: Citation `PastorGalindo.2020' on page 3 undefined on input line 203.
+
+
+LaTeX Warning: Citation `' on page 3 undefined on input line 203.
+
+
+LaTeX Warning: Citation `DepartmentoftheArmy.2012' on page 3 undefined on input line 206.
+
+
+LaTeX Warning: Citation `Hwang.2022' on page 3 undefined on input line 206.
+
+
+LaTeX Warning: Citation `NorthAtlanticTreatyOrganization.2001' on page 3 undefined on input line 206.
+
+
+LaTeX Warning: Citation `CentralIntelligenceAgency.2023' on page 3 undefined on input line 208.
+
+
+LaTeX Warning: Citation `DepartmentoftheArmy.2012' on page 3 undefined on input line 208.
+
+
+LaTeX Warning: Citation `Williams.2018' on page 3 undefined on input line 208.
+
+
+LaTeX Warning: Citation `DepartmentoftheArmy.2012' on page 3 undefined on input line 210.
+
+
+LaTeX Warning: Citation `Lowenthal.2020' on page 3 undefined on input line 211.
+
+
+LaTeX Warning: Citation `DirectorofNationalIntelligence.2011' on page 3 undefined on input line 214.
+
+
+LaTeX Warning: Citation `JointChiefsofStaffU.S.Army.2013' on page 3 undefined on input line 214.
+
+
+LaTeX Warning: Citation `NorthAtlanticTreatyOrganization.2001' on page 3 undefined on input line 214.
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 192--215
+[]\OT1/ptm/m/n/10 The plan-ning and di-rec-tion phase com-bines the
+ []
+
+
+Underfull \hbox (badness 5533) in paragraph at lines 192--215
+\OT1/ptm/m/n/10 iden-ti-fi-ca-tion, def-i-ni-tion and pri-or-i-ti-za-tion of the
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 192--215
+\OT1/ptm/m/n/10 It is also re-spon-si-ble for de-vel-op-ing the ac-tiv-i-ties
+ []
+
+
+LaTeX Warning: Citation `DosPassos.2017' on page 3 undefined on input line 219.
+
+
+LaTeX Warning: Citation `PastorGalindo.2019' on page 3 undefined on input line 223.
+
+
+LaTeX Warning: Citation `PastorGalindo.2020' on page 3 undefined on input line 223.
+
+
+LaTeX Warning: Citation `GarciaLozano.2020' on page 3 undefined on input line 230.
+
+
+LaTeX Warning: Citation `HerreraCubides.2020' on page 3 undefined on input line 232.
+
+
+LaTeX Warning: Citation `Yogish.2021' on page 3 undefined on input line 235.
+
+
+LaTeX Warning: Citation `Hwang.2022' on page 3 undefined on input line 239.
+
+
+LaTeX Warning: Citation `Ghioni.2023' on page 3 undefined on input line 243.
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 218--247
+\OT1/ptm/m/n/10 of in-cor-po-rat-ing OS-INT into ev-ery-day life in his
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 218--247
+\OT1/ptm/m/n/10 is used in the three spheres of so-cial opin-ion and
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 218--247
+\OT1/ptm/m/n/10 as well as cy-ber-se-cu-rity and cy-ber de-fense. Two
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 218--247
+\OT1/ptm/m/n/10 and ed-u-ca-tional ma-te-ri-als in the field of OS-INT
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 218--247
+\OT1/ptm/m/n/10 has de-vel-oped. They con-cluded that the num-ber
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 218--247
+\OT1/ptm/m/n/10 top-ics. Fi-nally, in 2021, Yo-gish and Kr-ishna [[]]
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 218--247
+\OT1/ptm/m/n/10 (Ar-ti-fi-cial In-tel-li-gence) tech-nolo-gies in the con-text
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 218--247
+\OT1/ptm/m/n/10 re-view on se-cu-rity trends and in-ves-ti-gated se-cu-rity
+ []
+
+
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+
+
+LaTeX Warning: Citation `Peffers.2007' on page 3 undefined on input line 251.
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 266--287
+\OT1/ptm/m/n/10 a pro-ce-du-ral struc-ture that re-flects the pro-cess of
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 266--287
+\OT1/ptm/m/n/10 will al-low a struc-tured map-ping of the iden-ti-fied
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 266--287
+\OT1/ptm/m/n/10 struc-ture in or-der to pro-vide an easy-to-understand
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 266--287
+\OT1/ptm/m/n/10 knowl-edge base for the im-me-di-ate iden-ti-fi-ca-tion of
+ []
+
+[3]
+
+LaTeX Warning: Citation `Sonnenberg' on page 4 undefined on input line 297.
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 290--298
+[]\OT1/ptm/m/n/10 In the the-o-ret-i-cal back-ground sec-tion, the main
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 290--298
+\OT1/ptm/m/n/10 the pre-sen-ta-tion of pre-vi-ous re-search work showed
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 290--298
+\OT1/ptm/m/n/10 that there is still a lack of com-pre-hen-sive stud-ies
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 301--314
+[]\OT1/ptm/m/n/10 The third ac-tiv-ity in-volves the cre-ation of the
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 301--314
+\OT1/ptm/m/n/10 ar-ti-fact. For this pur-pose, the rel-e-vant lit-er-a-ture
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 301--314
+\OT1/ptm/m/n/10 es-tab-lish con-cept ma-tri-ces, based on the model of
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 315--329
+[]\OT1/ptm/m/n/10 The fol-low-ing six cat-e-gories were de-fined with
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 315--329
+\OT1/ptm/m/n/10 re-gard to the sur-vey phase: "Use case", "Data",
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 315--329
+\OT1/ptm/m/n/10 "Pro-cess", "Tech-nol-ogy", "Tech-nol-ogy com-plex-ity"
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 315--329
+\OT1/ptm/m/n/10 and "Ma-tu-rity level". First of all, the use cases
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 315--329
+\OT1/ptm/m/n/10 of the data foun-da-tion. There-fore, it is fur-ther
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--334
+[]\OT1/ptm/m/n/10 The fourth cat-e-gory serves to cap-ture the
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 330--334
+\OT1/ptm/m/n/10 tech-nolo-gies, ac-cord-ing to Bleck's def-i-ni-tion [49],
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 330--334
+\OT1/ptm/m/n/10 de-fined as "the to-tal-ity of ma-te-rial and im-ma-te-rial
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 330--334
+\OT1/ptm/m/n/10 means avail-able for the in-put, out-put, con-ver-sion,
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 335--342
+\OT1/ptm/m/n/10 tech-nolo-gies ex-am-ined. For the col-lec-tion phase,
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 335--342
+\OT1/ptm/m/n/10 "Ve-loc-ity" were used [50-52]. Va-ri-ety is fur-ther
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 348--354
+\OT1/ptm/m/n/10 anal-y-sis, pre-dic-tive anal-y-sis through to pre-scrip-tive
+ []
+
+[4]
+Underfull \hbox (badness 1163) in paragraph at lines 369--380
+\OT1/ptm/m/n/10 was cre-ated for each In-tel-li-gence Cy-cle phase and
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 369--380
+\OT1/ptm/m/n/10 the OS-INT tech-nolo-gies and their char-ac-ter-is-tics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--380
+\OT1/ptm/m/n/10 me-thod-i-cally recorded [24,47]. The iden-ti-fied
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 383--401
+[]\OT1/ptm/m/n/10 The in-tel-li-gence cy-cles as the ba-sis of the
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 383--401
+\OT1/ptm/m/n/10 (Break-s-pear, 2013, p. 689 f.). This meets the
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 383--401
+\OT1/ptm/m/n/10 ("sim-plic-ity") of tech-nolo-gies and re-search gaps.
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 383--401
+\OT1/ptm/m/n/10 is used. More-over, with the con-cept ma-tri-ces, a
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 383--401
+\OT1/ptm/m/n/10 pos-si-ble de-gree of stan-dard-iza-tion ("com-mon-al-ity").
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 383--401
+\OT1/ptm/m/n/10 cri-te-ria, ac-cord-ing to Son-nen-berg and vom Brocke
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 404--411
+[]\OT1/ptm/m/n/10 Next, the trend radar was demon-strated in the
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 404--411
+\OT1/ptm/m/n/10 con-text of guided, sys-tem-atiz-ing ex-pert in-ter-views.
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 412--422
+\OT1/ptm/m/n/10 to the method of the-o-ret-i-cal sam-pling [68,69]. It
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 412--422
+\OT1/ptm/m/n/10 Meuser and Nagel [70], an ex-pert was con-sid-ered
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 443--455
+\OT1/ptm/m/n/10 ("ef-fec-tive-ness"). In ad-di-tion, they con-firmed its
+ []
+
+
+Underfull \hbox (badness 4927) in paragraph at lines 443--455
+\OT1/ptm/m/n/10 E3, 28.07.2023; ex-pert E4, 02.08.2023). The
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 443--455
+\OT1/ptm/m/n/10 de-sign of the trend radar thus proved to be a
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 443--455
+\OT1/ptm/m/n/10 suit-able in-stru-ment for iden-ti-fy-ing re-search gaps in
+ []
+
+
+Underfull \hbox (badness 3323) in paragraph at lines 443--455
+\OT1/ptm/m/n/10 theory-practice com-par-isons and for serv-ing as a
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 443--455
+\OT1/ptm/m/n/10 guide-line to prac-ti-tion-ers ("fi-delity with real world
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 443--455
+\OT1/ptm/m/n/10 phe-nomenon"). The es-sen-tial eval-u-a-tion cri-te-ria,
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 458--465
+\OT1/ptm/m/n/10 the in-for-ma-tion con-tained in the in-ter-views on the
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 458--465
+\OT1/ptm/m/n/10 ba-sis of a pre-de-fined search grid. This en-ables
+ []
+
+
+Underfull \vbox (badness 1931) has occurred while \output is active []
+
+ [5]
+Underfull \hbox (badness 1845) in paragraph at lines 466--480
+[]\OT1/ptm/m/n/10 First, the recorded in-ter-views were tran-scribed.
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 466--480
+\OT1/ptm/m/n/10 the sub-se-quent cat-e-go-riza-tion and anal-y-sis. The
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 466--480
+\OT1/ptm/m/n/10 were of a gen-eral na-ture, the cat-e-gory "Gen-eral
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 492.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 1147) in paragraph at lines 495--496
+[]\OT1/ptm/m/n/10 Grayscale Im-ages: Bicu-bic Down-sam-pling at
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
+[]\OT1/ptm/m/n/10 Compression for Grayscale Im-ages:
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 501--502
+[]\OT1/ptm/m/n/10 If your pa-per con-tains many large im-ages they
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--507
+[]\OT1/ptm/m/n/10 Type your main text in 10-point Times,
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 505--507
+\OT1/ptm/m/n/10 single-spaced. Do not use double-spacing. All
+ []
+
+
+/workspaces/osint_trendradar/hicss.tex:513: LaTeX Error: File `sample-image' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.513 ..., clip,width=0.9\linewidth]{sample-image}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 515.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 515.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
+ \OT1/ptm/b/n/10 6.1.1. Third-order head-ings. []  \OT1/ptm/m/n/10 Third-order
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 529--530
+\OT1/ptm/m/n/10 head-ings, as in this para-graph, are dis-cour-aged.
+ []
+
+[6]
+
+LaTeX Warning: Citation `Jones2015' on page 7 undefined on input line 564.
+
+
+LaTeX Warning: Citation `Smith2015' on page 7 undefined on input line 564.
+
+
+LaTeX Warning: Citation `Smith2015' on page 7 undefined on input line 564.
+
+No file hicss.bbl.
+[7
+
+] (./hicss.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2206 strings out of 475237
+ 36282 string characters out of 5764559
+ 1934244 words of memory out of 5000000
+ 23437 multiletter control sequences out of 15000+600000
+ 570888 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,13n,68p,524b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on hicss.pdf (7 pages, 90947 bytes).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
