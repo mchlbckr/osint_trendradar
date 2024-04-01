@@ -126,4 +126,94 @@ Hevner, March, Park, and Ram, ``Design science in information systems research,'
 \bibitem{Sonnenberg.2012}
 C.~Sonnenberg and J.~{vom Brocke}, ``Evaluations in the science of the artificial -- reconsidering the build-evaluate pattern in design science research,'' in {\em Design Science Research in Information}, vol.~7286, pp.~381--397, 2012.
 
+\bibitem{Cleven.2009}
+A.~Cleven, B.~Niehaves, R.~Plattfaut, K.~Riemer, A.~Simons, and {vom Brocke, Jan, Martin Hilti}, ``Reconstructing the giant: On the importance of rigour in documenting the literature search process.''
+
+\bibitem{Cooper.1988}
+H.~M. Cooper, ``Organizing knowledge syntheses: A taxonomy of literature reviews,'' {\em Knowledge in Society}, vol.~1, no.~1, pp.~104--126, 1988.
+
+\bibitem{Duncheon.2002}
+C.~Duncheon, ``Product miniaturization requires automation -- but with a strategy,'' {\em Assembly Automation}, vol.~22, no.~1, pp.~16--20, 2002.
+
+\bibitem{Billings.1997}
+C.~E. Billings, {\em Aviation automation: The search for a human-centered approach}.
+\newblock Human factors in transportation, Mahwah, N.J: {Lawrence Erlbaum Associates Publishers}, 1997.
+
+\bibitem{Endsley.1999}
+M.~R. Endsley and D.~B. Kaber, ``Level of automation effects on performance, situation awareness and workload in a dynamic control task,'' {\em Ergonomics}, vol.~42, no.~3, pp.~462--492, 1999.
+
+\bibitem{Sheridan.1978}
+T.~B. Sheridan and W.~L. Verplank, ``Human and computer control of undersea teleoperators.''
+
+\bibitem{Parasuraman.2000}
+R.~Parasuraman, T.~B. Sheridan, and C.~D. Wickens, ``A model for types and levels of human interaction with automation,'' {\em IEEE transactions on systems, man, and cybernetics. Part A, Systems and humans : a publication of the IEEE Systems, Man, and Cybernetics Society}, vol.~30, no.~3, pp.~286--297, 2000.
+
+\bibitem{Bleck.2004}
+S.~Bleck, {\em Entwicklung einer Methodik zur integrierten Planung von Informationstechnologie-Einsatz und intermedi{\"a}ren Informationsdienstleistungen im elektronischen Gesch{\"a}ftsverkehr: Zugl.: Aachen, Techn. Hochsch., Diss., 2004}, vol.~72 of {\em Schriftenreihe Rationalisierung und Humanisierung}.
+\newblock Aachen: Shaker, 2004.
+
+\bibitem{OLeary.2012}
+D.~E. O'Leary, ``Artificial intelligence and big data,'' {\em iEEE iNTElliGENT SYSTEMS}, 2012.
+
+\bibitem{Elgendy.}
+N.~Elgendy and A.~Elragal, ``Big data analytics: A literature review paper,'' in {\em Advances in Data Mining}, vol.~8557, pp.~214--227.
+
+\bibitem{Russom.2011}
+P.~Russom, ``Big data analytics.''
+
+\bibitem{Singh.2012}
+S.~Singh and N.~Singh, ``Big data analytics.''
+
+\bibitem{Lin.2018}
+Y.~Lin, Z.~Jun, M.~Hongyan, Z.~Zhongwei, and F.~Zhanfang, ``A method of extracting the semi-structured data implication rules,'' {\em Procedia Computer Science}, vol.~131, pp.~706--716, 2018.
+
+\bibitem{Katal.2013}
+A.~Katal, M.~Wazid, and R.~H. Goudar, ``Big data: Issues, challenges, tools and good practices,'' in {\em 2013 Sixth International Conference on Contemporary Computing (IC3)}, pp.~404--409, IEEE, 2013.
+
+\bibitem{Praveen.2020}
+S.~Praveen and U.~Chandra, ``Influence of structured, semi- structured, unstructured data on various data models,'' {\em International Journal of Scientific and Engineering Research}, vol.~12, no.~8, pp.~67--69, 2020.
+
+\bibitem{Carbone.2015}
+P.~Carbone, S.~Ewen, S.~Haridi, A.~Katsifodimos, V.~Markl, and K.~Tzoumas, ``Apache flink: Stream and batch processing in a single engine,'' {\em Bulletin of the IEEE Computer Society Technical Committee on Data Engineering}, vol.~36, no.~4, 2015.
+
+\bibitem{Stankovic.1990}
+J.~A. Stankovic and K.~Ramamritham, ``What is predictability for real-time systems?,'' {\em Real-Time Systems}, vol.~2, no.~4, pp.~247--254, 1990.
+
+\bibitem{Gomes.2021}
+E.~Gomes, F.~Costa, C.~de~Rolt, P.~Plentz, and M.~Dantas, ``A survey from real-time to near real-time applications in fog computing environments,'' {\em Telecom}, vol.~2, no.~4, pp.~489--517, 2021.
+
+\bibitem{Stich.2022}
+V.~Stich, M.-F. Stroh, M.~Abbas, K.~Frings, and S.~Kremer, ``Digitalisierung der wirtschaft in deutschland: Technologie- und trendradar 2022.''
+
+\bibitem{Delen.2013}
+D.~Delen and H.~Demirkan, ``Data, information and analytics as services,'' {\em Decision Support Systems}, vol.~55, no.~1, pp.~359--363, 2013.
+
+\bibitem{GartnerGmbH.2012}
+``Magic quadrant for bi platforms: Analytics value escalator.''
+
+\bibitem{Robinson.1970}
+F.~P. Robinson, {\em Effective study}.
+\newblock New York: {Harper {\&} Row}, 4th ed.~ed., 1970.
+
+\bibitem{Glaser.2009}
+J.~Gl{\"a}ser and G.~Laudel, {\em Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}.
+\newblock Lehrbuch, Wiesbaden: {VS Verlag f{\"u}r Sozialwissenschaften}, 3., {\"u}berarb. aufl.~ed., 2009.
+
+\bibitem{Meuser.1991}
+M.~Meuser and U.~Nagel, ``Expertinneninterviews - vielfach erprobt, wenig bedacht: ein beitrag zur qualitativen methodendiskussion,'' pp.~441--471, 1991.
+
+\bibitem{Bogner.2002c}
+A.~Bogner, B.~Littig, and W.~Menz, {\em Das Experteninterview}.
+\newblock Wiesbaden: {VS Verlag f{\"u}r Sozialwissenschaften}, 2002.
+
+\bibitem{Glaser.1967}
+B.~G. Glaser and A.~L. Strauss, {\em The discovery of grounded theory: Strategies for qualitative research}.
+\newblock Observations, New York, NY: Aldine, 1967.
+
+\bibitem{Eisenhardt.1989}
+K.~M. Eisenhardt, ``Building theories from case study research,'' {\em The Academy of Management Review}, vol.~14, no.~4, p.~532, 1989.
+
+\bibitem{Bogner.2002b}
+A.~Bogner and W.~Menz, ``Das theoriegenerierende experteninterview,'' in {\em Das Experteninterview} (A.~Bogner, B.~Littig, and W.~Menz, eds.), pp.~33--70, Wiesbaden: {VS Verlag f{\"u}r Sozialwissenschaften}, 2002.
+
 \end{thebibliography}

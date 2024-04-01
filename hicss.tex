@@ -249,13 +249,13 @@ respective phase. It will thus be possible to verify if a robust,
 autonomous OSINT system exists. As CO2, it was defined that the key
 characteristics, in particular the maturity level of the technologies
 and their use cases, must be taken into account. The maturity level of
-the technologies makes it possible to determine the respective research status. 
+the technologies makes it possible to determine the respective research status.
 Through the use cases, the research directions can be
 revealed. As FO1, it was determined that the trend radar must follow
 a simple structure to enable the immediate identification of research gaps. In addition,
 the radar should have a high degree of standardization to be
 transferable to other intelligence gathering disciplines in later
-studies. As FO2, it was decided that the trend radar should be continuously expandable 
+studies. As FO2, it was decided that the trend radar should be continuously expandable
 in order to capture the high field dynamics.
 
 \subsection{Evaluation of the Problem Statement and Design Objectives}
@@ -272,12 +272,13 @@ evaluation criteria \cite{Sonnenberg.2012}.
 \subsection{Design and Development}
 
 The third activity involves the creation of the artifact. For this
-purpose, the relevant literature on OSINT was analyzed by means of a
-systematic literature review, following the guidelines of
-Cleven et al [47]. To clearly determine the scope of the literature
-review, Cooper's taxonomy [48] was used. Subsequently, classification
-categories were defined to establish concept matrices, based on the
-model of Webster and Watson [24], for systematically analyzing the
+purpose, the relevant literature on OSINT was analyzed through a
+systematic literature review \cite{Cleven.2009}.
+
+To clearly define the scope of the literature
+review, Cooper's taxonomy \cite{Cooper.1988} was used. Subsequently, classification
+categories were defined to establish concept matrices \cite{Webster.2002},
+to systematically analyze the
 researched literature. To achieve a high degree of standardization,
 general categories were defined for each phase of the intelligence
 cycle. Thereby, the categories of the collection phase differ from
@@ -285,113 +286,103 @@ those of the remaining phases, as the data basis is also considered
 here. The evaluation and feedback phase was not treated separately due
 to its iterative nature.
 
-The following six categories were defined with regard to the survey
+The following six categories were defined for the collection
 phase: "Use case", "Data", "Process", "Technology", "Technology
-complexity" and "Maturity level". First of all, the use cases were
-used to record the area of application of the technologies. The
+complexity" and "Maturity level". First, the area of application
+of the technologies was recorded under the use case. The
 category data reveals the composition of the data foundation. Therefore,
 it is further subdivided into the data type to record the formats and
-the source to show the origin of the data. The third category, the
-process, is used to determine the degree of automation or
+the source to show the origin of the data. The category
+process is used to determine the degree of automation or
 autonomization of the technologies. For this purpose, the following
 four levels were defined: manual, semi-automated, automated,
-[Duncheon 2002] fully automated/autonomous
-[Billing 1997, Endsley and Kaber 1999]. To improve categorization,
-the ten levels of automation
-    [Sheridan and Verplank 1978, Parasurama 2000] were additionally used.
-
-The fourth category serves to capture the technologies, according to
-Bleck's definition [49], defined as "the totality of material and
-immaterial means available for the input, output, conversion,
-transmission and storage of information".
-
+\cite{Duncheon.2002} fully automated/autonomous \cite{Billings.1997,Endsley.1999}.
+To improve categorization, the ten levels of automation \cite{Sheridan.1978,Parasuraman.2000}
+were additionally used. The fourth category serves to capture the technologies, defined
+as "the totality of material and immaterial means available for
+the input, output, conversion, transmission and storage of information" \cite{Bleck.2004}.
 The fifth category evaluates the complexity of the technologies
 examined. For the collection phase, the three subcategories
-"Volume"[53], "Variety" and "Velocity" were used [50-52]. Variety
-is further subdivided according to the data structure (structured
-    [54], semi-structured and unstructured [55,56]) [53]. Velocity,
-is further subdivided into the levels "Batch" [58], "Near Real-Time"
-[59,60] and "Real-Time" [59].
+"Volume" \cite{OLeary.2012}, "Variety" and "Velocity" were used \cite{Elgendy.,Russom.2011,Singh.2012}.
+Variety is further subdivided according to the data structure (structured \cite{Lin.2018},
+semi-structured and unstructured \cite{Katal.2013,Praveen.2020})\cite{OLeary.2012}. Velocity,
+is further subdivided into the levels "Batch" \cite{Carbone.2015}, "Near Real-Time"
+\cite{Stankovic.1990,Gomes.2021} and "Real-Time" \cite{Stankovic.1990}. The sixth category reflects the
+maturity level of the technologies used, based on the three macro-maturity phases of the
+German Federal Trend Radar: the innovation phase, the prototype phase and
+the market establishment phase \cite{Stich.2022}.
 
-The sixth category reflects the maturity level of the technologies used.
-For this purpose, the three macro-maturity phases of the German Federal
-Trend Radar are used: the innovation phase, the prototype phase and
-the market establishment phase [61].
-
-For the remaining phases of the intelligence cycle, the categories use
-case, process, technology, technology complexity and maturity level
+For the remaining phases the categories use case, process,
+technology, technology complexity and maturity level
 were likewise defined. However, the complexity within the remaining
-phases is measured on the basis of the underlying analysis, in
+phases is measured based on the underlying analysis, in
 ascending order: descriptive analysis, diagnostic analysis, predictive
-analysis through to prescriptive analysis [63,64].
+analysis through to prescriptive analysis \cite{Delen.2013,GartnerGmbH.2012}.
 
 After defining the classification criteria, the literature research
-was carried out (see Fig. 15). For this, a search string based on
+was carried out (see Fig. 15). A search string based on
 general terms for the highest possible number of hits was determined.
-The string was then applied to the four databases "Web of Science",
-"IEEE Xplore", "ACM Digital Library" and "arXiv". The search results
-were restricted to publications in German or English. Only studies
+The search results were delimited to publications in German or English. Only studies
 with full access were considered. As the number of publications
 increased significantly between 2020 and 2023, the period was reduced
 to these years to ensure the most up-to-date coverage possible.
 The studies were downloaded on 05.06.2023 (see Appendix D.B). The
-SQR3 method [65] was applied for the systematic analysis and further
+SQR3 method \cite{Robinson.1970} was applied for the systematic analysis and further
 delimitation. Altogether 60 studies were categorized following this
 procedure.
 
-For categorization, a dedicated Excel spreadsheet was created for each
+For categorization, a dedicated Excel spreadsheet was created per
 Intelligence Cycle phase and the OSINT technologies and their
-characteristics methodically recorded [24,47]. The identified
+characteristics were methodically recorded \cite{Cleven.2009, Webster.2002}. The identified
 technologies were then grouped according to related technologies in an
-additional Excel column to enable the clear final illustration in the
-trend radar (see Repository X). Afterwards, the categorization was
-reviewed by using a "Python" script (see Appendix A). The script
+additional Excel column (see Repository X). Afterward, the categorization was
+reviewed by using a "Python" script (see Appendix A). This
 queries the occurrence of predefined keywords in the included papers.
-If a deviation was found, the study in question was analyzed again
-(see review matrix X). Finally, the trend radar was created on the
-basis of the concept matrices.
+After the successful review, the trend radar was created on the basis of the concept matrices.
 
 \subsection{Evaluation of the Design Specifications}
 
 The intelligence cycles as the basis of the trend radar provides a
-structured overview ("clarity") (Breakspear, 2013, p. 689 f.). This
-meets the requirement of an intuitively understandable illustration
-("under-standability") for ensuring a simple extraction ("simplicity")
+structured overview ("clarity") \cite{Breakspear.2013}. This
+fulfills the requirement of an intuitively understandable illustration
+("understandability") for ensuring a simple extraction ("simplicity")
 of technologies and research gaps. Furthermore, the other intelligence
 disciplines are also derived from the cycle, which enables a later
-application to these ("applicability"). In addition, by aligning the
+application to these ("applicability"). By aligning the
 architecture of the radar with the federal government's trend radar
-(cf. Stich et al., 2022, p. 11 f.), a proven, robust, user-friendly
-design ("userfriendliness") with an appropriate level of detail
+\cite{Stich.2022}, a proven, robust, user-friendly
+design ("user-friendliness") with an appropriate level of detail
 ("level of detail") is used. Moreover, with the concept matrices, a
-template is used to constantly update the radar in order to reflect
-the highly dynamic nature of the research topic. Particular attention
-was paid to the general validity of the categories in order to achieve
-the highest possible degree of standardization ("commonality"). The
-categorization was also reviewed using the Python script ("internal
-consistency"). The decisive evaluation criteria, according to
-Sonnenberg and vom Brocke (2012, p. 13), are thus fulfilled.
+template is used to constantly update the radar. Particular attention
+was paid to the general validity of the categories to achieve
+the highest possible degree of standardization ("generality").
+A review of the categorization was carried out ("internal consistency").
+The decisive evaluation criteria \cite{vomBrocke.2020b} are thus fulfilled.
 
 \subsection{Demonstration}
 
-Next, the trend radar was demonstrated in the context of guided,
-systematizing expert interviews. Especially in less structured and
-sparsely linked subject areas, the method enables dense data collection
-    [66,25]. Additionally, it is suitable in cases where access to the
-social field is limited [66,26]. The execution thereby follows the
-concepts of Bogner et al [25], Meuser and Nagel [67] and Gläser and
-Laudel [26].
+Next, the trend radar was demonstrated in the context of guideline-based,
+systematizing expert interviews \cite{Bogner.2014, Glaser.2009, Meuser.1991}.
+Especially in less structured and sparsely linked subject areas, the method
+enables dense data collection \cite{Bogner.2014,Meuser.1991}. Additionally,
+it is suitable in cases where access to the social field is limited \cite{Bogner.2002c, Glaser.2009}.
 
 The experts (see Tab. 1) were selected according to the method of
-theoretical sampling [68,69]. It was specified that only experts in
-Germany should be interviewed in order to validate the trends in this
-country. Furthermore, it was determined that at least one expert each
-from a security authority, the established security industry and a
-start-up would be selected in order to capture different points of
-view. Following Meuser and Nagel [70], an expert was considered to be
-someone with a knowledge advantage in the specific area of interest.
-A "prestigious" company position is they regarded as a reliable
-guarantee that the respondents possess research-relevant knowledge [72].
+theoretical sampling \cite{Glaser.1967,Eisenhardt.1989}. It was specified that only experts in
+Germany should be interviewed to validate the trends in this
+country. It was also determined that at least one expert each
+from a security authority, the security industry and a
+start-up would be selected to capture different points of
+view. A "prestigious" company position is seen as a reliable
+guarantee that the respondents possess research-relevant knowledge \cite{Bogner.2002b}.
+
+\begin{tabular}[h]{r}
+Organization & Position & Abbreviation \\
+Industry/Authority & Senior Intelligence Consultant & E1 \\
+Industry/Authority & Referent Corporate Security & E2 \\
+Authority & In-House Senior Consultant & E3 \\
+Start-up & Co-Founder, Managing Director of a German start-up, for an OSINT platform & E4 \\
+\end{tabular}
 
 The qualitative data collection that followed was carried out using
 semi-structured interviews. These are particularly suitable for
