@@ -15,9 +15,6 @@ J.~Pastor-Galindo, P.~Nespoli, F.~{Gomez Marmol}, and G.~{Martinez Perez}, ``Osi
 \bibitem{Schaurer.2010}
 F.~Schaurer and J.~St{\"o}rger, ``The evolution of open source intelligence.''
 
-\bibitem{Burke.2007}
-C.~Burke, ``Freeing knowledge, telling secrets: Open sourceintelligence and development,'' {\em Research paper series: Centre for East-West Cultural {\&} Economic Studies}, no.~13, 2007.
-
 \bibitem{Hwang.2022}
 Y.-W. Hwang, I.-Y. Lee, H.~Kim, H.~Lee, and D.~Kim, ``Current status and security trend of osint,'' {\em Wireless Communications and Mobile Computing}, vol.~2022, pp.~1--14, 2022.
 
@@ -41,9 +38,6 @@ H.~J. Williams and I.~Blum, {\em Defining Second Generation Open Source Intellig
 \bibitem{Dokman.2020}
 T.~Dokman and T.~Ivanjko, ``Open source intelligence (osint): issues and trends,'' in {\em INFuture2019: Knowledge in the Digital Age}, International Conference The Future of Information Sciences INFuture, {Faculty of Humanities and Social Sciences, University of Zagreb Department of Information and Communication Sciences, FF press}, 2020.
 
-\bibitem{Benes.2013}
-L.~Benes, ``Osint, new technologies, education: Expanding opportunities and threats. a new paradigm,'' {\em Journal of Strategic Security}, vol.~6, no.~3Suppl, pp.~22--37, 2013.
-
 \bibitem{HerreraCubides.2020}
 J.~F. Herrera-Cubides, P.~A. Gaona-Garc{\'i}a, and S.~S{\'a}nchez-Alonso, ``Open-source intelligence educational resources: A visual perspective analysis,'' {\em Applied Sciences}, vol.~10, no.~21, p.~7617, 2020.
 
@@ -53,15 +47,15 @@ H.~AlKilani and A.~Qusef, ``Osint techniques integration with risk assessment is
 \bibitem{Peffers.2007}
 K.~Peffers, T.~Tuunanen, M.~A. Rothenberger, and S.~Chatterjee, ``A design science research methodology for information systems research,'' {\em Journal of Management Information Systems}, vol.~24, no.~3, pp.~45--77, 2007.
 
-\bibitem{vomBrocke.2020b}
-J.~{vom Brocke}, A.~Hevner, and A.~Maedche, ``Introduction to design science research,'' in {\em Design Science Research. Cases} (J.~{vom Brocke}, A.~Hevner, and A.~Maedche, eds.), Progress in IS, pp.~1--13, Cham: {Springer International Publishing}, 2020.
-
 \bibitem{Webster.2002}
 J.~Webster, Watson, and {T. Richard}, ``Analyzing the past to prepare for the future: Writing a literature review,'' {\em MIS Quarterly}, vol.~26, pp.~xiii--xxiii, 2002.
 
 \bibitem{Bogner.2014}
 A.~Bogner, B.~Littig, and W.~Menz, {\em Interviews mit Experten: Eine praxisorientierte Einf{\"u}hrung}.
 \newblock Wiesbaden: {Springer Fachmedien Wiesbaden}, 2014.
+
+\bibitem{Benes.2013}
+L.~Benes, ``Osint, new technologies, education: Expanding opportunities and threats. a new paradigm,'' {\em Journal of Strategic Security}, vol.~6, no.~3Suppl, pp.~22--37, 2013.
 
 \bibitem{Chen.2012}
 Chen, Chiang, and Storey, ``Business intelligence and analytics: From big data to big impact,'' {\em MIS Quarterly}, vol.~36, no.~4, p.~1165, 2012.
@@ -74,6 +68,9 @@ S.~C. Mercado, ``Reexamining the distinction between open information and secret
 
 \bibitem{Gibson.2016}
 H.~Gibson, ``Acquisition and preparation of data for osint investigations,'' in {\em Open Source Intelligence Investigation} (B.~Akhgar, P.~S. Bayerl, and F.~Sampson, eds.), Advanced Sciences and Technologies for Security Applications, pp.~69--93, Cham: {Springer International Publishing}, 2016.
+
+\bibitem{Burke.2007}
+C.~Burke, ``Freeing knowledge, telling secrets: Open sourceintelligence and development,'' {\em Research paper series: Centre for East-West Cultural {\&} Economic Studies}, no.~13, 2007.
 
 \bibitem{NorthAtlanticTreatyOrganization.2001}
 ``Nato open source intelligence handbook.''
@@ -96,9 +93,6 @@ A.~Reuser, ``The ris open source intelligence cycle,'' {\em Journal of Mediterra
 \bibitem{DirectorofNationalIntelligence.2011}
 ``U.s. national intelligence: An overview 2011.''
 
-\bibitem{CentralIntelligenceAgency.2023}
-``The intelligence cycle: Briefing.''
-
 \bibitem{Pellissier.2013}
 R.~Pellissier and T.~E. Nenzhelele, ``Towards a universal competitive intelligence process model,'' {\em SA Journal of Information Management}, vol.~15, no.~2, 2013.
 
@@ -116,6 +110,9 @@ R.~Johnston, {\em Analytic culture in the US intelligence community: An ethnogra
 
 \bibitem{DepartmentoftheArmy.2012}
 ``Open-source intelligence.''
+
+\bibitem{CentralIntelligenceAgency.2023}
+``The intelligence cycle: Briefing.''
 
 \bibitem{GarciaLozano.2020}
 M.~{Garc{\'i}a Lozano}, J.~Brynielsson, U.~Franke, M.~Rosell, E.~Tj{\"o}rnhammar, S.~Varga, and V.~Vlassov, ``Veracity assessment of online data,'' {\em Decision Support Systems}, vol.~129, p.~113132, 2020.

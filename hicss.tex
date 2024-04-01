@@ -59,54 +59,46 @@
 
 OSINT is a currently more debated research field than ever before. Obtaining intelligence
 from publicly available data \cite{DosPassos.2017} has become undeniably important since the
-Russian invasion of Ukraine in 2022. In this context, real-time analysis, especially of
-social media, has revealed highly relevant insights \cite{Hatfield.2023, SmithBoyle.24.07.2023}.
-However, OSINT itself is not a new technique \cite{PastorGalindo.2019, Schaurer.2010} but
-one of the oldest intelligence disciplines \cite{Burke.2007}. Despite numerous attempts to
-define OSINT (e.g. \cite{Hwang.2022, PastorGalindo.2020, Yogish.2021}), the concept of
-intelligent analysis remains controversial to this day \cite{Ghioni.2023, Ish.2022,Williams.2018}.
-This is not the least because every definition of OSINT is subject to advances in computer
-and data science, which are continuously developing improvements in (intelligent) collection
-and analysis capabilities \cite{Ghioni.2023, Williams.2018}. Moreover, this is accompanied
-by numerous novel communication channels, which have led to a veritable "information
-explosion" \cite{DosPassos.2017, Hwang.2022, Yogish.2021}. Today's problem therefore no
-longer lies in acquiring information, but in processing its sheer volume \cite{Burke.2007}.
-In addition, technologies originally restricted to defense and intelligence services are
-now accessible to the general public, primarily via the Internet \cite{Hwang.2022, Williams.2018}.
-The understanding of intelligence thus changed completely \cite{Dokman.2020}. At the same
-time, the increasing speed of development makes it almost impossible to predict the future
-shape of OSINT and its consequences \cite{Benes.2013}.
+Russian invasion of Ukraine in 2022. The real-time analysis of social media in particular has
+brought highly relevant findings to light \cite{Hatfield.2023, SmithBoyle.24.07.2023}.
+However, OSINT is not a new technique \cite{PastorGalindo.2019, Schaurer.2010}. However, despite
+numerous attempts to define OSINT (e.g. \cite{Hwang.2022, PastorGalindo.2020, Yogish.2021}),
+the concept remains controversial to this day \cite{Ghioni.2023, Ish.2022,Williams.2018}.
+This is not least due to the fact that every definition of OSINT is subject to the advances
+in computer and data sciences, which continuously produce improvements in (intelligent)
+collection and analysis possibilities \cite{Ghioni.2023, Williams.2018}. In addition, this is
+accompanied by numerous new open means of communication, which have caused a veritable
+"information explosion"\cite{DosPassos.2017, Hwang.2022, Yogish.2021}.
+Data sources that were originally reserved for the defense and intelligence services are
+now also publicly accessible \cite{Hwang.2022, Williams.2018}. The understanding of
+intelligence thus changed completely \cite{Dokman.2020}.
 
-To date, there has been a lack of decisive, fundamental scientific publications to pervade
-the opacity of the subject area \cite{HerreraCubides.2020} and address its rapid
-developments \cite{Ghioni.2023, Williams.2018}. In particular, there is a lack of current
-studies that reveal the actual technologies behind OSINT in detail and determine their
-characteristics. The question of whether "third generation" OSINT systems in the sense of
-robust, self-managing solutions \cite{PastorGalindo.2019, PastorGalindo.2020} already exist
-has therefore not yet been clarified \\cite{Ghioni.2023, PastorGalindo.2020,Yogish.2021}.
+To date, there has been a lack of decisive, fundamental scientific publications to penetrate
+the subject area \cite{HerreraCubides.2020} and address its rapid
+developments \cite{Ghioni.2023, Williams.2018}. In particular, there is a shortage of
+studies that identify the technologies behind OSINT and determine their characteristics.
+The question of whether "third generation" OSINT systems in the sense of
+robust, autonomous \cite{PastorGalindo.2019, PastorGalindo.2020} already exist
+has not yet been clarified \\cite{Ghioni.2023, PastorGalindo.2020,Yogish.2021}.
 Moreover, the majority of studies focus exclusively on analyzing the OSINT trend area "cyber
-security" \cite{Hwang.2022, PastorGalindo.2019, Yogish.2021}. The literature thus missed to
+security" \cite{Hwang.2022, PastorGalindo.2019, Yogish.2021}. The literature thus failed to
 cover the topic in its entirety. Important application scenarios ("use cases") of OSINT have
-therefore remained unconsidered in research to date \cite{AlKilani.2021, Dokman.2020, Ghioni.2023}.
-In addition, supplementary qualitative field research is absent, for example in the form
-of expert interviews, which contrast theory with the corresponding practical implementation.
-Although OSINT has a major impact on topics such as security and defense, there is a lack of
-insight into these sectors \cite{HerreraCubides.2020, PastorGalindo.2019}. This paper is
-hence dedicated to answer the research question:
+therefore not yet been taken into account in research \cite{AlKilani.2021, Dokman.2020, Ghioni.2023}.
+In addition, supplementary qualitative field research is absent to contrast theory with
+the corresponding practical implementation. Although OSINT has a major impact on topics
+such as security and defense, there is a lack of insight into these sectors \cite{HerreraCubides.2020, PastorGalindo.2019}.
+This paper is hence dedicated to answer the research question:
 \textit{How can the current trends in OSINT in the form of the technologies used and their
     characteristics, in particular the maturity level and the use case, be presented in a
     trend radar and validated by experts within the security sector?}
 
 The aim thereby is to identify the technologies used in OSINT applications and to present
 them systematically in a trend radar, according to their characteristics. Through expert
-interviews, the identified trends will then be validated and compared with the common
-practical "reality". In this way, a well-founded knowledge base will be compiled, and
-existing research gaps of practical relevance will be identified. This will enable a
-coordinated exploration of the research field. The structure of this study thereby follows
-the iterative "Design Science Research Model" (DSRM) \cite{Peffers.2007}, an open research
-paradigm for the creation of an innovative artifact \cite{vomBrocke.2020b}. Within this
-framework, the relevant literature on OSINT will first be analyzed and classified using a
-systematic literature review \cite{Webster.2002}. Based on this, the OSINT technologies and
+interviews, trends will then be validated. In this way, a well-founded knowledge base will
+be compiled, and practice-relevant research gaps will be identified for a coordinated examination
+of the research field. The study thereby follows the "Design Science Research Model" (DSRM)
+\cite{Peffers.2007}.  First, the relevant literature on OSINT will be analyzed and classified
+through a systematic literature review \cite{Webster.2002}. Second, the OSINT technologies and
 their characteristics identified will be visualized in the form of a trend radar. The radar
 will then be validated using systematizing interviews \cite{Bogner.2014} conducted with
 experts in the security sector. Finally, the interviews will be evaluated using a
@@ -114,32 +106,29 @@ qualitative content analysis [21].
 
 
 \section{Theoretical Background}
+The domain of OSINT is continuously expanding due to the ongoing development of improved
+collecting and analysis possibilities \cite{AlKilani.2021, Ghioni.2023, Williams.2018}. In
+addition, the new means and methods of communication associated with advances in information
+and communication technology have turned OSINT into a complex discipline
+\cite{AlKilani.2021, Benes.2013, Chen.2012, Williams.2018}. OSINT and its
+components are therefore defined in detail hereinafter.
 
 \subsection{Open Source Intelligence (OSINT)}
 
-Despite numerous attempts to define OSINT, it remains controversial in the literature to
-this day \cite{Williams.2018}. This is mainly because OSINT is largely dependent on the
-developments of advancing computer and data science. Its domain is continuously expanding
-because of the resulting improved recording and analysis possibilities \cite{AlKilani.2021, Ghioni.2023, Williams.2018}.
-In addition, advances in information and communication technology and the associated new
-means of communication have made OSINT an increasingly complex discipline
-\cite{AlKilani.2021, Benes.2013, Chen.2012, Williams.2018}. One of the earliest and still
-frequently referenced definitions \cite{DosPassos.2017} originates from the handbook
-published by NATO in 2001. OSINT according to this definition is information that has been
+One of the earliest and still frequently referenced definitions \cite{DosPassos.2017}
+was published by NATO in 2001. OSINT according to this definition is information that has been
 deliberately discovered, discriminated, distilled, and disseminated to a select audience,
-[...], in order to address a specific question. OSINT, [...] also applies the proven
-process of intelligence to the broad diversity of open sources of information and creates
+[...], in order to address a specific question. OSINT, [...] thus applies the proven
+process of intelligence to the broad diversity of open sources [...] and creates
 intelligence [23]. However, today the discipline is no longer seen as a purely governmental
-matter. Private research institutions and organizations outside the security sector
-\cite{Bohm.2021,Mercado.2005} are also massively driving the development of such systems,
-e.g. for competitive analyses or marketing activities
+matter. Private research institutions and organizations \cite{Bohm.2021,Mercado.2005} are
+also massively driving the development of such systems, e.g. for competitive analyses or marketing activities
 \cite{AlKilani.2021, Dokman.2020,Ghioni.2023}. The focus is thereby shifting to
-developing OSINT into a robust, self-managing solution and fully automating the process
-from data collection to analysis [4,8,9].
+developing OSINT into a robust, autonomous solution [4,8,9].
 
 \subsection{Open Source Data (OSD)}
 
-The starting point for all OSINT activities lies in data. Data forms the basis of the
+The starting point for all OSINT activities is data. Data forms the basis of the
 analysis and the conclusions derived from it \cite{Gibson.2016}. In this context, OSD
 refers to non-processed \cite{DosPassos.2017}, general raw data that is openly available
 \cite{Burke.2007} as well as legally and ethically accessible
@@ -150,44 +139,39 @@ are not excluded.
 
 \subsection{Open Source Information (OSIF)}
 
-OSD are of little use on their own and only become relevant to intelligence when they
+OSD are of little use on their own and only become of (intelligence) relevance when they
 are aggregated \cite{Williams.2018}. Before intelligence can be obtained from them, the
-data must therefore be subjected to a preparation process that includes a certain amount
-of filtering, validation and summarization
-\cite{DosPassos.2017, NorthAtlanticTreatyOrganization.2001}. The result of this organization
-of the data \cite{Schaurer.2010} is referred to as OSINF. It provides the basis for the
-resulting knowledge creation \cite{DosPassos.2017,Schaurer.2010}.
+data must therefore undergo a preparation process that includes filtering, validation and
+summarization \cite{DosPassos.2017, NorthAtlanticTreatyOrganization.2001}. The result of this
+data organization \cite{Schaurer.2010} is referred to as OSINF. It provides the basis for the
+resulting intelligence creation \cite{DosPassos.2017,Schaurer.2010}.
 
 \subsection{Intelligence and Intelligence Cycle}
 
 The core task of OSINT is to generate intelligence \cite{Hwang.2022,Dokman.2020}
-from the condensed information in the sense of a well-founded basis for decision-making
+from the condensed information in the terms of a profound basis for decision-making
 \cite{Breakspear.2013,May.2020}. The generation process of such an intelligence product
-is also referred to synonymously as the intelligence cycle
-\cite{HerreraCubides.2020, CentralIntelligenceAgency.1987}. It represents the central
-element of every intelligence discipline, regardless of the underlying sources or their
-accessibility \cite{Reuser.2017,Dokman.2020}. The representation of the process as a cycle
-\cite{DirectorofNationalIntelligence.2011} goes back to the CIA's "Factbook" published in
-1987 \cite{CentralIntelligenceAgency.1987}. To this day \cite{CentralIntelligenceAgency.2023},
-the CIA defines the process as consisting of five successive phases: Planning and Direction,
-Collection, Processing, Analysis and Production, and Dissemination
-\cite{CentralIntelligenceAgency.1987}. The link between the phases is that the result of the
-preceding phase serves as input for the subsequent phase
-\cite{JointChiefsofStaffU.S.Army.2013,Pellissier.2013}. Similarly, the product of one cycle
-serves as a starting point for refinement in the next \cite{Dokman.2020,Gibson.2016}.
-Furthermore, the individual phases within the cycle are not linear, but are continuously
+is also referred to as the intelligence cycle \cite{HerreraCubides.2020, CentralIntelligenceAgency.1987}.
+It represents the central element of every intelligence discipline \cite{Reuser.2017,Dokman.2020}.
+The representation of the process as a cycle \cite{DirectorofNationalIntelligence.2011} dates
+back to the CIA in 1987 \cite{CentralIntelligenceAgency.1987}. The link between the phases is that
+the result of the preceding phase serves as input for the subsequent phase
+\cite{JointChiefsofStaffU.S.Army.2013,Pellissier.2013}. Furthermore, the individual phases are also continuously
 iterated due to the fulfillment of previous requirements and new demands \cite{Gibson.2016}.
-Accordingly, the JCS supplemented the Intelligence Cycle in 2013 with an evaluation and
-feedback process that is subject to all phases \cite{JointChiefsofStaffU.S.Army.2013}
-(see Figure 1). However, to improve the representation of external influences or the
+However, to improve the representation of external influences or the
 assignment of responsibilities \cite{Lowenthal.2020,Phythian.2013,Johnston.2005}, numerous
-other modifications can be found in the literature today \cite{Bohm.2021,Reuser.2017}. The
+variations can be found in the literature today \cite{Bohm.2021,Reuser.2017}. The
 Intelligence Cycle should therefore be seen less as a guideline and more as an informal
 coordination element, with a partly very intuitive \cite{Breakspear.2013} interpretation
-\cite{Hwang.2022}. Thus, as a proven instrument, the original CIA cycle continues to provide
-a good starting point for managers and analysts
-\cite{Lowenthal.2020, NorthAtlanticTreatyOrganization.2001}.
+\cite{Hwang.2022}. In an updated version from 2013, the JCS segment the cycle into 6 phases [32] (see \ref{fig: intelligence cycle}).
 
+\begin{figure}[thb]
+    \usepackage{graphicx}
+    \centering
+    \includegraphics{C:\Users\neues\OneDrive - FH Muenster\Dokumente\FH Münster\FH Münster_SS24}
+    \caption{Intelligence Cycle, according to \cite{JointChiefsofStaffU.S.Army.2013}}
+    \label{fig: intelligence cycle}
+\end{figure}
 
 The planning and direction phase combines the identification, definition and prioritization
 of the requirements for the cycle and the intelligence product. It is also responsible for
