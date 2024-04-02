@@ -9,12 +9,6 @@ J.~M. Hatfield, ``There is no such thing as open source intelligence,'' {\em Int
 \bibitem{SmithBoyle.24.07.2023}
 V.~Smith-Boyle, ``How osint has shaped the war in ukraine,'' 24.07.2023.
 
-\bibitem{PastorGalindo.2019}
-J.~Pastor-Galindo, P.~Nespoli, F.~{Gomez Marmol}, and G.~{Martinez Perez}, ``Osint is the next internet goldmine: Spain as an unexplored territory.''
-
-\bibitem{Schaurer.2010}
-F.~Schaurer and J.~St{\"o}rger, ``The evolution of open source intelligence.''
-
 \bibitem{Hwang.2022}
 Y.-W. Hwang, I.-Y. Lee, H.~Kim, H.~Lee, and D.~Kim, ``Current status and security trend of osint,'' {\em Wireless Communications and Mobile Computing}, vol.~2022, pp.~1--14, 2022.
 
@@ -41,6 +35,9 @@ T.~Dokman and T.~Ivanjko, ``Open source intelligence (osint): issues and trends,
 \bibitem{HerreraCubides.2020}
 J.~F. Herrera-Cubides, P.~A. Gaona-Garc{\'i}a, and S.~S{\'a}nchez-Alonso, ``Open-source intelligence educational resources: A visual perspective analysis,'' {\em Applied Sciences}, vol.~10, no.~21, p.~7617, 2020.
 
+\bibitem{PastorGalindo.2019}
+J.~Pastor-Galindo, P.~Nespoli, F.~{Gomez Marmol}, and G.~{Martinez Perez}, ``Osint is the next internet goldmine: Spain as an unexplored territory.''
+
 \bibitem{AlKilani.2021}
 H.~AlKilani and A.~Qusef, ``Osint techniques integration with risk assessment iso/iec 27001,'' in {\em International Conference on Data Science, E-learning and Information Systems 2021} (J.~A. {Lara Torralbo}, S.~A. Aljawarneh, V.~Radhakrishna, and A.~N., eds.), (New York, NY, USA), pp.~82--86, ACM, 2021.
 
@@ -66,6 +63,13 @@ I.~B{\"o}hm and S.~Lolagar, ``Open source intelligence,'' {\em International Cyb
 \bibitem{Mercado.2005}
 S.~C. Mercado, ``Reexamining the distinction between open information and secrets,'' {\em Studies in Intelligence}, vol.~49, no.~2, 2005.
 
+\bibitem{Billings.1997}
+C.~E. Billings, {\em Aviation automation: The search for a human-centered approach}.
+\newblock Human factors in transportation, Mahwah, N.J: {Lawrence Erlbaum Associates Publishers}, 1997.
+
+\bibitem{Schaurer.2010}
+F.~Schaurer and J.~St{\"o}rger, ``The evolution of open source intelligence.''
+
 \bibitem{Gibson.2016}
 H.~Gibson, ``Acquisition and preparation of data for osint investigations,'' in {\em Open Source Intelligence Investigation} (B.~Akhgar, P.~S. Bayerl, and F.~Sampson, eds.), Advanced Sciences and Technologies for Security Applications, pp.~69--93, Cham: {Springer International Publishing}, 2016.
 
@@ -74,9 +78,6 @@ C.~Burke, ``Freeing knowledge, telling secrets: Open sourceintelligence and deve
 
 \bibitem{NorthAtlanticTreatyOrganization.2001}
 ``Nato open source intelligence handbook.''
-
-\bibitem{JointChiefsofStaffU.S.Army.2013}
-``Joint intelligence.''
 
 \bibitem{Breakspear.2013}
 A.~Breakspear, ``A new definition of intelligence,'' {\em Intelligence and National Security}, vol.~28, no.~5, pp.~678--693, 2013.
@@ -92,6 +93,9 @@ A.~Reuser, ``The ris open source intelligence cycle,'' {\em Journal of Mediterra
 
 \bibitem{DirectorofNationalIntelligence.2011}
 ``U.s. national intelligence: An overview 2011.''
+
+\bibitem{JointChiefsofStaffU.S.Army.2013}
+``Joint intelligence.''
 
 \bibitem{Pellissier.2013}
 R.~Pellissier and T.~E. Nenzhelele, ``Towards a universal competitive intelligence process model,'' {\em SA Journal of Information Management}, vol.~15, no.~2, 2013.
@@ -135,10 +139,6 @@ H.~M. Cooper, ``Organizing knowledge syntheses: A taxonomy of literature reviews
 \bibitem{Duncheon.2002}
 C.~Duncheon, ``Product miniaturization requires automation -- but with a strategy,'' {\em Assembly Automation}, vol.~22, no.~1, pp.~16--20, 2002.
 
-\bibitem{Billings.1997}
-C.~E. Billings, {\em Aviation automation: The search for a human-centered approach}.
-\newblock Human factors in transportation, Mahwah, N.J: {Lawrence Erlbaum Associates Publishers}, 1997.
-
 \bibitem{Endsley.1999}
 M.~R. Endsley and D.~B. Kaber, ``Level of automation effects on performance, situation awareness and workload in a dynamic control task,'' {\em Ergonomics}, vol.~42, no.~3, pp.~462--492, 1999.
 
@@ -154,9 +154,6 @@ S.~Bleck, {\em Entwicklung einer Methodik zur integrierten Planung von Informati
 
 \bibitem{OLeary.2012}
 D.~E. O'Leary, ``Artificial intelligence and big data,'' {\em iEEE iNTElliGENT SYSTEMS}, 2012.
-
-\bibitem{Elgendy.}
-N.~Elgendy and A.~Elragal, ``Big data analytics: A literature review paper,'' in {\em Advances in Data Mining}, vol.~8557, pp.~214--227.
 
 \bibitem{Russom.2011}
 P.~Russom, ``Big data analytics.''
