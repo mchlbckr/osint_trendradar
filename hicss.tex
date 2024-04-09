@@ -121,12 +121,12 @@ intelligence [23]. However, today the discipline is no longer seen as a purely g
 matter. Private research institutions and organizations \cite{Bohm.2021,Mercado.2005} are
 also massively driving the development of such systems, e.g. for competitive analyses or marketing activities
 \cite{AlKilani.2021, Dokman.2020,Ghioni.2023}. The focus is thereby shifting to
-developing OSINT into a robust, autonomous solution \cite{Billings.1997,PastorGalindo.2019,Schaurer.2010}. 
+developing OSINT into a robust, autonomous solution \cite{Billings.1997,PastorGalindo.2019,Schaurer.2010}.
 The starting point for all OSINT activities therby lies in data. Data forms the basis of the
 analysis and the conclusions derived from it \cite{Gibson.2016}. In this context, OSD
 refers to non-processed \cite{DosPassos.2017}, general raw data that is openly available
 \cite{Burke.2007} as well as legally and ethically accessible
-\cite{Schaurer.2010, NorthAtlanticTreatyOrganization.2001}. Before intelligence can be obtained 
+\cite{Schaurer.2010, NorthAtlanticTreatyOrganization.2001}. Before intelligence can be obtained
 from OSD, they must undergo a preparation process that includes filtering, validation and
 summarization \cite{DosPassos.2017, NorthAtlanticTreatyOrganization.2001}. The result of this
 data organization \cite{Schaurer.2010} is referred to as OSINF. It provides the basis for the
@@ -337,7 +337,7 @@ application to these ("applicability"). By aligning the
 architecture of the radar with the federal government's trend radar
 \cite{Stich.2022}, a proven, robust, user-friendly
 design ("user-friendliness") with an appropriate level of detail
-("level of detail") is used. Only the categories use case, technology and 
+("level of detail") is used. Only the categories use case, technology and
 degree of maturity were therefore illustrated in the trend radar. Moreover, with the concept matrices, a
 template is used to constantly update the radar. Particular attention
 was paid to the general validity of the categories to achieve
@@ -453,34 +453,122 @@ carried out.
 
 \section{Results}
 
-The trend radar (see Fig. X) is to be read from the outside in. 
-Each of the fifths of the cycle represents a phase of the Intelligence Cycle. 
-The further subdivision reflects the phase-specific use cases. The color 
-gradations represent the maturity levels. The numbered black and white dots 
-represent the grouped technologies. A boxplot-like representation indicates 
-that the technologies exist at different levels of maturity.
+The trend radar (see Fig. X) is read from the outermost to the innermost.
+Each fifth of the cycle represents an Intelligence Cycle phase. Subdivisions indicate
+phase-specific use cases, while color gradations show maturity levels. Numbered black
+and white dots denote grouped technologies, presented in a boxplot-like format reflecting
+varying maturity levels.
+
+\subsection{Intelligence Cycle in Theory-Practice Comparison}
+
+Studies could be attributed to each of the Intelligence Cycle phases. However,
+none of the applications identified covers all phases in the sense of a third-generation
+OSINT tool. Literature primarily focuses on the collection phase, followed by
+the analysis and production phase and the processing and exploitation phase.
+The dissemination and integration phase is covered by far the least after the planning
+and direction phase.
+
+These findings align with the experts' practical experiences. They regard the Intelligence Cycle
+as "state of the art" (cf. E3, 28.12.2023), but note different manifestations of the phases in praxis (cf. E4, 02.08.2023).
+The planning and direction phase is often neglected, despite its crucial importance, leading to wasteful
+production (cf. E3, 28.07.2023). Conversely, OSINT is frequently associated solely with the collection phase,
+resulting in subpar outcomes due to high volumes of low-quality data (cf. E1, 14.07.2023; E2, 19.07.2023; E3, 28.07.2023).
+The reason for this is, among other things, that the Intelligence Cycle is operated by at least three groups of people.
+Firstly, the product customers, usually located at the "decision-maker level", with a primarily legal professional background (cf. E2, 19.07.2023).
+The second is the technician who carries out the data collection and processing (cf. E2, 19.07.2023; E3, 28.07.2023).
+Lastly, the analyst who evaluates the data and creates the intelligence product
+(cf. E1, 14.07.2023). The process thereby is rarely transparent between the parties
+(cf. E1, 14.07.2023; E2, 19.07.2023) and is rarely anchored at the organizational level
+(cf. E4, 02.08.2023). According to the experts, because of that there is no third-generation
+OSINT tool in use, at least not in German authorities. In addition, the collection focus is driven by concerns
+about missing vital information, which could later be revealed as publicly available (cf. E1, 14.07.2023).
+
+\subsection{Use Cases in Theory-Practice Comparison}
+
+Five main use cases emerged from the research: Cyber Security, Health, Security, Journalism,
+and Competition Analysis. Cyber Security studies primarily focus on Open Source Cyber Threat
+Intelligence (OSCTI), which involves collecting, monitoring, and analyzing publicly available
+data to detect potential cyber threats (Ahuja et al., 2022, p.1; Al-Dmour et al., 2023, p. 1 f.).
+Health applications mainly pertain to COVID-19, such as investigating the epidemic outbreak
+(Kpozehouen et al., 2020; Thamtono et al., 2021). The security use case includes applications such as
+analyzing violent behavior in public transport (Nobili et al., 2021). The identified Journalism study examines the
+Twitter activities of the OSINT journalists' association "Bellingcat" (Bär et al., 2023). Competitive analysis
+involves for example the performance classification of Chinese logistics companies (Tao et al., 2023). Additionally, two
+studies could be identified on general approaches to creating knowledge graphs (Hu et al., 2023; Ma et al., 2022)
+
+According to the experts, OSINT is applied in all authorities and has proven itself
+in numerous use cases, even if not always explicitly labeled as such (cf. E2, 19.07.2023).
+Most common cases are in cyber security/CTI (cf. E1, 14.07.2023; E2, 19.07.2023), as well as general security,
+particularly with regard to the German Armed Forces, the (Federal) Intelligence Service,
+the Ger­man do­mes­tic in­tel­li­gence ser­vices and the police.
+
+\subsection{Technologies and Maturity Levels in Theory-Practice Comparison}
+
+Except for the initial phase, automated technologies are utilized across all subsequent phases and use cases.
+These technologies demonstrate considerable market maturity, yet manual activities remain prevalent.
+The highest level of automation is observed in the CTI use case.
+
+The most advanced automated technology in the collection phase is web crawlers and/or web scrapers.
+Established technologies include "off the shelf" tools (cf. Middleton et al., 2020, p. 84) and open source
+solutions like "Tweepy," a Python library for Twitter crawlers (cf. Adewopo et al., 2020, p. 2238; Tekin & Yilmaz, 2021, p. 84).
+More advanced prototypes involve combining parallelized, recursive, source-specific web crawlers and scrapers for improved and
+faster data collection (cf. Jenkins et al., 2021, p. 2 f.; Rajendran et al., 2022, p. 3 f.). Another method in the prototype phase is
+"focused crawling," adapting the crawling path dynamically using a content-driven ML algorithm, BERT („Bidirectional Encoder Representation from Transformers“)
+(cf. Kuehn et al., 2023, p. 1). Technologies for crawling/scraping the dark web, like "Torsion" (cf. Sonawane et al., 2022, p. 3),
+were assigned to the innovation phase. The experts also note increasing use of open source tools alongside manual work
+(cf. E1, 14.07.2023; E3, 28.07.2023; E1, 14.07.2023). However, they consider traditional web crawling and scraping
+outdated due to errors, implementation difficulties, and website resistance. Screenshot-based "web shooting" with
+subsequent OCR (Optical Character Recognition) extraction is seen as more modern and robust (cf. E3, 28.07.2023).
+
+NLP applications/methods such as "Topic Classifying," "Part-of-Speech Tagging", "Entity and Relation Annotation", and "Named Entity Recognition"
+demonstrate high automation levels in the processing and utilization phase. Technologies commonly used include
+the "Python NLTK Toolkit" (Hubbard et al., 2022, p. 92 f.) and the "Stanford CoreNLP Toolkit" (Middleton et al., 2020, p. 85 f.).
+Additionally, deep learning, particularly through "word embedding" using the "word2vec" algorithm, is prominent
+(Bai et al., 2020, p. 459; Pingle et al., 2020, p. 882; Shen & Chow, 2020, p. 33 f.). However, they note that
+this phase within authorities predominantly involves manual work due to the irreplaceable domain knowledge of experts
+(cf. E1, 14.07.2023; E2, 19.07.2023; E3, 28.07.2023). The degree of automation of technologies thus depends on the abstraction level.
+Operational tasks, which often require specific individual information, show lower automation levels compared to long-term general strategic analyses
+requiring extensive data (cf. E3, 28.07.2023).
+
+The highest automation level is observed in the analysis and production phase, where AI, ML, and DL technologies are prevalent.
+Under DL, vectorization algorithms can also be found. Particularly BERT algorithms in different versions are commonly utilized
+(cf. Ma et al., 2022, p. 3; Chen et al., 2023, p. 43 f.). Furthermore, even under ML vectorization models such as BERT or
+"Supervised Support Vector Machines" (SVM) (see e.g.: Iorga et al., 2020, p. 4) are listed in the literature.
+In addition, the algorithms "Random Forest", XGBoost ("eXtreme Gradient Boosting)",
+lightGBM ("light Gradient Boosting Machine"), "Naive Bayes" and "logistic regressions" are particularly common.
+Publications thereby often utilize multiple algorithms concurrently for performance comparison (e.g. Tao et al. (2023, p. 134 f.)
+or for layered analysis (e.g. Yang et al. (2022, p. 19 f.). AI technologies are generally less specified,
+except for cases like Dale et al. (2023, p. 436, 438), who developed a bidirectional recurrent neural network with
+BiGur ("Bidirectional Gated Recurrent Unit") layers. Due to the modular use of publicly available models,
+the technologies are mostly classified as market-ready. Despite the potential, practical work in this phase
+largely relies on manual content analysis due to a lack of technological understanding and acceptance,
+especially at the contractor/provider level in Germany (cf. E2, 19.07.2023; E3, 28.07.2023; E4, 02.08.2023). Furthermore,
+ethical and legal barriers, such as GDPR (General Data Protection Regulation), also hinder technology adoption
+(cf. E2, 19.07.2023; E4, 02.08.2023). Additionally, security concerns in German authorities favoring
+standalone systems (cf. E2, 19.07.2023). However, there's a need for modular, dynamically expandable
+systems to keep pace with rapid advancements (cf. E1, 14.07.2023; E3, 28.07.2023; E4, 02.08.2023).
+If smart technologies are nevertheless used, it is often only inofficially, under the "desk" (cf. E4, 02.08.2023).
+Nevertheless, human experience and specialization should not be outweighed, but rather a certain product quality
+be ensured in a supportive manner. Yet, the revolutionary potential of large language models (LLM)
+in the innovation phase cannot be estimated (cf. expert E4, 02.08.2023).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+In the dissemination and integration phase, tools like "Power BI" (Tao et al., 2023, p. 134)
+are utilized to create dashboards and visualization maps. arious user interfaces,
+web applications, and online platforms are developed, including Python GUIs,
+specific browser applications (Elmas et al., 2022, p. 392),
+improved user interfaces and input masks for entire tool stacks (Arjun et al., 2020, p. 4). 
+Additionally, Technologies for generating automated alerts, particularly for cyber security risk assessments, 
+are prevalent (Ahuja et al., 2022, p. 1460 f.). Graph-based visualizations are also common, utilizing tools
+/libraries like "Matplot," "Networkx," "Pygraphistry," or the "Neo4j-Browser" (Middleton et al., 2020, p. 85 f.).
+Except from the alerts, the retrieval of results is largely semi-automated and the technologies are in the 
+market establishment phase. No information on targeted user tests or a new development run involving 
+user feedback could be found in any of the studies. The experts state that there is still very little 
+automation within the authorities during this phase. The final product is often only a PDF document, 
+an email or a verbal report (cf. E1, 14.07.2023), although in many cases no more is required (cf. E3, 28.07.2023). 
+However, outside of the OSINT topic, there are several automated tools that could also be transferred 
+to the authorities in this context (cf. E4 02.08.2023). Moreover, in practice there is also a lack of 
+necessary feedback for product improvement (cf. E3, 28.07.2023).
 
 
 
