@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{DosPassos.2017}
 D.~S. {Dos Passos}, ``Big data, data science and their contributions to the development of the use of open source intelligence,'' {\em Sistemas {\&} Gest{\~a}o}, vol.~11, no.~4, pp.~392--396, 2017.
@@ -219,5 +219,124 @@ M.~Saunders, P.~Lewis, and A.~Thornhill, {\em Research methods for business stud
 
 \bibitem{MAXQDA.19.07.2023}
 ``Maxqda - software f{\"u}r qualitative {\&} mixed-methods-forschung,'' 19.07.2023.
+
+\bibitem{Ahuja.2022}
+K.~Ahuja, Khushi, Dipali, and N.~Sharma, ``Cyber security threats and their connection with twitter,'' in {\em 2022 Second International Conference on Artificial Intelligence and Smart Energy (ICAIS)}, pp.~1458--1463, IEEE, 2022.
+
+\bibitem{AlDmour.2023}
+N.~A. Al-Dmour, M.~{Kamrul Hasan}, M.~Ajmal, M.~Ali, I.~Naseer, A.~Ali, H.~A. Hamadi, and N.~Ali, ``An automated platform for gathering and managing open-source cyber threat intelligence,'' in {\em 2023 International Conference on Business Analytics for Technology and Security (ICBATS)}, pp.~1--7, IEEE, 2023.
+
+\bibitem{Kpozehouen.2020}
+E.~B. Kpozehouen, X.~Chen, M.~Zhu, and C.~R. Macintyre, ``Using open-source intelligence to detect early signals of covid-19 in china: Descriptive study,'' {\em JMIR public health and surveillance}, vol.~6, no.~3, p.~e18939, 2020.
+
+\bibitem{Thamtono.2021}
+Y.~Thamtono, A.~Moa, and C.~R. MacIntyre, ``Using open-source intelligence to identify early signals of covid-19 in indonesia,'' {\em Western Pacific surveillance and response journal : WPSAR}, vol.~12, no.~1, pp.~40--45, 2021.
+
+\bibitem{Nobili.2021}
+M.~Nobili, L.~Faramondi, R.~Setola, M.~Ghelli, B.~Persechino, and M.~Lombardi, ``An osint platform to analyse violence against workers in public trasportation,'' in {\em 2021 International Conference on Cyber-Physical Social Intelligence (ICCSI)}, pp.~1--6, IEEE, 2021.
+
+\bibitem{Bar.2023}
+D.~B{\"a}r, F.~Calderon, M.~Lawlor, S.~Licklederer, M.~Totzauer, and S.~Feuerriegel, ``Analyzing social media activities at bellingcat,'' in {\em Proceedings of the 15th ACM Web Science Conference 2023}, (New York, NY, USA), pp.~163--173, ACM, 2023.
+
+\bibitem{Tao.2023}
+Z.~Tao, P.~Charoenkwan, B.~Paphawasit, and N.~Rujeerapaiboon, ``Machine learning-based classification of competitors performance: evidence from chinese logistics companies,'' in {\em 2023 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT {\&} NCON)}, pp.~131--137, IEEE, 2023.
+
+\bibitem{Hu.2023}
+Y.~Hu, L.~He, X.~Tang, G.~Luo, S.~He, and Q.~Fang, ``Construction of domain knowledge graph based on open source intelligence,'' in {\em 2023 IEEE 2nd International Conference on Electrical Engineering, Big Data and Algorithms (EEBDA)}, pp.~1378--1382, IEEE, 2023.
+
+\bibitem{Ma.2022}
+H.~Ma, X.~Liu, and W.~Zhao, ``Research on domain-specific knowledge graph based on the roberta-wwm-ext pretraining model,'' {\em Computational intelligence and neuroscience}, vol.~2022, p.~8656013, 2022.
+
+\bibitem{Middleton.2020}
+S.~Middleton, A.~Lavorgna, G.~Neumann, and D.~Whitehead, ``Information extraction from the long tail,'' in {\em 12th ACM Conference on Web Science Companion}, (New York, NY, USA), pp.~82--88, ACM, 2020.
+
+\bibitem{Adewopo.2020}
+V.~Adewopo, B.~Gonen, and F.~Adewopo, ``Exploring open source information for cyber threat intelligence,'' in {\em 2020 IEEE International Conference on Big Data (Big Data)}, pp.~2232--2241, IEEE, 2020.
+
+\bibitem{Tekin.2021}
+U.~Tekin and E.~N. Yilmaz, ``Obtaining cyber threat intelligence data from twitter with deep learning methods,'' in {\em 2021 5th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)}, pp.~82--86, IEEE, 2021.
+
+\bibitem{Jenkins.2021}
+D.~Jenkins, L.~M. Liebrock, and V.~Urias, ``Designing a modular and distributed web crawler focused on unstructured cybersecurity intelligence,'' in {\em 2021 International Carnahan Conference on Security Technology (ICCST)}, pp.~1--6, IEEE, 2021.
+
+\bibitem{Rajendran.2022}
+G.~Rajendran, V.~KS, P.~S. AU, and P.~Poornachandran, ``Covid-19 relief measures assimilating open source intelligence,'' in {\em 2022 International Conference on Connected Systems {\&} Intelligence (CSI)}, pp.~1--7, IEEE, 2022.
+
+\bibitem{Kuehn.2023}
+P.~Kuehn, M.~Schmidt, M.~Bayer, and C.~Reuter, ``Threatcrawl: A bert-based focused crawler for the cybersecurity domain.''
+
+\bibitem{Sonawane.2022}
+H.~S. Sonawane, S.~Deshmukh, V.~Joy, and D.~Hadsul, ``Torsion: Web reconnaissance using open source intelligence,'' in {\em 2022 2nd International Conference on Intelligent Technologies (CONIT)}, pp.~1--4, IEEE, 2022.
+
+\bibitem{Hubbard.2022}
+J.~Hubbard, G.~Bendiab, and S.~Shiaeles, ``Ipass: A novel open-source intelligence password scoring system,'' in {\em 2022 IEEE International Conference on Cyber Security and Resilience (CSR)}, pp.~90--95, IEEE, 2022.
+
+\bibitem{Bai.2020}
+C.~Bai, A.~Li, Z.~Gao, and X.~Cui, ``Research on anti-terrorism intelligence mining method based on attention neural networks,'' in {\em 2020 IEEE 2nd International Conference on Civil Aviation Safety and Information Technology (ICCASIT}, pp.~458--464, IEEE, 2020.
+
+\bibitem{Pingle.2020}
+A.~Pingle, A.~Piplai, S.~Mittal, A.~Joshi, J.~Holt, and R.~Zak, ``Relext: Relation extraction using deep learning approaches for cybersecurity knowledge graph improvement,'' {\em Association for Computing Machinery}, pp.~897--886, 2020.
+
+\bibitem{Shen.2020}
+A.~Shen and K.~P. Chow, ``Time and location topic model for analyzing lihkg forum data,'' in {\em 2020 13th International Conference on Systematic Approaches to Digital Forensic Engineering (SADFE)}, pp.~32--37, IEEE, 2020.
+
+\bibitem{Chen.2023}
+C.-M. Chen, F.-H. Hsu, and J.-N. Hwang, ``Useful cyber threat intelligence relation retrieval using transfer learning,'' in {\em European Interdisciplinary Cybersecurity Conference} (A.~Mileva, S.~Wendzel, and V.~Franqueira, eds.), (New York, NY, USA), pp.~42--46, ACM, 2023.
+
+\bibitem{Iorga.2020}
+D.~Iorga, D.~Corlatescu, O.~Grigorescu, C.~Sandescu, M.~Dascalu, and R.~Rughinis, ``Early detection of vulnerabilities from news websites using machine learning models,'' in {\em 2020 19th RoEduNet Conference: Networking in Education and Research (RoEduNet)}, pp.~1--6, IEEE, 2020.
+
+\bibitem{Yang.2022}
+J.-Z. Yang, F.~Liu, Y.-J. Zhao, L.-L. Liang, and J.-Y. Qi, ``Ninsrapm: An ensemble learning based non-intrusive network security risk assessment prediction model,'' in {\em 2022 7th IEEE International Conference on Data Science in Cyberspace (DSC)}, pp.~17--23, IEEE, 2022.
+
+\bibitem{Dale.2023}
+D.~Dale, K.~McClanahan, and Q.~Li, ``Ai-based cyber event osint via twitter data,'' in {\em 2023 International Conference on Computing, Networking and Communications (ICNC)}, pp.~436--442, IEEE, 2023.
+
+\bibitem{Elmas.2022}
+T.~Elmas, T.~R. Ibanez, A.~Hutter, R.~Overdorf, and K.~Aberer, ``Waypop machine: A wayback machine to investigate popularity and root out trolls,'' in {\em 2022 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)}, pp.~391--395, IEEE, 2022.
+
+\bibitem{Arjun.2020}
+A.~V. Arjun, A.~K. Buvanasri, R.~Meenakshi, S.~Karthika, and K.~M. Ashok, ``Peoplexploit: A hybrid tool to collect public data,'' in {\em 2020 4th International Conference on Computer, Communication and Signal Processing (ICCCSP)}, pp.~1--6, IEEE, 2020.
+
+\bibitem{Day.2016}
+T.~Day, H.~Gibson, and S.~Ramwell, ``Fusion of osint and non-osint data,'' in {\em Open Source Intelligence Investigation} (B.~Akhgar, P.~S. Bayerl, and F.~Sampson, eds.), Advanced Sciences and Technologies for Security Applications, pp.~133--152, Cham: {Springer International Publishing}, 2016.
+
+\bibitem{Wright.2020}
+T.~Wright, S.~Whitfield, S.~Cahill, and J.~Duffy, ``Project umbra,'' in {\em 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)}, pp.~748--751, IEEE, 2020.
+
+\bibitem{Wittmer.2022}
+S.~Wittmer and F.~Platzer, ``Zul{\"a}ssigkeit von open source-ermittlungen zur strafverfolgung im darknet.''
+
+\bibitem{Eldridge.2018}
+C.~Eldridge, C.~Hobbs, and M.~Moran, ``Fusing algorithms and analysts: open-source intelligence in the age of `big data','' {\em Intelligence and National Security}, vol.~33, no.~3, pp.~391--406, 2018.
+
+\bibitem{Radford.2023}
+A.~Radford, J.~Wu, R.~Child, D.~Luan, D.~Amodel, and I.~Sutskever, ``Language models are unsupervised multitask learners.''
+
+\bibitem{Zhao.31.03.2023}
+W.~X. Zhao, K.~Zhou, J.~Li, T.~Tang, X.~Wang, Y.~Hou, Y.~Min, B.~Zhang, J.~Zhang, Z.~Dong, {Du Yifan}, C.~Yang, Y.~Chen, Z.~Chen, J.~Jiang, R.~Ren, Y.~Li, X.~Tang, Z.~Liu, P.~Liu, J.-Y. Nie, and J.-R. Wen, ``A survey of large language models.''
+
+\bibitem{Schilling.2019}
+M.~Schilling, H.~Ritter, and F.~W. Ohl, ``From crystallized adaptivity to fluid adaptivity in deep reinforcement learning --- insights from biological systems on adaptive flexibility.''
+
+\bibitem{Unver.2018}
+H.~A. {\"U}nver, ``Digital open source intelligence and international security: A primer.''
+
+\bibitem{NorthAtlanticTreatyOrganization.2002}
+``Nato open source intelligence reader.''
+
+\bibitem{Lee.2018}
+C.-Y. Lee and B.-S. Chen, ``Mutually-exclusive-and-collectively-exhaustive feature selection scheme,'' {\em Applied Soft Computing}, vol.~68, pp.~961--971, 2018.
+
+\bibitem{Rasiel.1999}
+E.~M. Rasiel, {\em The McKinsey way: Using the techniques of the world's top strategic consultants to help you and your business}.
+\newblock New York: McGraw-Hill, 1999.
+
+\bibitem{MAXQDA.16.03.2020}
+``Intercoder-{\"u}bereinstimmung,'' 16.03.2020.
+
+\bibitem{Hader.2000}
+M.~H{\"a}der and S.~H{\"a}der, eds., {\em Die Delphi-Technik in den Sozialwissenschaften: Methodische Forschungen und innovative Anwendungen}.
+\newblock ZUMA-Publikationen, Wiesbaden: {Westdt. Verl.}, 2000.
 
 \end{thebibliography}

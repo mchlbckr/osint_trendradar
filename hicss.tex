@@ -488,13 +488,13 @@ about missing vital information, which could later be revealed as publicly avail
 Five main use cases emerged from the research: Cyber Security, Health, Security, Journalism,
 and Competition Analysis. Cyber Security studies primarily focus on Open Source Cyber Threat
 Intelligence (OSCTI), which involves collecting, monitoring, and analyzing publicly available
-data to detect potential cyber threats (Ahuja et al., 2022, p.1; Al-Dmour et al., 2023, p. 1 f.).
-Health applications mainly pertain to COVID-19, such as investigating the epidemic outbreak
-(Kpozehouen et al., 2020; Thamtono et al., 2021). The security use case includes applications such as
-analyzing violent behavior in public transport (Nobili et al., 2021). The identified Journalism study examines the
-Twitter activities of the OSINT journalists' association "Bellingcat" (Bär et al., 2023). Competitive analysis
-involves for example the performance classification of Chinese logistics companies (Tao et al., 2023). Additionally, two
-studies could be identified on general approaches to creating knowledge graphs (Hu et al., 2023; Ma et al., 2022)
+data to detect potential cyber threats \cite{Ahuja.2022,AlDmour.2023}.
+Health applications mainly pertain to COVID-19, such as investigating the epidemic outbreak \cite{Kpozehouen.2020,Thamtono.2021}.
+The security use case includes applications such as
+analyzing violent behavior in public transport \cite{Nobili.2021}. The identified Journalism study examines the
+Twitter activities of the OSINT journalists' association "Bellingcat" \cite{Bar.2023}. Competitive analysis
+involves for example the performance classification of Chinese logistics companies \cite{Tao.2023}. Additionally, two
+studies could be identified on general approaches to creating knowledge graphs \cite{Hu.2023,Ma.2022}.
 
 According to the experts, OSINT is applied in all authorities and has proven itself
 in numerous use cases, even if not always explicitly labeled as such (cf. E2, 19.07.2023).
@@ -509,12 +509,12 @@ These technologies demonstrate considerable market maturity, yet manual activiti
 The highest level of automation is observed in the CTI use case.
 
 The most advanced automated technology in the collection phase is web crawlers and/or web scrapers.
-Established technologies include "off the shelf" tools (cf. Middleton et al., 2020, p. 84) and open source
-solutions like "Tweepy," a Python library for Twitter crawlers (cf. Adewopo et al., 2020, p. 2238; Tekin & Yilmaz, 2021, p. 84).
+Established technologies include "off the shelf" tools (cf. \cite{Middleton.2020}) and open source
+solutions like "Tweepy," a Python library for Twitter crawlers (cf. \cite{Adewopo.2020,Tekin.2021}).
 More advanced prototypes involve combining parallelized, recursive, source-specific web crawlers and scrapers for improved and
-faster data collection (cf. Jenkins et al., 2021, p. 2 f.; Rajendran et al., 2022, p. 3 f.). Another method in the prototype phase is
+faster data collection (cf. \cite{Jenkins.2021,Rajendran.2022}). Another method in the prototype phase is
 "focused crawling," adapting the crawling path dynamically using a content-driven ML algorithm, BERT („Bidirectional Encoder Representation from Transformers“)
-(cf. Kuehn et al., 2023, p. 1). Technologies for crawling/scraping the dark web, like "Torsion" (cf. Sonawane et al., 2022, p. 3),
+(cf. \cite{Kuehn.2023}). Technologies for crawling/scraping the dark web, like "Torsion" (cf. \cite{Sonawane.2022}),
 were assigned to the innovation phase. The experts also note increasing use of open source tools alongside manual work
 (cf. E1, 14.07.2023; E3, 28.07.2023; E1, 14.07.2023). However, they consider traditional web crawling and scraping
 outdated due to errors, implementation difficulties, and website resistance. Screenshot-based "web shooting" with
@@ -522,9 +522,9 @@ subsequent OCR (Optical Character Recognition) extraction is seen as more modern
 
 NLP applications/methods such as "Topic Classifying," "Part-of-Speech Tagging", "Entity and Relation Annotation", and "Named Entity Recognition"
 demonstrate high automation levels in the processing and utilization phase. Technologies commonly used include
-the "Python NLTK Toolkit" (Hubbard et al., 2022, p. 92 f.) and the "Stanford CoreNLP Toolkit" (Middleton et al., 2020, p. 85 f.).
+the "Python NLTK Toolkit" \cite{Hubbard.2022} and the "Stanford CoreNLP Toolkit" \cite{Middleton.2020}.
 Additionally, deep learning, particularly through "word embedding" using the "word2vec" algorithm, is prominent
-(Bai et al., 2020, p. 459; Pingle et al., 2020, p. 882; Shen & Chow, 2020, p. 33 f.). However, they note that
+\cite{Bai.2020,Pingle.2020,Shen.2020}. However, they note that
 this phase within authorities predominantly involves manual work due to the irreplaceable domain knowledge of experts
 (cf. E1, 14.07.2023; E2, 19.07.2023; E3, 28.07.2023). The degree of automation of technologies thus depends on the abstraction level.
 Operational tasks, which often require specific individual information, show lower automation levels compared to long-term general strategic analyses
@@ -532,13 +532,13 @@ requiring extensive data (cf. E3, 28.07.2023).
 
 The highest automation level is observed in the analysis and production phase, where AI, ML, and DL technologies are prevalent.
 Under DL, vectorization algorithms can also be found. Particularly BERT algorithms in different versions are commonly utilized
-(cf. Ma et al., 2022, p. 3; Chen et al., 2023, p. 43 f.). Furthermore, even under ML vectorization models such as BERT or
-"Supervised Support Vector Machines" (SVM) (see e.g.: Iorga et al., 2020, p. 4) are listed in the literature.
+(cf. \cite{Ma.2022,Chen.2023}). Furthermore, even under ML vectorization models such as BERT or
+"Supervised Support Vector Machines" (SVM) (see e.g.:\cite{Iorga.2020}) are listed in the literature.
 In addition, the algorithms "Random Forest", XGBoost ("eXtreme Gradient Boosting)",
 lightGBM ("light Gradient Boosting Machine"), "Naive Bayes" and "logistic regressions" are particularly common.
-Publications thereby often utilize multiple algorithms concurrently for performance comparison (e.g. Tao et al. (2023, p. 134 f.)
-or for layered analysis (e.g. Yang et al. (2022, p. 19 f.). AI technologies are generally less specified,
-except for cases like Dale et al. (2023, p. 436, 438), who developed a bidirectional recurrent neural network with
+Publications thereby often utilize multiple algorithms concurrently for performance comparison (e.g. \cite{Tao.2023})
+or for layered analysis (e.g. \cite{Yang.2022}). AI technologies are generally less specified,
+except for cases like Dale et al. \cite{Dale.2023}, who developed a bidirectional recurrent neural network with
 BiGur ("Bidirectional Gated Recurrent Unit") layers. Due to the modular use of publicly available models,
 the technologies are mostly classified as market-ready. Despite the potential, practical work in this phase
 largely relies on manual content analysis due to a lack of technological understanding and acceptance,
@@ -552,15 +552,14 @@ Nevertheless, human experience and specialization should not be outweighed, but 
 be ensured in a supportive manner. Yet, the revolutionary potential of large language models (LLM)
 in the innovation phase cannot be estimated (cf. expert E4, 02.08.2023).
 
-
-In the dissemination and integration phase, tools like "Power BI" (Tao et al., 2023, p. 134)
-are utilized to create dashboards and visualization maps. arious user interfaces,
+In the dissemination and integration phase, tools like "Power BI" \cite{Tao.2023}
+are utilized to create dashboards and visualization maps., user interfaces,
 web applications, and online platforms are developed, including Python GUIs,
-specific browser applications (Elmas et al., 2022, p. 392),
-improved user interfaces and input masks for entire tool stacks (Arjun et al., 2020, p. 4).
+specific browser applications \cite{Elmas.2022},
+improved user interfaces and input masks for entire tool stacks \cite{Arjun.2020}.
 Additionally, Technologies for generating automated alerts, particularly for cyber security risk assessments,
-are prevalent (Ahuja et al., 2022, p. 1460 f.). Graph-based visualizations are also common, utilizing tools
-/libraries like "Matplot," "Networkx," "Pygraphistry," or the "Neo4j-Browser" (Middleton et al., 2020, p. 85 f.).
+are prevalent \cite{Ahuja.2022}. Graph-based visualizations are also common, utilizing tools
+/libraries like "Matplot," "Networkx," "Pygraphistry," or the "Neo4j-Browser" \cite{Middleton.2020}.
 Except from the alerts, the retrieval of results is largely semi-automated and the technologies are in the
 market establishment phase. No information on targeted user tests or a new development run involving
 user feedback could be found in any of the studies. The experts state that there is still very little
@@ -575,15 +574,15 @@ necessary feedback for product improvement (cf. E3, 28.07.2023).
 \subsection{Contributions and Implications}
 
 The investigation into the existence of a robust, automated third-generation OSINT system
-cf. e.g: Ghioni et al, 2023, p. 13; Pastor-Galindo et al, 2020, p. 10300; Yogish & Krishna, 2021, p. 18 f.)
+(cf. e.g: \cite{Ghioni.2023,PastorGalindo.2020,Yogish.2021})
 leads to a negative conclusion, at least for Germany. Identified applications fall short of fully covering
 the intelligence cycle, with significant gaps in the planning and direction phase,
 followed by the dissemination and integration phase. Humans therefore still remain the driving (analysis)
-component. However, the finding by Pastor-Galindo et al. (2020, p. 10300) that intelligent OSINT
+component. However, the finding by Pastor-Galindo et al. \cite{PastorGalindo.2020} that intelligent OSINT
 concepts are not yet widespread cannot be confirmed either. Numerous intelligent tools available
 on the market were identified in the other phases. Nevertheless, practical integration has so far
 fallen short of the (theoretical) possibilities. Yet this finding likewise does not confirm the
-thesis of Yogish et al. (2021, p. 1) that automated, AI-driven solutions, largely eliminating
+thesis of Yogish et al. \cite{Yogish.2021} that automated, AI-driven solutions, largely eliminating
 the human component, are inevitably required in every area of OSINT. Rather, the key research
 question should be why proven, available applications whose support is actually needed have not
 yet found widespread use, especially in security authorities. In addition, the question of how the
@@ -594,44 +593,43 @@ Addressing these research questions entails resolving numerous underlying resear
 directly corresponding to the three key groups involved in the intelligence cycle. Primary among
 these are the product customers. (RG1) Technologically, there's a deficiency in tools covering the
 initial phase of the intelligence cycle, particularly in frameworks and tools for targeted requirements
-definition and communication, which could alleviate the overemphasis on the collection phase (Lowenthal, 2020, p. 77).
+definition and communication, which could alleviate the overemphasis on the collection phase \cite{Lowenthal.2020}.
 (RG2) Moreover, concerning the final phase, there's a dearth of dissemination and integration mechanisms
 tailored to authorities, largely due to insufficient user testing and iterative feedback incorporation.
 However, established frameworks and the Intelligence Cycle itself underscore the indispensability of
-consumer feedback for value-generating products (DNI, 2011, pp. 10, 12; JCS, 2013, p. I-21; NATO, 2001, p. 17) as
-it can significantly reduce data overload (Gibson, 2016, p. 95) and enhance product credibility and quality (Day et al., 2016, p. 95).
+consumer feedback for value-generating products \cite{DirectorofNationalIntelligence.2011,JointChiefsofStaffU.S.Army.2013,NorthAtlanticTreatyOrganization.2001} as
+it can significantly reduce data overload \cite{Gibson.2016} and enhance product credibility and quality \cite{Day.2016}.
 (RG3) Furthermore, the future of OSINT systems hinges on modular concepts, yet only two studies have
-been found on this (see Arjun et al., 2020; Wright et al., 2020). (RG4) Accordingly, it's imperative to revamp
+been found on this (cf. \cite{Arjun.2020,Wright.2020}). (RG4) Accordingly, it's imperative to revamp
 procurement procedures moving away from monolithic stand-alone setups. (RG5) Ensuring compliance with
 ethical and legal principles at the client and customer level is vital for product adoption,
-necessitating robust legislative updates to establish appropriate frameworks
-(Ghioni et al., 2023, p. 1; Wittmer & Platzer, 2022, p. 584). This involves not only national but
-also European-level considerations, such as GDPR regulations on personal data protection
-(European Parliament, 2016; European Commission, 2023), taking into account not solely
-individual but societal impacts (Ghioni et al., 2023, p. 8). To date, these topics remain
-underexplored (Ghioni et al., 2023, p. 1; Wittmer & Platzer, 2022, p. 577). (RG6) Addressing these
+necessitating robust legislative updates to establish appropriate frameworks \cite{Ghioni.2023,Wittmer.2022}.
+This involves not only national but also European-level considerations, such as GDPR regulations on personal data protection
+\cite{EuropeanParliament.2016,EuropeanCommission.18.08.2023, taking into account not solely
+individual but societal impacts \cite{Ghioni.2023}. To date, these topics remain
+underexplored \cite{Ghioni.2023,Wittmer.2022}. (RG6) Addressing these
 challenges necessitate a foundational level of technical understanding at decision-maker
 levels, fostering openness to technology, and cultivating an information-sharing mindset,
 leveraging the public availability of information to transcend bureaucratic and cultural
-barriers (NATO, 2001, p. 35).
+barriers \cite{NorthAtlanticTreatyOrganization.2001}.
 
 The analysts, comprising the second group, create the final
 product and, at present, cannot be replaced by AI systems due to their extensive domain
-knowledge (Eldridge et al., 2018, p. 401; Pastor-Galindo et al., 2020, p. 10300). (RG7) However,
+knowledge \cite{Eldridge.2018,PastorGalindo.2020}. (RG7) However,
 LLMs show promise in this realm, potentially becoming vital tools given their versatility
-(Radford et al., 2023, p. 1; W. X. Zhao et al., 2023, p. 1). Yet, the use of such models in
+\cite{Radford.2023,Zhao.31.03.2023}. Yet, the use of such models in
 application development could not be found. For the time being, cross-use case task
 transferability can only be mapped to a limited extent with current learning algorithms
-and is currently still subject to human cognition (see Schilling et al. (2019, p. 6), Ghioni et al. (2023, p. 13).
+and is currently still subject to human cognition (cf. \cite{Schilling.2019,Ghioni.2023}.
 Until then, the pursuit of the ideal symbiosis between humans and machines to bolster analysts
-amid the deluge of data remains paramount (Eldridge et al., 2018, p. 391 f.).
+amid the deluge of data remains paramount \cite{Eldridge.2018}.
 
 
 The third group, comprised of technicians, often handles the second and third phases of
 the intelligence cycle independently (RG8). Technologically, there's a notable absence of
 robust collection tools at this level to match the rapidly evolving media landscape (RG9).
 Process-wise, coordination gaps with analysts pose a risk of excessive data collection.
-Lowenthal (2020, p. 77) suggests that data collection biases may stem from emotional or
+Lowenthal \cite{Lowenthal.2020} suggests that data collection biases may stem from emotional or
 lobby-driven factors, as it's seen as more enticing than its maintenance. Additionally,
 the fear of overlooking pertinent information underscores the necessity for technological
 tools to enhance transparency.
@@ -639,55 +637,55 @@ tools to enhance transparency.
 \subsection{Limitations and Future Research}
 
 The first limitation relates to the fact that, due to a lack of clarity about the legal
-and ethical basis (Ghioni et al., 2023, p. 1; Ünver, 2018, p. 8; Wittmer & Platzer, 2022, p. 577),
-it could not be verified whether only public sources (NATO, 2002, p. 87) were actually used
+and ethical basis \cite{Ghioni.2023,Unver.2018,Wittmer.2022},
+it could not be verified whether only public sources \cite{NorthAtlanticTreatyOrganization.2002} were actually used
 in the analyzed studies. It was also not verified whether the technologies meet the
 legal and ethical requirements for the use of the information obtained
-(Pastor-Galindo et al., 2020, p. 10301; Wittmer & Platzer, 2022, p. 569). The second
+\cite{PastorGalindo.2020,Wittmer.2022}. The second
 limitation stems from classification categories not fully aligning with the
-MECE (Mutually-Exclusive-and-Collectively-Exhaustive) principle (Lee & Chen, 2018, p. 11; Rasiel, 1999, pp. 6-8),
+MECE (Mutually-Exclusive-and-Collectively-Exhaustive) principle \cite{Lee.2018,Rasiel.1999},
 particularly evident in the hierarchical dependency of AI, ML, and DL technologies. In addition,
 the wording of the authors was followed for objective reproduction when identifying the technologies,
 but the accuracy of the information was not reviewed in detail. Moreover, no fixed limits could be defined
 for the volume category, as these were not recorded in uniform dimensions in the studies.
 The third limitation concerns the limited sample size in expert interviews. Due to the
 extremely difficult-to-access target group, the active user level and the decision-maker
-level within the authorities were not interviewed. For improved intercoder reliability, 
-independent verification of the coding carried out by at least one second researcher 
-is also recommended (Bogner et al., 2002, p. 187; Gläser & Laudel, 2009, p. 210 f.; MAXQDA, 2020). 
-Lastly, the research structure, following the DSR process, was executed linearly rather 
-than iteratively as recommended (Bogner et al., 2002, p. 187; Gläser & Laudel, 2009, p. 210 f.; MAXQDA, 2020; Peffers et al., 2007, pp. 54-56).
+level within the authorities were not interviewed. For improved intercoder reliability,
+independent verification of the coding carried out by at least one second researcher
+is also recommended \cite{Bogner.2002c,Glaser.2009,MAXQDA.16.03.2020}.
+Lastly, the research structure, following the DSR process, was executed linearly rather
+than iteratively as recommended \cite{Peffers.2007}.
 
-Nevertheless, the study furnishes future researchers with a robust knowledge base on OSINT 
-through a practice-validated trend radar. This facilitates an updated assessment of OSINT 
-trends and underscores the current research landscape. The study reveals two crucial 
-unanswered research questions and offers nine detailed research gaps for further exploration 
-in the field. Before addressing these questions, future research endeavors are advised 
-to validate them further. Utilizing the presented tools to reevaluate literature 
-categorization and update identified technologies is recommended. In addition, semantic 
-control and indexing methods (e.g. LLM) should be included. Due to the high dynamic of the research field, 
-it is also recommended to integrate news articles and scientific journals with shorter publication cycles. 
-Reassessing categories based on MECE criteria and conducting further interviews, including internationally 
-and with active authority members, is advisable. Employing methods like the Delphi technique to evaluate 
-trends and establish consensus is suggested (Häder & Häder, 2000, pp. 12-15). Subsequent iterations of the design process and adjustments 
-to the trend radar, if necessary, should follow based on these results  (Peffers et al., 2007, pp. 52-56; Sonnenberg & vom Brocke, 2012, pp. 15-18).
+Nevertheless, the study furnishes future researchers with a robust knowledge base on OSINT
+through a practice-validated trend radar. This facilitates an updated assessment of OSINT
+trends and underscores the current research landscape. The study reveals two crucial
+unanswered research questions and offers nine detailed research gaps for further exploration
+in the field. Before addressing these questions, future research endeavors are advised
+to validate them further. Utilizing the presented tools to reevaluate literature
+categorization and update identified technologies is recommended. In addition, semantic
+control and indexing methods (e.g. LLM) should be included. Due to the high dynamic of the research field,
+it is also recommended to integrate news articles and scientific journals with shorter publication cycles.
+Reassessing categories based on MECE criteria and conducting further interviews, including internationally
+and with active authority members, is advisable. Employing methods like the Delphi technique to evaluate
+trends and establish consensus is suggested \cite{Hader.2000}. Subsequent iterations of the design process and adjustments
+to the trend radar, if necessary, should follow based on these results \cite{Peffers.2007,Sonnenberg.2012}.
 
 \section{Conclusion}
 
-In this paper, a practice-validated trend radar was developed that depicts current trends 
-in the field of OSINT through applied technologies. It serves as a comprehensive knowledge base, 
-allowing for contemporary evaluation and analysis of OSINT technologies and identifying research 
-gaps for future studies, penetrating the complex research field. Moreover, it serves as a guideline for practitioners. The radar 
-is adaptable to the evolving subject area and transferable to other intelligence disciplines. 
-Results reveal the absence of an automated third-generation OSINT system in Germany, highlighting the 
-need for technological support in the planning and direction as well as the dissemination and integration phases. 
-The research questions identified for future studies are therefore why proven, available applications, 
-have not yet found widespread use, especially in the security authorities. 
-In addition, the question of how the first and last Intelligent Cycle phases, alongside the others, 
-can be better supported technically is to be investigated. The research gaps identified extend 
-not only to technology, but in particular to the legal, administrative, political and 
-social sciences, necessitating interdisciplinary collaboration. Above all, a need to catch up is seen 
-in the non-technical research fields, responsible for creating the decisive prerequisites for technology 
+In this paper, a practice-validated trend radar was developed that depicts current trends
+in the field of OSINT through applied technologies. It serves as a comprehensive knowledge base,
+allowing for contemporary evaluation and analysis of OSINT technologies and identifying research
+gaps for future studies, penetrating the complex research field. Moreover, it serves as a guideline for practitioners. The radar
+is adaptable to the evolving subject area and transferable to other intelligence disciplines.
+Results reveal the absence of an automated third-generation OSINT system in Germany, highlighting the
+need for technological support in the planning and direction as well as the dissemination and integration phases.
+The research questions identified for future studies are therefore why proven, available applications,
+have not yet found widespread use, especially in the security authorities.
+In addition, the question of how the first and last Intelligent Cycle phases, alongside the others,
+can be better supported technically is to be investigated. The research gaps identified extend
+not only to technology, but in particular to the legal, administrative, political and
+social sciences, necessitating interdisciplinary collaboration. Above all, a need to catch up is seen
+in the non-technical research fields, responsible for creating the decisive prerequisites for technology
 implementation.
 
 
