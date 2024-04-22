@@ -34,8 +34,6 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-
-
     Open Source Intelligence (OSINT) is currently experiencing an intensive discourse,
     heightened since the Russian invasion of Ukraine. However, despite numerous attempts
     at standardized definitions, the intelligence discipline remains ambiguous. This paper
@@ -51,8 +49,6 @@
     prioritize developing applications for underserved phases, probing reasons for limited
     widespread implementation of proven applications, with emphasis on legal, ethical,
     political, and social parameters.
-
-
 \end{abstract}
 
 \section{Introduction}
@@ -67,7 +63,7 @@ This is not least because every definition of OSINT is subject to the advances
 in computer and data sciences, which continuously produce improvements in (intelligent)
 collection and analysis possibilities \cite{Ghioni.2023, Williams.2018}. This is
 accompanied by numerous new open means of communication, which have caused a veritable
-"information explosion"\cite{DosPassos.2017, Hwang.2022, Yogish.2021}.
+"information explosion" \cite{DosPassos.2017, Hwang.2022, Yogish.2021}.
 Data sources that were originally reserved for the defense and intelligence services are
 now publicly accessible \cite{Hwang.2022, Williams.2018}. The understanding of
 intelligence thus changed completely \cite{Dokman.2020}.
@@ -197,6 +193,7 @@ OSINT in conjunction with AI. They discovered that there is still no framework
 for addressing these. They also found that third-generation OSINT is still in its early
 stages and that human components cannot yet be replaced.
 
+
 \section{Research Methodology}
 
 The structure of the study is based on the iterative DSRM \cite{Peffers.2007}. It is a theory-based
@@ -274,7 +271,7 @@ as "the totality of material and immaterial means available for
 the input, output, conversion, transmission and storage of information" \cite{Bleck.2004}.
 The fifth category evaluates the complexity of the technologies
 examined. The three subcategories
-"Volume" \cite{OLeary.2012}, "Variety" and "Velocity" were used \cite{Elgendy.,Russom.2011,Singh.2012}.
+"Volume" \cite{OLeary.2012}, "Variety" and "Velocity" were used \cite{Elgendy.2014,Russom.2011,Singh.2012}.
 Variety is further subdivided according to the data structure (structured \cite{Lin.2018},
 semi-structured and unstructured \cite{Katal.2013,Praveen.2020}) \cite{OLeary.2012}. Velocity,
 is further subdivided into the levels "Batch" \cite{Carbone.2015}, "Near Real-Time"
@@ -344,7 +341,7 @@ Especially in less structured and sparsely linked subject areas, the method
 enables dense data collection \cite{Bogner.2014,Meuser.1991}. Additionally,
 it is suitable in cases where access to the social field is limited \cite{Bogner.2002c, Glaser.2009}.
 
-The experts (Tab. \reference{tab: experts}) were selected according to the method of
+The experts (Tab. \ref{tab: experts}) were selected according to the method of
 theoretical sampling \cite{Glaser.1967,Eisenhardt.1989}. It was specified that only experts in
 Germany should be interviewed to validate the trends in this
 country. It was also determined that at least one expert each
@@ -475,20 +472,12 @@ the analysis and production phase and the processing and exploitation phase.
 The dissemination and integration phase is covered by far the least after the planning
 and direction phase.
 
-These findings align with the experts' practical experiences. They regard the Intelligence Cycle
-as "state of the art" (cf. E3, 28.12.2023), but note different manifestations of the phases in praxis (cf. E4, 02.08.2023).
-The planning and direction phase is often neglected, despite its crucial importance, leading to wasteful
-production (cf. E3, 28.07.2023). Conversely, OSINT is frequently associated solely with the collection phase,
-resulting in subpar outcomes due to high volumes of low-quality data (cf. E1, 14.07.2023; E2, 19.07.2023; E3, 28.07.2023).
-The main reason for this is, that the Intelligence Cycle is operated by at least three groups of people.
-Firstly, the customers, usually located at the "decision-maker level", with a primarily legal professional background (cf. E2, 19.07.2023).
-The second is the technician who carries out the data collection and processing (cf. E2, 19.07.2023; E3, 28.07.2023).
-Lastly, the analyst evaluates the data and creates the intelligence product
-(cf. E1, 14.07.2023). The process thereby is rarely transparent between the parties
-(cf. E1, 14.07.2023; E2, 19.07.2023) and is rarely anchored at the organizational level
-(cf. E4, 02.08.2023). According to the experts, there is thus no third-generation
-OSINT tool in use, at least not in German authorities. In addition, the collection focus is driven by concerns
-about missing vital information, which could later be revealed as publicly available (cf. E1, 14.07.2023).
+These findings align with the experts' practical experiences. They regard the Intelligence Cycle as "state of the art" (cf. E3, 28.12.2023), but note different manifestations of the phases in praxis (cf. E4, 02.08.2023).
+The planning and direction phase is often neglected, despite its crucial importance, leading to wasteful production (cf. E3, 28.07.2023). Conversely, OSINT is frequently associated solely with the collection phase,
+resulting in subpar outcomes due to high volumes of low-quality data (cf. E1, 14.07.2023; E2, 19.07.2023; E3, 28.07.2023). The main reason for this is, that the Intelligence Cycle is operated by at least three groups of people. Firstly, the customers, usually located at the "decision-maker level", with a primarily legal professional background (cf. E2, 19.07.2023).
+The second is the technician who carries out the data collection and processing (cf. E2, 19.07.2023; E3, 28.07.2023). Lastly, the analyst evaluates the data and creates the intelligence product (cf. E1, 14.07.2023). The process thereby is rarely transparent between the parties
+(cf. E1, 14.07.2023; E2, 19.07.2023) and is rarely anchored at the organizational level (cf. E4, 02.08.2023). According to the experts, there is thus no third-generation
+OSINT tool in use, at least not in German authorities. In addition, the collection focus is driven by concerns about missing vital information, which could later be revealed as publicly available (cf. E1, 14.07.2023).
 
 \subsection{Use Cases in Theory-Practice Comparison}
 
@@ -520,7 +509,7 @@ Established technologies include "off the shelf" tools (cf. \cite{Middleton.2020
 solutions like "Tweepy," a Python library for Twitter crawlers (cf. \cite{Adewopo.2020,Tekin.2021}).
 More advanced prototypes involve combining parallelized, recursive, source-specific web crawlers and scrapers for improved
 data collection (cf. \cite{Jenkins.2021,Rajendran.2022}). Another method in the prototype phase is
-"focused crawling", adapting the crawling path dynamically using a content-driven ML algorithm, BERT („Bidirectional Encoder Representation from Transformers“)
+"focused crawling", adapting the crawling path dynamically using a content-driven ML algorithm, BERT ("Bidirectional Encoder Representation from Transformers")
 (cf. \cite{Kuehn.2023}). Technologies for crawling/scraping the dark web, like "Torsion" (cf. \cite{Sonawane.2022}),
 were assigned to the innovation phase. The experts also note the increasing use of open source tools alongside manual work
 (cf. E1, 14.07.2023; E3, 28.07.2023; E1, 14.07.2023). However, they consider traditional web crawling and scraping
@@ -603,20 +592,15 @@ definition and communication, which could alleviate the overemphasis on the coll
 (RG2) Moreover, concerning the final phase, there's a dearth of dissemination and integration mechanisms
 tailored to authorities, largely due to insufficient user testing and iterative feedback incorporation.
 However, established frameworks and the Intelligence Cycle itself underscore the indispensability of
-consumer feedback for value-generating products \cite{DirectorofNationalIntelligence.2011,JointChiefsofStaffU.S.Army.2013,NorthAtlanticTreatyOrganization.2001} as
-it can significantly reduce data overload \cite{Gibson.2016} and enhance product credibility and quality \cite{Day.2016}.
+consumer feedback for value-generating products \cite{DirectorofNationalIntelligence.2011,JointChiefsofStaffU.S.Army.2013,NorthAtlanticTreatyOrganization.2001} as it can significantly reduce data overload \cite{Gibson.2016} and enhance product credibility and quality \cite{Day.2016}.
 (RG3) Furthermore, the future of OSINT systems hinges on modular concepts, yet only two studies have
 been found on this (cf. \cite{Arjun.2020,Wright.2020}). (RG4) Accordingly, it's imperative to revamp
 procurement procedures moving away from monolithic stand-alone setups. (RG5) Ensuring compliance with
-ethical and legal principles at the client and customer level is vital for product adoption,
-necessitating robust legislative updates to establish appropriate frameworks \cite{Ghioni.2023,Wittmer.2022}.
+ethical and legal principles at the client and customer level is vital for product adoption, necessitating robust legislative updates to establish appropriate frameworks \cite{Ghioni.2023,Wittmer.2022}.
 This involves not only national but also international-level considerations, such as GDPR regulations
-\cite{EuropeanParliament.2016,EuropeanCommission.18.08.2023, taking into account not solely
-individual but societal impacts \cite{Ghioni.2023}. To date, these topics remain
-underexplored \cite{Ghioni.2023,Wittmer.2022}. (RG6) Addressing these
-challenges necessitates a foundational level of technical understanding at decision-maker
-levels, fostering openness to technology, and cultivating an information-sharing mindset,
-leveraging the public availability of information to transcend bureaucratic 
+\cite{EuropeanParliament.2016,EuropeanCommission.18.08.2023}, taking into account not solely
+individual but societal impacts \cite{Ghioni.2023}. To date, these topics remain underexplored \cite{Ghioni.2023,Wittmer.2022}. (RG6) Addressing these challenges necessitates a foundational level of technical understanding at decision-maker
+levels, fostering openness to technology, and cultivating an information-sharing mindset, leveraging the public availability of information to transcend bureaucratic
 barriers \cite{NorthAtlanticTreatyOrganization.2001}.
 
 The analysts, comprising the second group, create the final
