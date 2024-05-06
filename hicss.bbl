@@ -113,7 +113,8 @@ R.~Johnston, {\em Analytic culture in the US intelligence community: An ethnogra
 \newblock Washington, DC: {Central lntelligence Agency (CIA)}, 2005.
 
 \bibitem{DepartmentoftheArmy.2012}
-``Open-source intelligence.''
+{Department of the Army}, ``Open-source intelligence,'' Tech. Rep. 2-22.9 (FMI 2-22.9), Army Techniques Publication, Washington, DC, 2012.
+\newblock \url{https://irp.fas.org/doddir/army/atp2-22-9.pdf}.
 
 \bibitem{DirectorofNationalIntelligence.2011}
 {Director of National Intelligence}, {\em U.S. National Intelligence: An Overview 2011}.
@@ -123,7 +124,6 @@ R.~Johnston, {\em Analytic culture in the US intelligence community: An ethnogra
 \bibitem{CentralIntelligenceAgency.2023}
 {Central Intelligence Agency}, {\em The Intelligence Cycle: Briefing}.
 \newblock 2023.
-\newblock \url{https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjZns_k4p3_AhUTSPEDHbkLB5MQFnoECAoQAQ&url=https%3A%2F%2Fwww.cia.gov%2Fspy-kids%2Fparents-teachers%2Fdocs%2FBriefing-intelligence-cycle.pdf&usg=AOvVaw2Q1nvOvDRkt52oOJn_1PbA}.
 
 \bibitem{GarciaLozano.2020}
 M.~{Garc{\'i}a Lozano}, J.~Brynielsson, U.~Franke, M.~Rosell, E.~Tj{\"o}rnhammar, S.~Varga, and V.~Vlassov, ``Veracity assessment of online data,'' {\em Decision Support Systems}, vol.~129, p.~113132, 2020.
@@ -150,7 +150,7 @@ C.~Duncheon, ``Product miniaturization requires automation -- but with a strateg
 M.~R. Endsley and D.~B. Kaber, ``Level of automation effects on performance, situation awareness and workload in a dynamic control task,'' {\em Ergonomics}, vol.~42, no.~3, pp.~462--492, 1999.
 
 \bibitem{Sheridan.1978}
-T.~B. Sheridan and W.~L. Verplank, ``Human and computer control of undersea teleoperators.''
+T.~B. Sheridan and W.~L. Verplank, ``Human and computer control of undersea teleoperators,'' 1978.
 
 \bibitem{Parasuraman.2000}
 R.~Parasuraman, T.~B. Sheridan, and C.~D. Wickens, ``A model for types and levels of human interaction with automation,'' {\em IEEE transactions on systems, man, and cybernetics. Part A, Systems and humans : a publication of the IEEE Systems, Man, and Cybernetics Society}, vol.~30, no.~3, pp.~286--297, 2000.
@@ -160,7 +160,7 @@ S.~Bleck, {\em Entwicklung einer Methodik zur integrierten Planung von Informati
 \newblock Aachen: Shaker, 2004.
 
 \bibitem{OLeary.2012}
-D.~E. O'Leary, ``Artificial intelligence and big data,'' {\em iEEE iNTElliGENT SYSTEMS}, 2012.
+D.~E. O'Leary, ``Artificial intelligence and big data,'' {\em IEEE Intelligent Systems}, 2012.
 
 \bibitem{Elgendy.2014}
 N.~Elgendy and A.~Elragal, ``Big data analytics: A literature review paper,'' in {\em Advances in Data Mining}, vol.~8557, pp.~214--227, 2014.
@@ -170,7 +170,7 @@ P.~Russom, ``Big data analytics,'' tech. rep., {TDWI best practices Report}, 201
 \newblock \url{https://tdwi.org/research/2011/09/best-practices-report-q4-big-data-analytics.aspx}.
 
 \bibitem{Singh.2012}
-S.~Singh and N.~Singh, ``Big data analytics,'' in {\em 2012 International Conference on Communication, Information & Computing Technology (ICCICT)}, pp.~1--4, 2012.
+S.~Singh and N.~Singh, ``Big data analytics,'' in {\em 2012 International Conference on Communication, Information \& Computing Technology (ICCICT)}, pp.~1--4, 2012.
 
 \bibitem{Lin.2018}
 Y.~Lin, Z.~Jun, M.~Hongyan, Z.~Zhongwei, and F.~Zhanfang, ``A method of extracting the semi-structured data implication rules,'' {\em Procedia Computer Science}, vol.~131, pp.~706--716, 2018.
