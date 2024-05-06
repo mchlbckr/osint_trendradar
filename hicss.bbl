@@ -7,7 +7,8 @@ D.~S. {Dos Passos}, ``Big data, data science and their contributions to the deve
 J.~M. Hatfield, ``There is no such thing as open source intelligence,'' {\em International Journal of Intelligence and CounterIntelligence}, pp.~1--22, 2023.
 
 \bibitem{SmithBoyle.24.07.2023}
-V.~Smith-Boyle, ``How osint has shaped the war in ukraine,'' 24.07.2023.
+V.~Smith-Boyle, ``How osint has shaped the war in ukraine,'' 2023.
+\newblock \url{https://www.americansecurityproject.org/osint-in-ukraine/#:%01:text=Open%2Dsource%20intelligence%2C%20or%20OSINT,synthesized%2C%20and%20analyzed%20into%20intelligence}.
 
 \bibitem{Hwang.2022}
 Y.-W. Hwang, I.-Y. Lee, H.~Kim, H.~Lee, and D.~Kim, ``Current status and security trend of osint,'' {\em Wireless Communications and Mobile Computing}, vol.~2022, pp.~1--14, 2022.
@@ -64,7 +65,7 @@ I.~B{\"o}hm and S.~Lolagar, ``Open source intelligence,'' {\em International Cyb
 S.~C. Mercado, ``Reexamining the distinction between open information and secrets,'' {\em Studies in Intelligence}, vol.~49, no.~2, 2005.
 
 \bibitem{Schaurer.2010}
-F.~Schaurer and J.~St{\"o}rger, ``The evolution of open source intelligence.''
+F.~Schaurer and J.~St{\"o}rger, ``The evolution of open source intelligence,'' Tech. Rep. 2010(3), {International Relations and Security Network (ISN), ETH Z{\"u}rich}, Z{\"u}rich.
 
 \bibitem{Gibson.2016}
 H.~Gibson, ``Acquisition and preparation of data for osint investigations,'' in {\em Open Source Intelligence Investigation} (B.~Akhgar, P.~S. Bayerl, and F.~Sampson, eds.), Advanced Sciences and Technologies for Security Applications, pp.~69--93, Cham: {Springer International Publishing}, 2016.
@@ -73,22 +74,28 @@ H.~Gibson, ``Acquisition and preparation of data for osint investigations,'' in 
 C.~Burke, ``Freeing knowledge, telling secrets: Open sourceintelligence and development,'' {\em Research paper series: Centre for East-West Cultural {\&} Economic Studies}, no.~13, 2007.
 
 \bibitem{NorthAtlanticTreatyOrganization.2001}
-``Nato open source intelligence handbook.''
+{North Atlantic Treaty Organization}, {\em NATO Open Source Intelligence Handbook}.
+\newblock 2001.
+\newblock \url{https://github.com/lawsecnet/OPSEC/blob/master/NATO%20OSINT%20Handbook%20v1.2%20-%20Jan%202002.pdf}.
 
 \bibitem{Breakspear.2013}
 A.~Breakspear, ``A new definition of intelligence,'' {\em Intelligence and National Security}, vol.~28, no.~5, pp.~678--693, 2013.
 
 \bibitem{May.2020}
-``The security intelligence handbook: Third edition: How to disrupt adversaries and reduce risk with security intelligence.''
+J.~May, {\em The Security Intelligence Handbook, Third Edition: How to Disrupt Adversaries and Reduce Risk with Security Intelligence}.
+\newblock CyberEdge Press, 2020.
 
 \bibitem{CentralIntelligenceAgency.1987}
-``Factbook on intelligence.''
+{Central Intelligence Agency}, {\em Factbook on Intelligence}.
+\newblock 1987.
+\newblock \url{https://www.cia.gov/readingroom/document/cia-rdp90-00530r000701680019-5}.
 
 \bibitem{Reuser.2017}
 A.~Reuser, ``The ris open source intelligence cycle,'' {\em Journal of Mediterranean and Balkan Intelligence}, vol.~10, no.~2, 2017.
 
 \bibitem{JointChiefsofStaffU.S.Army.2013}
-``Joint intelligence.''
+{U.S. Joint Force Command}, ``Joint intelligence,'' in {\em {Joint Publication 2-0 (JP 2-0)}} ({Joint Chiefs of Staff U.S. Army}, ed.), {Joint Publications Intelligence Series}.
+\newblock \url{https://irp.fas.org/doddir/dod/jp2_0.pdf}.
 
 \bibitem{Pellissier.2013}
 R.~Pellissier and T.~E. Nenzhelele, ``Towards a universal competitive intelligence process model,'' {\em SA Journal of Information Management}, vol.~15, no.~2, 2013.
@@ -109,10 +116,14 @@ R.~Johnston, {\em Analytic culture in the US intelligence community: An ethnogra
 ``Open-source intelligence.''
 
 \bibitem{DirectorofNationalIntelligence.2011}
-``U.s. national intelligence: An overview 2011.''
+{Director of National Intelligence}, {\em U.S. National Intelligence: An Overview 2011}.
+\newblock 2011.
+\newblock \url{https://www.dni.gov/files/documents/IC_Consumers_Guide_2011.pdf}.
 
 \bibitem{CentralIntelligenceAgency.2023}
-``The intelligence cycle: Briefing.''
+{Central Intelligence Agency}, {\em The Intelligence Cycle: Briefing}.
+\newblock 2023.
+\newblock \url{https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjZns_k4p3_AhUTSPEDHbkLB5MQFnoECAoQAQ&url=https%3A%2F%2Fwww.cia.gov%2Fspy-kids%2Fparents-teachers%2Fdocs%2FBriefing-intelligence-cycle.pdf&usg=AOvVaw2Q1nvOvDRkt52oOJn_1PbA}.
 
 \bibitem{GarciaLozano.2020}
 M.~{Garc{\'i}a Lozano}, J.~Brynielsson, U.~Franke, M.~Rosell, E.~Tj{\"o}rnhammar, S.~Varga, and V.~Vlassov, ``Veracity assessment of online data,'' {\em Decision Support Systems}, vol.~129, p.~113132, 2020.
@@ -155,10 +166,11 @@ D.~E. O'Leary, ``Artificial intelligence and big data,'' {\em iEEE iNTElliGENT S
 N.~Elgendy and A.~Elragal, ``Big data analytics: A literature review paper,'' in {\em Advances in Data Mining}, vol.~8557, pp.~214--227, 2014.
 
 \bibitem{Russom.2011}
-P.~Russom, ``Big data analytics.''
+P.~Russom, ``Big data analytics,'' tech. rep., {TDWI best practices Report}, 2011.
+\newblock \url{https://tdwi.org/research/2011/09/best-practices-report-q4-big-data-analytics.aspx}.
 
 \bibitem{Singh.2012}
-S.~Singh and N.~Singh, ``Big data analytics.''
+S.~Singh and N.~Singh, ``Big data analytics,'' in {\em 2012 International Conference on Communication, Information & Computing Technology (ICCICT)}, pp.~1--4, 2012.
 
 \bibitem{Lin.2018}
 Y.~Lin, Z.~Jun, M.~Hongyan, Z.~Zhongwei, and F.~Zhanfang, ``A method of extracting the semi-structured data implication rules,'' {\em Procedia Computer Science}, vol.~131, pp.~706--716, 2018.
@@ -183,9 +195,6 @@ V.~Stich, M.-F. Stroh, M.~Abbas, K.~Frings, and S.~Kremer, ``Digitalisierung der
 
 \bibitem{Delen.2013}
 D.~Delen and H.~Demirkan, ``Data, information and analytics as services,'' {\em Decision Support Systems}, vol.~55, no.~1, pp.~359--363, 2013.
-
-\bibitem{GartnerGmbH.2012}
-``Magic quadrant for bi platforms: Analytics value escalator.''
 
 \bibitem{Robinson.1970}
 F.~P. Robinson, {\em Effective study}.
@@ -215,9 +224,6 @@ A.~Bogner and W.~Menz, ``Das theoriegenerierende experteninterview,'' in {\em Da
 \bibitem{Saunders.2012}
 M.~Saunders, P.~Lewis, and A.~Thornhill, {\em Research methods for business students}.
 \newblock Always learning, Harlow and Munich: Pearson, 6. ed.~ed., 2012.
-
-\bibitem{MAXQDA.19.07.2023}
-``Maxqda - software f{\"u}r qualitative {\&} mixed-methods-forschung,'' 19.07.2023.
 
 \bibitem{Ahuja.2022}
 K.~Ahuja, Khushi, Dipali, and N.~Sharma, ``Cyber security threats and their connection with twitter,'' in {\em 2022 Second International Conference on Artificial Intelligence and Smart Energy (ICAIS)}, pp.~1458--1463, IEEE, 2022.
@@ -325,10 +331,12 @@ W.~X. Zhao, K.~Zhou, J.~Li, T.~Tang, X.~Wang, Y.~Hou, Y.~Min, B.~Zhang, J.~Zhang
 M.~Schilling, H.~Ritter, and F.~W. Ohl, ``From crystallized adaptivity to fluid adaptivity in deep reinforcement learning --- insights from biological systems on adaptive flexibility.''
 
 \bibitem{Unver.2018}
-H.~A. {\"U}nver, ``Digital open source intelligence and international security: A primer.''
+H.~A. Ünver, ``Digital open source intelligence and international security: A primer,'' tech. rep., Centre for Economics and Foreign Policy Studies, 2018.
 
 \bibitem{NorthAtlanticTreatyOrganization.2002}
-``Nato open source intelligence reader.''
+{North Atlantic Treaty Organization}, {\em NATO Open Source Intelligence Reader}.
+\newblock 2002.
+\newblock \url{https://cyberwar.nl/d/NATO%20OSINT%20Reader%20FINAL%20Oct2002.pdf}.
 
 \bibitem{Lee.2018}
 C.-Y. Lee and B.-S. Chen, ``Mutually-exclusive-and-collectively-exhaustive feature selection scheme,'' {\em Applied Soft Computing}, vol.~68, pp.~961--971, 2018.
@@ -336,9 +344,6 @@ C.-Y. Lee and B.-S. Chen, ``Mutually-exclusive-and-collectively-exhaustive featu
 \bibitem{Rasiel.1999}
 E.~M. Rasiel, {\em The McKinsey way: Using the techniques of the world's top strategic consultants to help you and your business}.
 \newblock New York: McGraw-Hill, 1999.
-
-\bibitem{MAXQDA.16.03.2020}
-``Intercoder-{\"u}bereinstimmung,'' 16.03.2020.
 
 \bibitem{Hader.2000}
 M.~H{\"a}der and S.~H{\"a}der, eds., {\em Die Delphi-Technik in den Sozialwissenschaften: Methodische Forschungen und innovative Anwendungen}.
