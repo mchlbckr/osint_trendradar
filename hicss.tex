@@ -62,7 +62,7 @@ This study is guided by the overarching research question: \textit{How can the c
 
 
 
-\section{Theoretical Background}
+\section{Theoretical Background} \label{sec:theoreticalbackground}
 
 The domain of OSINT is continuously expanding due to the ongoing improvements of
 collecting and analysis possibilities \cite{AlKilani.2021, Ghioni.2023, Williams.2018}. In
@@ -162,142 +162,88 @@ stages and that human components cannot yet be replaced.
 
 \section{Research Methodology}
 
-The structure of the study is based on the iterative DSRM \cite{Peffers.2007}. It is a theory-based
+The structure of the study is based on the iterative Design Science Research Model (DSRM) \cite{Peffers.2007}. It is a theory-based
 research paradigm for developing an explicitly applicable solution, in the form of an innovative artifact,
 \cite{vomBrocke.2020b}, solving a (practical) problem \cite{Peffers.2007,Hevner.2004}. The model is therefore ideally suited to
-create the trend radar. It consists of six successive activities (see figure \ref{fig: DSRM}) \cite{Peffers.2007}.
-Moreover, the first three evaluation steps according to Sonnenberg and vom Brocke \cite{Sonnenberg.2012}
-were applied to continuously evaluate the design process.
+create the trend radar. It consists of six successive activities \cite{Peffers.2007}:
 
-\begin{figure*}[thb]
-    \centering
-    \includegraphics[width=\textwidth]{PDF/images/crop_DSRM}
-    \caption{Design Science Research Model (DSRM)}
-    \label{fig: DSRM}
-\end{figure*}
+\begin{enumerate}
+    \item Problem identification and motivation
+    \item Objectives of the solution
+    \item Design and development
+    \item Demonstration
+    \item Evaluation
+    \item Communication
+\end{enumerate}
 
-\subsection{Problem Identification and Motivation}
+We will discuss steps 2-5 indetail, while the first step (problem identification and motivation) is summarized in section \ref{sec:introduction} and results of step 6 (communication) are described in sections \ref{sec:results} and \ref{sec:discussion}. Following \cite{Sonnenberg.2012}, steps 1-4 were continuously evaluated during the study.
 
-First, the research problem must be defined and the benefits of the solution explained (see section \ref{sec:introduction}).
+%\begin{figure*}[thb]
+%    \centering
+%    \includegraphics[width=\textwidth]{PDF/images/crop_DSRM}
+%    \caption{Design Science Research Model (DSRM)}
+%    \label{fig: DSRM}
+%\end{figure*}
+
+
 
 \subsection{Design Objectives of the Solution}
 
-The next step is to define the design objectives of the solution. The
-objectives can be divided into two content-related objectives (CO) and
-two formal objectives (FO). CO1 requires the trend radar to follow a procedural
-structure that reflects the process of generating intelligence. This will allow a structured mapping of the
-identified technologies according to their use. In doing so, any
-research gaps that become apparent can be directly assigned to the
-respective phase. It will thus be possible to verify if a third-generation OSINT system exists. As CO2, it was defined that the key
-characteristics, in particular the maturity level of the technologies
-and their use cases, must be taken into account. The maturity level of
-the technologies makes it possible to determine the respective research status.
-Through the use cases, the research directions can be
-revealed. As FO1, it was determined that the trend radar must follow
-a simple structure to enable the immediate identification of research gaps. In addition,
-the radar should have a high degree of standardization to be
-transferable to other intelligence gathering disciplines in later
-studies. As FO2, it was decided that the trend radar should be continuously expandable to capture the high field dynamics.
+The design objectives of the solution are divided into content-related objectives (CO) and formal objectives (FO). 
+
+\subsubsection*{Content-related objectives (CO)}
+
+\begin{itemize}
+    \item[CO1] The trend radar must follow a procedural structure that reflects the process of generating intelligence. This will allow a structured mapping of the identified technologies according to their use. In doing so, any research gaps that become apparent can be directly assigned to the respective phase. It will thus be possible to verify if a third-generation OSINT system exists.
+    \item[CO2] The key characteristics, in particular the maturity level of the technologies and their use cases, must be taken into account. The maturity level of the technologies makes it possible to determine the respective research status. Through the use cases, the research directions can be revealed.
+\end{itemize}
+
+\subsubsection*{Formal objectives (FO)}
+
+\begin{itemize}
+    \item[FO1] The trend radar must follow a simple structure to enable the immediate identification of research gaps. In addition, the radar should have a high degree of standardization to be transferable to other intelligence gathering disciplines in later studies.
+    \item[FO2] The trend radar should be continuously expandable to capture the high field dynamics.
+\end{itemize}
+
 
 \subsection{Evaluation of the Problem Statement and Design Objectives}
 
-In the theoretical background section, the main definitions, in
-particular, the intelligence cycle, which serves as a basis for the
-development of the trend radar ("suitability"), were presented. Moreover,
-the presentation of previous research work showed that there
-is still a lack of broad-based studies examining OSINT. Both the
-relevance of the research question and the suitability of the
-design objectives are thus underpinned \cite{Sonnenberg.2012}.
+In Section \ref{sec:theoreticalbackground}, we define key concepts foundational to our research, focusing particularly on the intelligence cycle. This cycle is crucial as it forms the theoretical basis for the development of our trend radar tool, which we assess for its suitability within the OSINT framework. Additionally, our review of prior studies exposes a notable gap in comprehensive research on OSINT, highlighting the importance and relevance of our inquiry.
+
 
 \subsection{Design and Development}
+In the third activity of the DSRM, the creation of the artifact involves conducting a systematic literature review, as delineated by \cite{Cleven.2009}. Utilizing Cooper's taxonomy \cite{Cooper.1988} for scoping the literature review, we established classification categories to create concept matrices for a structured analysis of the literature \cite{Webster.2002}.
 
-The third activity involves the creation of the artifact. For this
-purpose, the relevant literature on OSINT was analyzed through a
-systematic literature review \cite{Cleven.2009}. To clearly define the scope of the literature
-review, Cooper's taxonomy \cite{Cooper.1988} was used. Subsequently, classification
-categories were defined to establish concept matrices \cite{Webster.2002},
-to systematically analyze the researched literature. To achieve a high degree of standardization,
-general categories were defined for each phase of the intelligence
-cycle. The evaluation and feedback phase was not treated separately due
-to its iterative nature.
+To ensure a standardized approach across the intelligence cycle, general categories were defined corresponding to each phase, with the evaluation and feedback phases integrated due to their iterative nature. For the collection phase, the following six categories were developed:
+\begin{itemize}
+    \item \textbf{Use case:} Application areas of the technologies.
+    \item \textbf{Data:} Composition and types of data foundations, including data format and source.
+    \item \textbf{Process:} Degree of automation in the technologies, categorized into manual, semi-automated, automated, and fully automated/autonomous \cite{Duncheon.2002, Billings.1997, Endsley.1999}.
+    \item \textbf{Technology:} Material and immaterial means used for managing information \cite{Bleck.2004}.
+    \item \textbf{Technology Complexity:} Assessed through subcategories of Volume, Variety, and Velocity \cite{OLeary.2012, Elgendy.2014, Russom.2011, Singh.2012}.
+    \item \textbf{Maturity Level:} Based on the phases of innovation, prototype, and market establishment \cite{Stich.2022}.
+\end{itemize}
 
-The following six categories were defined for the collection
-phase: "use case", "data", "process", "technology", "technology
-complexity" and "maturity level". First, the area of application
-of the technologies was recorded under the use case. The
-category data reveals the composition of the data foundation. It is further subdivided
-into the data type to record the formats and
-the source to show the origin of the data. The category
-process is used to determine the degree of automation of the technologies. For this purpose, the following
-four levels were defined: manual, semi-automated, automated,
-\cite{Duncheon.2002} fully automated/autonomous \cite{Billings.1997,Endsley.1999}.
-To improve categorization, the ten levels of automation \cite{Sheridan.1978,Parasuraman.2000}
-were used. The fourth category serves to capture the technologies, defined
-as "the totality of material and immaterial means available for
-the input, output, conversion, transmission and storage of information" \cite{Bleck.2004}.
-The fifth category evaluates the complexity of the technologies
-examined. The three subcategories
-"Volume" \cite{OLeary.2012}, "Variety" and "Velocity" were used \cite{Elgendy.2014,Russom.2011,Singh.2012}.
-Variety is further subdivided according to the data structure (structured \cite{Lin.2018},
-semi-structured and unstructured \cite{Katal.2013,Praveen.2020}) \cite{OLeary.2012}. Velocity,
-is further subdivided into the levels "Batch" \cite{Carbone.2015}, "Near Real-Time"
-\cite{Stankovic.1990,Gomes.2021} and "Real-Time" \cite{Stankovic.1990}. The sixth category reflects the
-maturity level of the technologies used, based on the three macro-maturity phases of the
-German Federal Trend Radar: innovation phase, prototype phase and
-market establishment phase \cite{Stich.2022}.
+Similar categories were adapted for other phases of the intelligence cycle, with complexity measured via the analytics spectrum: descriptive, diagnostic, predictive, and prescriptive \cite{Delen.2013}.
 
-For the remaining phases the categories use case, process,
-technology, technology complexity and maturity level
-were likewise defined. However, the complexity within the remaining
-phases is measured based on the underlying analysis, in
-ascending order: descriptive analysis, diagnostic analysis, predictive
-analysis, prescriptive analysis \cite{Delen.2013}.
-
-After defining the classification criteria, the literature research
-was carried out (Fig. \ref{fig:LiteratureReview}). A search string based on
-general terms for the highest possible number of hits was determined. Only studies
-with full access were considered. As the number of publications
-increased significantly between 2020 and 2023, the period was reduced
-to these years to ensure the most up-to-date coverage possible.
-The studies were downloaded on 05.06.2023. The
-SQR3 method \cite{Robinson.1970} was applied for the systematic analysis and further
-delimitation. Altogether 60 studies were categorized.
+The literature search, executed using a broad search string to maximize retrieval, was limited to publications from 2020 to 2023 to reflect recent advancements. A total of 60 studies were analyzed using the SQR3 method \cite{Robinson.1970} and categorized into a meticulously structured Excel spreadsheet for each phase of the intelligence cycle (Fig. \ref{fig:LiteratureReview}).
 
 \begin{figure}[t]
     \centering
     \includegraphics[width=0.4\textwidth]{PDF/images/crop_Kategorisierungskriterien und Literraturreviewaufbau}
-    \caption{Literature review}
+    \caption{Literature review setup and categorization criteria}
     \label{fig:LiteratureReview}
 \end{figure}
 
-For categorization, a dedicated Excel spreadsheet was created per
-Intelligence Cycle phase and the OSINT technologies and their
-characteristics were methodically recorded \cite{Cleven.2009, Webster.2002}. The identified
-technologies were then grouped according to relations in an
-additional column (see Repository X). Afterward, the categorization was
-verified using a "Python" script (see Appendix A). This
-queries the occurrence of predefined keywords in the included papers.
-Afterward, the trend radar was created based on the verified concept matrices.
+Each technology was then categorized and analyzed for interrelationships within the OSINT framework. Verification of categorization was conducted using a Python script, which scanned the included papers for predefined keywords. The validated categories and relationships informed the development of the trend radar based on the verified concept matrices.
+
 
 \subsection{Evaluation of the Design Specifications}
 
-The intelligence cycle as the basis of the trend radar provides a
-structured overview ("clarity") \cite{Breakspear.2013}. This
-fulfills the requirement of an intuitively understandable illustration
-("understandability") for ensuring a simple extraction ("simplicity")
-of technologies and research gaps. Furthermore, the other intelligence
-disciplines are also derived from the cycle, which enables a later
-application to these ("applicability"). By aligning the
-architecture of the radar with the federal government's trend radar
-\cite{Stich.2022}, a proven, robust, user-friendly
-design ("user-friendliness") with an appropriate level of detail
-("level of detail") is used. Only the categories use case, technology and
-degree of maturity were therefore illustrated. Moreover, with the concept matrices, a
-template is used to constantly update the radar. Particular attention
-was paid to the general validity of the categories to achieve
-the highest possible degree of standardization ("generality").
-Furthermore, a verification of the categorization was carried out ("internal consistency").
-The decisive evaluation criteria \cite{vomBrocke.2020b} are thus fulfilled.
+The intelligence cycle underpins the trend radar, providing clarity and an intuitively understandable framework, which simplifies the extraction of technologies and identification of research gaps \cite{Breakspear.2013}. The design also supports applicability across various intelligence disciplines. By mirroring the structure of the federal government's trend radar \cite{Stich.2022}, the design achieves robustness, user-friendliness, and an appropriate level of detail, focusing only on essential categories such as use case, technology, and maturity level.
+
+The use of concept matrices facilitates regular updates to the radar, ensuring the design remains current and standardized ("generality"). Internal consistency was rigorously verified to maintain the integrity of categorization. These features collectively meet the critical evaluation criteria set forth in contemporary design research \cite{vomBrocke.2020b}.
+
 
 \subsection{Demonstration}
 
@@ -402,7 +348,7 @@ The research results are communicated in the form of this study.
 A new iteration, proceeding from this chapter, is therefore not
 carried out.
 
-\section{Results}
+\section{Results} \label{sec:results}
 
 The trend radar (\ref{fig:trendradar}, \ref{fig:trendradarexplanation}) is read from the outermost to the innermost.
 Each fifth of the cycle represents an Intelligence Cycle phase. Subdivisions indicate
@@ -531,7 +477,7 @@ However, outside of the OSINT topic, there are several automated tools, that cou
 to the authorities in this context (cf. E4 02.08.2023). Moreover, in practice, there is also a lack of
 necessary feedback for product improvement (cf. E3, 28.07.2023).
 
-\section{Discussion}
+\section{Discussion} \label{sec:discussion}
 
 \subsection{Contributions and Implications}
 

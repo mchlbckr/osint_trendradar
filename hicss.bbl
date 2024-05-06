@@ -1,4 +1,4 @@
-\begin{thebibliography}{100}
+\begin{thebibliography}{10}
 
 \bibitem{DosPassos.2017}
 D.~S. {Dos Passos}, ``Big data, data science and their contributions to the development of the use of open source intelligence,'' {\em Sistemas {\&} Gest{\~a}o}, vol.~11, no.~4, pp.~392--396, 2017.
@@ -149,12 +149,6 @@ C.~Duncheon, ``Product miniaturization requires automation -- but with a strateg
 \bibitem{Endsley.1999}
 M.~R. Endsley and D.~B. Kaber, ``Level of automation effects on performance, situation awareness and workload in a dynamic control task,'' {\em Ergonomics}, vol.~42, no.~3, pp.~462--492, 1999.
 
-\bibitem{Sheridan.1978}
-T.~B. Sheridan and W.~L. Verplank, ``Human and computer control of undersea teleoperators,'' 1978.
-
-\bibitem{Parasuraman.2000}
-R.~Parasuraman, T.~B. Sheridan, and C.~D. Wickens, ``A model for types and levels of human interaction with automation,'' {\em IEEE transactions on systems, man, and cybernetics. Part A, Systems and humans : a publication of the IEEE Systems, Man, and Cybernetics Society}, vol.~30, no.~3, pp.~286--297, 2000.
-
 \bibitem{Bleck.2004}
 S.~Bleck, {\em Entwicklung einer Methodik zur integrierten Planung von Informationstechnologie-Einsatz und intermedi{\"a}ren Informationsdienstleistungen im elektronischen Gesch{\"a}ftsverkehr: Zugl.: Aachen, Techn. Hochsch., Diss., 2004}, vol.~72 of {\em Schriftenreihe Rationalisierung und Humanisierung}.
 \newblock Aachen: Shaker, 2004.
@@ -171,24 +165,6 @@ P.~Russom, ``Big data analytics,'' tech. rep., {TDWI best practices Report}, 201
 
 \bibitem{Singh.2012}
 S.~Singh and N.~Singh, ``Big data analytics,'' in {\em 2012 International Conference on Communication, Information \& Computing Technology (ICCICT)}, pp.~1--4, 2012.
-
-\bibitem{Lin.2018}
-Y.~Lin, Z.~Jun, M.~Hongyan, Z.~Zhongwei, and F.~Zhanfang, ``A method of extracting the semi-structured data implication rules,'' {\em Procedia Computer Science}, vol.~131, pp.~706--716, 2018.
-
-\bibitem{Katal.2013}
-A.~Katal, M.~Wazid, and R.~H. Goudar, ``Big data: Issues, challenges, tools and good practices,'' in {\em 2013 Sixth International Conference on Contemporary Computing (IC3)}, pp.~404--409, IEEE, 2013.
-
-\bibitem{Praveen.2020}
-S.~Praveen and U.~Chandra, ``Influence of structured, semi- structured, unstructured data on various data models,'' {\em International Journal of Scientific and Engineering Research}, vol.~12, no.~8, pp.~67--69, 2020.
-
-\bibitem{Carbone.2015}
-P.~Carbone, S.~Ewen, S.~Haridi, A.~Katsifodimos, V.~Markl, and K.~Tzoumas, ``Apache flink: Stream and batch processing in a single engine,'' {\em Bulletin of the IEEE Computer Society Technical Committee on Data Engineering}, vol.~36, no.~4, 2015.
-
-\bibitem{Stankovic.1990}
-J.~A. Stankovic and K.~Ramamritham, ``What is predictability for real-time systems?,'' {\em Real-Time Systems}, vol.~2, no.~4, pp.~247--254, 1990.
-
-\bibitem{Gomes.2021}
-E.~Gomes, F.~Costa, C.~de~Rolt, P.~Plentz, and M.~Dantas, ``A survey from real-time to near real-time applications in fog computing environments,'' {\em Telecom}, vol.~2, no.~4, pp.~489--517, 2021.
 
 \bibitem{Stich.2022}
 V.~Stich, M.-F. Stroh, M.~Abbas, K.~Frings, and S.~Kremer, ``Digitalisierung der wirtschaft in deutschland: Technologie- und trendradar 2022.''
