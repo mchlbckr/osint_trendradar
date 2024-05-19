@@ -215,13 +215,6 @@ T.~Elmas, T.~R. Ibanez, A.~Hutter, R.~Overdorf, and K.~Aberer, ``Waypop machine:
 \bibitem{Arjun.2020}
 A.~V. Arjun, A.~K. Buvanasri, R.~Meenakshi, S.~Karthika, and K.~M. Ashok, ``Peoplexploit: A hybrid tool to collect public data,'' in {\em 2020 4th International Conference on Computer, Communication and Signal Processing (ICCCSP)}, pp.~1--6, IEEE, 2020.
 
-\bibitem{DirectorofNationalIntelligence.2011}
-{Director of National Intelligence}, {\em U.S. National Intelligence: An Overview 2011}.
-\newblock 2011.
-
-\bibitem{Day.2016}
-T.~Day, H.~Gibson, and S.~Ramwell, ``Fusion of osint and non-osint data,'' in {\em Open Source Intelligence Investigation} (B.~Akhgar, P.~S. Bayerl, and F.~Sampson, eds.), Advanced Sciences and Technologies for Security Applications, pp.~133--152, Cham: {Springer International Publishing}, 2016.
-
 \bibitem{Wright.2020}
 T.~Wright, S.~Whitfield, S.~Cahill, and J.~Duffy, ``Project umbra,'' in {\em 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)}, pp.~748--751, IEEE, 2020.
 
@@ -231,14 +224,14 @@ T.~Wright, S.~Whitfield, S.~Cahill, and J.~Duffy, ``Project umbra,'' in {\em 202
 \bibitem{EuropeanCommission.18.08.2023}
 ``Enforcement and sanctions: What happens if my company processes data in different eu member states?,'' 18.08.2023.
 
+\bibitem{Wittmer.2022}
+S.~Wittmer and F.~Platzer, ``Zul{\"a}ssigkeit von open source-ermittlungen zur strafverfolgung im darknet.''
+
 \bibitem{Radford.2023}
 A.~Radford, J.~Wu, R.~Child, D.~Luan, D.~Amodel, and I.~Sutskever, ``Language models are unsupervised multitask learners.''
 
 \bibitem{Zhao.31.03.2023}
 W.~X. Zhao, K.~Zhou, J.~Li, T.~Tang, X.~Wang, Y.~Hou, Y.~Min, B.~Zhang, J.~Zhang, Z.~Dong, {Du Yifan}, C.~Yang, Y.~Chen, Z.~Chen, J.~Jiang, R.~Ren, Y.~Li, X.~Tang, Z.~Liu, P.~Liu, J.-Y. Nie, and J.-R. Wen, ``A survey of large language models.''
-
-\bibitem{Wittmer.2022}
-S.~Wittmer and F.~Platzer, ``Zul{\"a}ssigkeit von open source-ermittlungen zur strafverfolgung im darknet.''
 
 \bibitem{NorthAtlanticTreatyOrganization.2002}
 {North Atlantic Treaty Organization}, {\em NATO Open Source Intelligence Reader}.
