@@ -55,8 +55,10 @@ C.~E. Billings, {\em Aviation automation: The search for a human-centered approa
 \bibitem{Benes.2013}
 L.~Benes, ``Osint, new technologies, education: Expanding opportunities and threats. a new paradigm,'' {\em Journal of Strategic Security}, vol.~6, no.~3Suppl, pp.~22--37, 2013.
 
-\bibitem{Chen.2012}
-Chen, Chiang, and Storey, ``Business intelligence and analytics: From big data to big impact,'' {\em MIS Quarterly}, vol.~36, no.~4, p.~1165, 2012.
+\bibitem{NorthAtlanticTreatyOrganization.2001}
+{North Atlantic Treaty Organization}, {\em NATO Open Source Intelligence Handbook}.
+\newblock 2001.
+\newblock \url{https://github.com/lawsecnet/OPSEC/blob/master/NATO%20OSINT%20Handbook%20v1.2%20-%20Jan%202002.pdf}.
 
 \bibitem{Bohm.2021}
 I.~B{\"o}hm and S.~Lolagar, ``Open source intelligence,'' {\em International Cybersecurity Law Review}, vol.~2, no.~2, pp.~317--337, 2021.
@@ -64,26 +66,8 @@ I.~B{\"o}hm and S.~Lolagar, ``Open source intelligence,'' {\em International Cyb
 \bibitem{Mercado.2005}
 S.~C. Mercado, ``Reexamining the distinction between open information and secrets,'' {\em Studies in Intelligence}, vol.~49, no.~2, 2005.
 
-\bibitem{Schaurer.2010}
-F.~Schaurer and J.~St{\"o}rger, ``The evolution of open source intelligence,'' Tech. Rep. 2010(3), {International Relations and Security Network (ISN), ETH Z{\"u}rich}, Z{\"u}rich.
-
-\bibitem{Gibson.2016}
-H.~Gibson, ``Acquisition and preparation of data for osint investigations,'' in {\em Open Source Intelligence Investigation} (B.~Akhgar, P.~S. Bayerl, and F.~Sampson, eds.), Advanced Sciences and Technologies for Security Applications, pp.~69--93, Cham: {Springer International Publishing}, 2016.
-
-\bibitem{Burke.2007}
-C.~Burke, ``Freeing knowledge, telling secrets: Open sourceintelligence and development,'' {\em Research paper series: Centre for East-West Cultural {\&} Economic Studies}, no.~13, 2007.
-
-\bibitem{NorthAtlanticTreatyOrganization.2001}
-{North Atlantic Treaty Organization}, {\em NATO Open Source Intelligence Handbook}.
-\newblock 2001.
-\newblock \url{https://github.com/lawsecnet/OPSEC/blob/master/NATO%20OSINT%20Handbook%20v1.2%20-%20Jan%202002.pdf}.
-
 \bibitem{Breakspear.2013}
 A.~Breakspear, ``A new definition of intelligence,'' {\em Intelligence and National Security}, vol.~28, no.~5, pp.~678--693, 2013.
-
-\bibitem{May.2020}
-J.~May, {\em The Security Intelligence Handbook, Third Edition: How to Disrupt Adversaries and Reduce Risk with Security Intelligence}.
-\newblock CyberEdge Press, 2020.
 
 \bibitem{CentralIntelligenceAgency.1987}
 {Central Intelligence Agency}, {\em Factbook on Intelligence}.
@@ -97,8 +81,8 @@ A.~Reuser, ``The ris open source intelligence cycle,'' {\em Journal of Mediterra
 {U.S. Joint Force Command}, ``Joint intelligence,'' in {\em {Joint Publication 2-0 (JP 2-0)}} ({Joint Chiefs of Staff U.S. Army}, ed.), {Joint Publications Intelligence Series}.
 \newblock \url{https://irp.fas.org/doddir/dod/jp2_0.pdf}.
 
-\bibitem{Pellissier.2013}
-R.~Pellissier and T.~E. Nenzhelele, ``Towards a universal competitive intelligence process model,'' {\em SA Journal of Information Management}, vol.~15, no.~2, 2013.
+\bibitem{Gibson.2016}
+H.~Gibson, ``Acquisition and preparation of data for osint investigations,'' in {\em Open Source Intelligence Investigation} (B.~Akhgar, P.~S. Bayerl, and F.~Sampson, eds.), Advanced Sciences and Technologies for Security Applications, pp.~69--93, Cham: {Springer International Publishing}, 2016.
 
 \bibitem{Lowenthal.2020}
 M.~M. Lowenthal, {\em Intelligence: From secrets to policy}.
@@ -107,19 +91,6 @@ M.~M. Lowenthal, {\em Intelligence: From secrets to policy}.
 \bibitem{Phythian.2013}
 M.~Phythian, ed., {\em Understanding the intelligence cycle}.
 \newblock Studies in intelligence, London: Routledge, 2013.
-
-\bibitem{Johnston.2005}
-R.~Johnston, {\em Analytic culture in the US intelligence community: An ethnographic study}.
-\newblock Washington, DC: {Central lntelligence Agency (CIA)}, 2005.
-
-\bibitem{DepartmentoftheArmy.2012}
-{Department of the Army}, ``Open-source intelligence,'' Tech. Rep. 2-22.9 (FMI 2-22.9), Army Techniques Publication, Washington, DC, 2012.
-\newblock \url{https://irp.fas.org/doddir/army/atp2-22-9.pdf}.
-
-\bibitem{DirectorofNationalIntelligence.2011}
-{Director of National Intelligence}, {\em U.S. National Intelligence: An Overview 2011}.
-\newblock 2011.
-\newblock \url{https://www.dni.gov/files/documents/IC_Consumers_Guide_2011.pdf}.
 
 \bibitem{CentralIntelligenceAgency.2023}
 {Central Intelligence Agency}, {\em The Intelligence Cycle: Briefing}.
@@ -130,9 +101,6 @@ M.~{Garc{\'i}a Lozano}, J.~Brynielsson, U.~Franke, M.~Rosell, E.~Tj{\"o}rnhammar
 
 \bibitem{vomBrocke.2020b}
 J.~{vom Brocke}, A.~Hevner, and A.~Maedche, ``Introduction to design science research,'' in {\em Design Science Research. Cases} (J.~{vom Brocke}, A.~Hevner, and A.~Maedche, eds.), Progress in IS, pp.~1--13, Cham: {Springer International Publishing}, 2020.
-
-\bibitem{Hevner.2004}
-Hevner, March, Park, and Ram, ``Design science in information systems research,'' {\em MIS Quarterly}, vol.~28, no.~1, pp.~75--105, 2004.
 
 \bibitem{Sonnenberg.2012}
 C.~Sonnenberg and J.~{vom Brocke}, ``Evaluations in the science of the artificial -- reconsidering the build-evaluate pattern in design science research,'' in {\em Design Science Research in Information}, vol.~7286, pp.~381--397, 2012.
@@ -153,15 +121,8 @@ M.~R. Endsley and D.~B. Kaber, ``Level of automation effects on performance, sit
 S.~Bleck, {\em Entwicklung einer Methodik zur integrierten Planung von Informationstechnologie-Einsatz und intermedi{\"a}ren Informationsdienstleistungen im elektronischen Gesch{\"a}ftsverkehr: Zugl.: Aachen, Techn. Hochsch., Diss., 2004}, vol.~72 of {\em Schriftenreihe Rationalisierung und Humanisierung}.
 \newblock Aachen: Shaker, 2004.
 
-\bibitem{OLeary.2012}
-D.~E. O'Leary, ``Artificial intelligence and big data,'' {\em IEEE Intelligent Systems}, 2012.
-
 \bibitem{Elgendy.2014}
 N.~Elgendy and A.~Elragal, ``Big data analytics: A literature review paper,'' in {\em Advances in Data Mining}, vol.~8557, pp.~214--227, 2014.
-
-\bibitem{Russom.2011}
-P.~Russom, ``Big data analytics,'' tech. rep., {TDWI best practices Report}, 2011.
-\newblock \url{https://tdwi.org/research/2011/09/best-practices-report-q4-big-data-analytics.aspx}.
 
 \bibitem{Singh.2012}
 S.~Singh and N.~Singh, ``Big data analytics,'' in {\em 2012 International Conference on Communication, Information \& Computing Technology (ICCICT)}, pp.~1--4, 2012.
@@ -191,9 +152,6 @@ A.~Bogner, B.~Littig, and W.~Menz, {\em Das Experteninterview}.
 B.~G. Glaser and A.~L. Strauss, {\em The discovery of grounded theory: Strategies for qualitative research}.
 \newblock Observations, New York, NY: Aldine, 1967.
 
-\bibitem{Eisenhardt.1989}
-K.~M. Eisenhardt, ``Building theories from case study research,'' {\em The Academy of Management Review}, vol.~14, no.~4, p.~532, 1989.
-
 \bibitem{Bogner.2002b}
 A.~Bogner and W.~Menz, ``Das theoriegenerierende experteninterview,'' in {\em Das Experteninterview} (A.~Bogner, B.~Littig, and W.~Menz, eds.), pp.~33--70, Wiesbaden: {VS Verlag f{\"u}r Sozialwissenschaften}, 2002.
 
@@ -209,9 +167,6 @@ N.~A. Al-Dmour, M.~{Kamrul Hasan}, M.~Ajmal, M.~Ali, I.~Naseer, A.~Ali, H.~A. Ha
 
 \bibitem{Kpozehouen.2020}
 E.~B. Kpozehouen, X.~Chen, M.~Zhu, and C.~R. Macintyre, ``Using open-source intelligence to detect early signals of covid-19 in china: Descriptive study,'' {\em JMIR public health and surveillance}, vol.~6, no.~3, p.~e18939, 2020.
-
-\bibitem{Thamtono.2021}
-Y.~Thamtono, A.~Moa, and C.~R. MacIntyre, ``Using open-source intelligence to identify early signals of covid-19 in indonesia,'' {\em Western Pacific surveillance and response journal : WPSAR}, vol.~12, no.~1, pp.~40--45, 2021.
 
 \bibitem{Nobili.2021}
 M.~Nobili, L.~Faramondi, R.~Setola, M.~Ghelli, B.~Persechino, and M.~Lombardi, ``An osint platform to analyse violence against workers in public trasportation,'' in {\em 2021 International Conference on Cyber-Physical Social Intelligence (ICCSI)}, pp.~1--6, IEEE, 2021.
@@ -234,14 +189,8 @@ S.~Middleton, A.~Lavorgna, G.~Neumann, and D.~Whitehead, ``Information extractio
 \bibitem{Adewopo.2020}
 V.~Adewopo, B.~Gonen, and F.~Adewopo, ``Exploring open source information for cyber threat intelligence,'' in {\em 2020 IEEE International Conference on Big Data (Big Data)}, pp.~2232--2241, IEEE, 2020.
 
-\bibitem{Tekin.2021}
-U.~Tekin and E.~N. Yilmaz, ``Obtaining cyber threat intelligence data from twitter with deep learning methods,'' in {\em 2021 5th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)}, pp.~82--86, IEEE, 2021.
-
 \bibitem{Jenkins.2021}
 D.~Jenkins, L.~M. Liebrock, and V.~Urias, ``Designing a modular and distributed web crawler focused on unstructured cybersecurity intelligence,'' in {\em 2021 International Carnahan Conference on Security Technology (ICCST)}, pp.~1--6, IEEE, 2021.
-
-\bibitem{Rajendran.2022}
-G.~Rajendran, V.~KS, P.~S. AU, and P.~Poornachandran, ``Covid-19 relief measures assimilating open source intelligence,'' in {\em 2022 International Conference on Connected Systems {\&} Intelligence (CSI)}, pp.~1--7, IEEE, 2022.
 
 \bibitem{Kuehn.2023}
 P.~Kuehn, M.~Schmidt, M.~Bayer, and C.~Reuter, ``Threatcrawl: A bert-based focused crawler for the cybersecurity domain.''
@@ -254,15 +203,6 @@ J.~Hubbard, G.~Bendiab, and S.~Shiaeles, ``Ipass: A novel open-source intelligen
 
 \bibitem{Bai.2020}
 C.~Bai, A.~Li, Z.~Gao, and X.~Cui, ``Research on anti-terrorism intelligence mining method based on attention neural networks,'' in {\em 2020 IEEE 2nd International Conference on Civil Aviation Safety and Information Technology (ICCASIT}, pp.~458--464, IEEE, 2020.
-
-\bibitem{Pingle.2020}
-A.~Pingle, A.~Piplai, S.~Mittal, A.~Joshi, J.~Holt, and R.~Zak, ``Relext: Relation extraction using deep learning approaches for cybersecurity knowledge graph improvement,'' {\em Association for Computing Machinery}, pp.~897--886, 2020.
-
-\bibitem{Shen.2020}
-A.~Shen and K.~P. Chow, ``Time and location topic model for analyzing lihkg forum data,'' in {\em 2020 13th International Conference on Systematic Approaches to Digital Forensic Engineering (SADFE)}, pp.~32--37, IEEE, 2020.
-
-\bibitem{Chen.2023}
-C.-M. Chen, F.-H. Hsu, and J.-N. Hwang, ``Useful cyber threat intelligence relation retrieval using transfer learning,'' in {\em European Interdisciplinary Cybersecurity Conference} (A.~Mileva, S.~Wendzel, and V.~Franqueira, eds.), (New York, NY, USA), pp.~42--46, ACM, 2023.
 
 \bibitem{Iorga.2020}
 D.~Iorga, D.~Corlatescu, O.~Grigorescu, C.~Sandescu, M.~Dascalu, and R.~Rughinis, ``Early detection of vulnerabilities from news websites using machine learning models,'' in {\em 2020 19th RoEduNet Conference: Networking in Education and Research (RoEduNet)}, pp.~1--6, IEEE, 2020.
@@ -279,6 +219,11 @@ T.~Elmas, T.~R. Ibanez, A.~Hutter, R.~Overdorf, and K.~Aberer, ``Waypop machine:
 \bibitem{Arjun.2020}
 A.~V. Arjun, A.~K. Buvanasri, R.~Meenakshi, S.~Karthika, and K.~M. Ashok, ``Peoplexploit: A hybrid tool to collect public data,'' in {\em 2020 4th International Conference on Computer, Communication and Signal Processing (ICCCSP)}, pp.~1--6, IEEE, 2020.
 
+\bibitem{DirectorofNationalIntelligence.2011}
+{Director of National Intelligence}, {\em U.S. National Intelligence: An Overview 2011}.
+\newblock 2011.
+\newblock \url{https://www.dni.gov/files/documents/IC_Consumers_Guide_2011.pdf}.
+
 \bibitem{Day.2016}
 T.~Day, H.~Gibson, and S.~Ramwell, ``Fusion of osint and non-osint data,'' in {\em Open Source Intelligence Investigation} (B.~Akhgar, P.~S. Bayerl, and F.~Sampson, eds.), Advanced Sciences and Technologies for Security Applications, pp.~133--152, Cham: {Springer International Publishing}, 2016.
 
@@ -291,17 +236,14 @@ T.~Wright, S.~Whitfield, S.~Cahill, and J.~Duffy, ``Project umbra,'' in {\em 202
 \bibitem{EuropeanCommission.18.08.2023}
 ``Enforcement and sanctions: What happens if my company processes data in different eu member states?,'' 18.08.2023.
 
-\bibitem{Wittmer.2022}
-S.~Wittmer and F.~Platzer, ``Zul{\"a}ssigkeit von open source-ermittlungen zur strafverfolgung im darknet.''
-
 \bibitem{Radford.2023}
 A.~Radford, J.~Wu, R.~Child, D.~Luan, D.~Amodel, and I.~Sutskever, ``Language models are unsupervised multitask learners.''
 
 \bibitem{Zhao.31.03.2023}
 W.~X. Zhao, K.~Zhou, J.~Li, T.~Tang, X.~Wang, Y.~Hou, Y.~Min, B.~Zhang, J.~Zhang, Z.~Dong, {Du Yifan}, C.~Yang, Y.~Chen, Z.~Chen, J.~Jiang, R.~Ren, Y.~Li, X.~Tang, Z.~Liu, P.~Liu, J.-Y. Nie, and J.-R. Wen, ``A survey of large language models.''
 
-\bibitem{Unver.2018}
-H.~A. Ünver, ``Digital open source intelligence and international security: A primer,'' tech. rep., Centre for Economics and Foreign Policy Studies, 2018.
+\bibitem{Wittmer.2022}
+S.~Wittmer and F.~Platzer, ``Zul{\"a}ssigkeit von open source-ermittlungen zur strafverfolgung im darknet.''
 
 \bibitem{NorthAtlanticTreatyOrganization.2002}
 {North Atlantic Treaty Organization}, {\em NATO Open Source Intelligence Reader}.
@@ -310,9 +252,5 @@ H.~A. Ünver, ``Digital open source intelligence and international security: A p
 
 \bibitem{Lee.2018}
 C.-Y. Lee and B.-S. Chen, ``Mutually-exclusive-and-collectively-exhaustive feature selection scheme,'' {\em Applied Soft Computing}, vol.~68, pp.~961--971, 2018.
-
-\bibitem{Rasiel.1999}
-E.~M. Rasiel, {\em The McKinsey way: Using the techniques of the world's top strategic consultants to help you and your business}.
-\newblock New York: McGraw-Hill, 1999.
 
 \end{thebibliography}
