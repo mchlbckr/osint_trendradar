@@ -15,7 +15,7 @@
 % to show all the authors. Please do not make the title box
 % smaller than 5cm (the original size).
 
-
+\usepackage{booktabs}
 
 \title{Open Source Intelligence - Development of a Trend Radar utilizing a Systematic Literature Review}
 
@@ -166,7 +166,7 @@ six successive activities \cite{Peffers.2007}:
     \item Communication
 \end{enumerate}
 
-Section \ref{sec:introduction} summarizes step 1, while sections \ref{sec:results} and \ref{sec:discussion} present the outcomes of step 6. Steps 2-5 will be discussed in detail. Continuous evaluation of steps 1-4 occurred throughout the study \cite{Sonnenberg.2012}.
+Section \ref{sec:introduction} summarizes step 1, while sections \ref{sec:results} and \ref{sec:discussion} present the outcomes of step 6. Steps 2-5 will be discussed in detail in sections \ref{sec:designobjectives}-\ref{sec:eval}. Continuous evaluation of steps 1-4 occurred throughout the study \cite{Sonnenberg.2012}.
 
 %\begin{figure*}[thb]
 %    \centering
@@ -175,7 +175,8 @@ Section \ref{sec:introduction} summarizes step 1, while sections \ref{sec:result
 %    \label{fig: DSRM}
 %\end{figure*}
 
-\subsection{Design Objectives of the Solution}
+\subsection{Design Objectives of the Solution} \label{sec:designobjectives}
+
 
 The design objectives of the solution are divided into content-related objectives (CO) and formal objectives (FO).
 
@@ -191,7 +192,7 @@ The design objectives of the solution are divided into content-related objective
     \item[FO2] The trend radar should be continually expandable to capture field dynamics effectively.
 \end{itemize}
 
-\subsection{Evaluation of the Problem Statement and Design Objectives}
+\subsection{Evaluation of the Problem Statement and Design Objectives} \label{sec:eval}
 In Section \ref{sec:theoreticalbackground}, key concepts foundational to the research are defined, focusing on the intelligence cycle. The cycle is crucial as it underpins the development of the trend radar tool, which is evaluated for its compatibility within the OSINT framework. Furthermore, the review of prior studies reveals a significant gap in comprehensive OSINT research, emphasizing the importance and relevance of the inquiry.
 
 \subsection{Design and Development}
@@ -234,8 +235,8 @@ Experts (table \ref{tab:experts}) were selected using theoretical sampling \cite
 
 \begin{table}[htbp]
     \caption{Interviewed experts}
-    \begin{tabular}{|p{0.25\linewidth}|p{0.55\linewidth}|p{0.05\linewidth}|}
-        \hline
+    \begin{tabular}{p{0.25\linewidth}p{0.55\linewidth}p{0.05\linewidth}}
+        \toprule
         \textbf{Organization} & \textbf{Position}                                             & \textbf{ID} \\
         \hline
         Industry/ Authority   & Senior Intelligence Consultant                                & E1          \\
@@ -245,7 +246,7 @@ Experts (table \ref{tab:experts}) were selected using theoretical sampling \cite
         Authority             & In-House Senior Consultant                                    & E3          \\
         \hline
         Start-up              & Managing Director of a German start-up, for an OSINT platform & E4          \\
-        \hline
+        \bottomrule
     \end{tabular}
     \label{tab:experts}
 \end{table}

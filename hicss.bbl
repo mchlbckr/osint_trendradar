@@ -4,7 +4,8 @@
 D.~S. {Dos Passos}, ``Big data, data science and their contributions to the development of the use of open source intelligence,'' {\em Sistemas {\&} Gest{\~a}o}, vol.~11, no.~4, pp.~392--396, 2017.
 
 \bibitem{SmithBoyle.24.07.2023}
-V.~Smith-Boyle, ``How osint has shaped the war in ukraine,'' 2023.
+V.~Smith-Boyle, ``How osint has shaped the war in ukraine,'' {\em {American Security Project (ASP)}}, 2022.
+\newblock \url{https://www.americansecurityproject.org/osint-in-ukraine/}.
 
 \bibitem{Hwang.2022}
 Y.-W. Hwang, I.-Y. Lee, H.~Kim, H.~Lee, and D.~Kim, ``Current status and security trend of osint,'' {\em Wireless Communications and Mobile Computing}, vol.~2022, pp.~1--14, 2022.
@@ -29,7 +30,7 @@ T.~Dokman and T.~Ivanjko, ``Open source intelligence (osint): issues and trends,
 J.~F. Herrera-Cubides, P.~A. Gaona-Garc{\'i}a, and S.~S{\'a}nchez-Alonso, ``Open-source intelligence educational resources: A visual perspective analysis,'' {\em Applied Sciences}, vol.~10, no.~21, p.~7617, 2020.
 
 \bibitem{PastorGalindo.2019}
-J.~Pastor-Galindo, P.~Nespoli, F.~{Gomez Marmol}, and G.~{Martinez Perez}, ``Osint is the next internet goldmine: Spain as an unexplored territory.''
+J.~Pastor-Galindo, P.~Nespoli, F.~{Gomez Marmol}, and G.~{Martinez Perez}, ``Osint is the next internet goldmine: Spain as an unexplored territory,'' in {\em 5th Nat. Conf. Cybersecur. (JNIC)}, (Caceres, Spanien), 2019.
 
 \bibitem{AlKilani.2021}
 H.~AlKilani and A.~Qusef, ``Osint techniques integration with risk assessment iso/iec 27001,'' in {\em International Conference on Data Science, E-learning and Information Systems 2021} (J.~A. {Lara Torralbo}, S.~A. Aljawarneh, V.~Radhakrishna, and A.~N., eds.), (New York, NY, USA), pp.~82--86, ACM, 2021.
@@ -121,7 +122,9 @@ N.~Elgendy and A.~Elragal, ``Big data analytics: A literature review paper,'' in
 S.~Singh and N.~Singh, ``Big data analytics,'' in {\em 2012 International Conference on Communication, Information \& Computing Technology (ICCICT)}, pp.~1--4, 2012.
 
 \bibitem{Stich.2022}
-V.~Stich, M.-F. Stroh, M.~Abbas, K.~Frings, and S.~Kremer, ``Digitalisierung der wirtschaft in deutschland: Technologie- und trendradar 2022.''
+V.~Stich, M.-F. Stroh, M.~Abbas, K.~Frings, and S.~Kremer, {\em {Digitalisierung der Wirtschaft in Deutschland: Technologie- und Trendradar 2022}}.
+\newblock Berlin: {Bundesministerium f{\"u}r Wirtschaft und Klimaschutz}.
+\newblock \url{https://www.de.digital/DIGITAL/Navigation/DE/Lagebild/Technologie-und-Trendradar/technologie-und-trendradar.html}.
 
 \bibitem{Delen.2013}
 D.~Delen and H.~Demirkan, ``Data, information and analytics as services,'' {\em Decision Support Systems}, vol.~55, no.~1, pp.~359--363, 2013.
@@ -186,7 +189,7 @@ V.~Adewopo, B.~Gonen, and F.~Adewopo, ``Exploring open source information for cy
 D.~Jenkins, L.~M. Liebrock, and V.~Urias, ``Designing a modular and distributed web crawler focused on unstructured cybersecurity intelligence,'' in {\em 2021 International Carnahan Conference on Security Technology (ICCST)}, pp.~1--6, IEEE, 2021.
 
 \bibitem{Kuehn.2023}
-P.~Kuehn, M.~Schmidt, M.~Bayer, and C.~Reuter, ``Threatcrawl: A bert-based focused crawler for the cybersecurity domain.''
+P.~Kuehn, M.~Schmidt, M.~Bayer, and C.~Reuter, ``Threatcrawl: A bert-based focused crawler for the cybersecurity domain,'' {\em arXiv}, no.~2304.11960, 2023.
 
 \bibitem{Sonawane.2022}
 H.~S. Sonawane, S.~Deshmukh, V.~Joy, and D.~Hadsul, ``Torsion: Web reconnaissance using open source intelligence,'' in {\em 2022 2nd International Conference on Intelligent Technologies (CONIT)}, pp.~1--4, IEEE, 2022.
@@ -219,16 +222,17 @@ T.~Wright, S.~Whitfield, S.~Cahill, and J.~Duffy, ``Project umbra,'' in {\em 202
 ``Document 32016r0679: Regulation (eu) 2016/679 of the european parliament and of the council of 27 april 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing directive 95/46/ec (general data protection regulation),'' 2016.
 
 \bibitem{EuropeanCommission.18.08.2023}
-``Enforcement and sanctions: What happens if my company processes data in different eu member states?,'' 18.08.2023.
+{European Commission}, ``Enforcement and sanctions: What happens if my company processes data in different eu member states?,'' 18.08.2023.
+\newblock \url{https://commission-europa-eu.translate.goog/law/law-topic/data-protection/reform/rules-business-and-organisations/enforcement-and-sanctions/enforcement/what-happens-if-my-company-processes-data-different-eu-member-states_en?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=rq}.
 
 \bibitem{Wittmer.2022}
-S.~Wittmer and F.~Platzer, ``Zul{\"a}ssigkeit von open source-ermittlungen zur strafverfolgung im darknet.''
+S.~Wittmer and F.~Platzer, ``{Zul{\"a}ssigkeit von Open Source-Ermittlungen zur Strafverfolgung im Darknet},'' in {\em {INFORMATIK 2022, Lecture Notes in Informatics (LNI), Gesellschaft f{\"u}r Informatik}}, Bonn: {Gesellschaft f{\"u}r Informatik, Bonn}.
 
 \bibitem{Radford.2023}
-A.~Radford, J.~Wu, R.~Child, D.~Luan, D.~Amodel, and I.~Sutskever, ``Language models are unsupervised multitask learners.''
+A.~Radford, J.~Wu, R.~Child, D.~Luan, D.~Amodei, and I.~Sutskever, ``Language models are unsupervised multitask learners,'' 2019.
 
 \bibitem{Zhao.31.03.2023}
-W.~X. Zhao, K.~Zhou, J.~Li, T.~Tang, X.~Wang, Y.~Hou, Y.~Min, B.~Zhang, J.~Zhang, Z.~Dong, {Du Yifan}, C.~Yang, Y.~Chen, Z.~Chen, J.~Jiang, R.~Ren, Y.~Li, X.~Tang, Z.~Liu, P.~Liu, J.-Y. Nie, and J.-R. Wen, ``A survey of large language models.''
+W.~X. Zhao, K.~Zhou, J.~Li, T.~Tang, X.~Wang, Y.~Hou, Y.~Min, B.~Zhang, J.~Zhang, Z.~Dong, {Du Yifan}, C.~Yang, Y.~Chen, Z.~Chen, J.~Jiang, R.~Ren, Y.~Li, X.~Tang, Z.~Liu, P.~Liu, J.-Y. Nie, and J.-R. Wen, ``A survey of large language models,'' {\em arXiv}, no.~2303.18223, 2023.
 
 \bibitem{NorthAtlanticTreatyOrganization.2002}
 {North Atlantic Treaty Organization}, {\em NATO Open Source Intelligence Reader}.
