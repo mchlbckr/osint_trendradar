@@ -49,6 +49,9 @@ A.~Bogner, B.~Littig, and W.~Menz, {\em Interviews mit Experten: Eine praxisorie
 C.~E. Billings, {\em Aviation automation: The search for a human-centered approach}.
 \newblock Human factors in transportation, Mahwah, N.J: {Lawrence Erlbaum Associates Publishers}, 1997.
 
+\bibitem{kayser2024}
+F.~Kayser, ``{Open Source Intelligence -- Development of a Trend Radar utilizing a Systematic Literature Review}.'' \url{https://github.com/charlespwd/project-title}, 2024.
+
 \bibitem{Benes.2013}
 L.~Benes, ``Osint, new technologies, education: Expanding opportunities and threats. a new paradigm,'' {\em Journal of Strategic Security}, vol.~6, no.~3Suppl, pp.~22--37, 2013.
 
@@ -162,7 +165,7 @@ K.~Ahuja, Khushi, Dipali, and N.~Sharma, ``Cyber security threats and their conn
 N.~A. Al-Dmour, M.~{Kamrul Hasan}, M.~Ajmal, M.~Ali, I.~Naseer, A.~Ali, H.~A. Hamadi, and N.~Ali, ``An automated platform for gathering and managing open-source cyber threat intelligence,'' in {\em 2023 International Conference on Business Analytics for Technology and Security (ICBATS)}, pp.~1--7, IEEE, 2023.
 
 \bibitem{Kpozehouen.2020}
-E.~B. Kpozehouen, X.~Chen, M.~Zhu, and C.~R. Macintyre, ``Using open-source intelligence to detect early signals of covid-19 in china: Descriptive study,'' {\em JMIR public health and surveillance}, vol.~6, no.~3, p.~e18939, 2020.
+E.~B. Kpozehouen, X.~Chen, M.~Zhu, and C.~R. Macintyre, ``{Using Open-Source Intelligence to Detect Early Signals of COVID-19 in China: Descriptive Study},'' {\em JMIR public health and surveillance}, vol.~6, no.~3, p.~e18939, 2020.
 
 \bibitem{Nobili.2021}
 M.~Nobili, L.~Faramondi, R.~Setola, M.~Ghelli, B.~Persechino, and M.~Lombardi, ``An osint platform to analyse violence against workers in public trasportation,'' in {\em 2021 International Conference on Cyber-Physical Social Intelligence (ICCSI)}, pp.~1--6, IEEE, 2021.
@@ -189,7 +192,7 @@ V.~Adewopo, B.~Gonen, and F.~Adewopo, ``Exploring open source information for cy
 D.~Jenkins, L.~M. Liebrock, and V.~Urias, ``Designing a modular and distributed web crawler focused on unstructured cybersecurity intelligence,'' in {\em 2021 International Carnahan Conference on Security Technology (ICCST)}, pp.~1--6, IEEE, 2021.
 
 \bibitem{Kuehn.2023}
-P.~Kuehn, M.~Schmidt, M.~Bayer, and C.~Reuter, ``Threatcrawl: A bert-based focused crawler for the cybersecurity domain,'' {\em arXiv}, no.~2304.11960, 2023.
+P.~Kuehn, M.~Schmidt, M.~Bayer, and C.~Reuter, ``{ThreatCrawl: A BERT-based Focused Crawler for the Cybersecurity Domain},'' {\em arXiv}, no.~2304.11960, 2023.
 
 \bibitem{Sonawane.2022}
 H.~S. Sonawane, S.~Deshmukh, V.~Joy, and D.~Hadsul, ``Torsion: Web reconnaissance using open source intelligence,'' in {\em 2022 2nd International Conference on Intelligent Technologies (CONIT)}, pp.~1--4, IEEE, 2022.
@@ -219,17 +222,17 @@ A.~V. Arjun, A.~K. Buvanasri, R.~Meenakshi, S.~Karthika, and K.~M. Ashok, ``Peop
 T.~Wright, S.~Whitfield, S.~Cahill, and J.~Duffy, ``Project umbra,'' in {\em 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)}, pp.~748--751, IEEE, 2020.
 
 \bibitem{EuropeanParliament.2016}
-``Document 32016r0679: Regulation (eu) 2016/679 of the european parliament and of the council of 27 april 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing directive 95/46/ec (general data protection regulation),'' 2016.
+``{Document 32016R0679: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)},'' 2016.
 
 \bibitem{EuropeanCommission.18.08.2023}
-{European Commission}, ``Enforcement and sanctions: What happens if my company processes data in different eu member states?,'' 18.08.2023.
-\newblock \url{https://commission-europa-eu.translate.goog/law/law-topic/data-protection/reform/rules-business-and-organisations/enforcement-and-sanctions/enforcement/what-happens-if-my-company-processes-data-different-eu-member-states_en?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=rq}.
+{European Commission}, ``{Enforcement and sanctions: What happens if my company processes data in different EU Member States?},'' 2023.
+\newblock \url{https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/enforcement-and-sanctions/enforcement/what-happens-if-my-company-processes-data-different-eu-member-states_en}.
 
 \bibitem{Wittmer.2022}
 S.~Wittmer and F.~Platzer, ``{Zul{\"a}ssigkeit von Open Source-Ermittlungen zur Strafverfolgung im Darknet},'' in {\em {INFORMATIK 2022, Lecture Notes in Informatics (LNI), Gesellschaft f{\"u}r Informatik}}, Bonn: {Gesellschaft f{\"u}r Informatik, Bonn}.
 
 \bibitem{Radford.2023}
-A.~Radford, J.~Wu, R.~Child, D.~Luan, D.~Amodei, and I.~Sutskever, ``Language models are unsupervised multitask learners,'' 2019.
+A.~Radford, J.~Wu, R.~Child, D.~Luan, D.~Amodei, and I.~Sutskever, ``Language models are unsupervised multitask learners,'' {\em OpenAI}, 2019.
 
 \bibitem{Zhao.31.03.2023}
 W.~X. Zhao, K.~Zhou, J.~Li, T.~Tang, X.~Wang, Y.~Hou, Y.~Min, B.~Zhang, J.~Zhang, Z.~Dong, {Du Yifan}, C.~Yang, Y.~Chen, Z.~Chen, J.~Jiang, R.~Ren, Y.~Li, X.~Tang, Z.~Liu, P.~Liu, J.-Y. Nie, and J.-R. Wen, ``A survey of large language models,'' {\em arXiv}, no.~2303.18223, 2023.

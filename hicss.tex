@@ -16,8 +16,9 @@
 % smaller than 5cm (the original size).
 
 \usepackage{booktabs}
+\usepackage{enumitem}
 
-\title{Open Source Intelligence - Development of a Trend Radar utilizing a Systematic Literature Review}
+\title{Open Source Intelligence -- Development of a Trend Radar utilizing a Systematic Literature Review}
 
 \author{Franz Kayser \\
   ESG \\
@@ -72,7 +73,7 @@ question: \textit{How can current OSINT trends, focusing on technologies, charac
 This paper investigates current OSINT trends, adopting the Design Science Research Model (DSRM) \cite{Peffers.2007}.
 The methodology involves a systematic literature review \cite{Webster.2002} to analyze and classify relevant OSINT literature.
 Subsequently, OSINT technologies and their characteristics will be visualized in a trend radar, validated through systematizing
-interviews with security sector experts \cite{Bogner.2014}, and evaluated using qualitative content analysis \cite{Billings.1997}.
+interviews with security sector experts \cite{Bogner.2014}, and evaluated using qualitative content analysis \cite{Billings.1997}. All background material for this research such as interview transcripts, concept matrices, and code is openly available \cite{kayser2024}.
 
 
 \section{Theoretical Background} \label{sec:theoreticalbackground}
@@ -116,7 +117,7 @@ In 2013, the JCS segmented the cycle into 6 phases \cite{JointChiefsofStaffU.S.A
 \begin{figure}[h]
     \centering
     \includegraphics[clip,width=0.8\linewidth]{PDF/images/crop_Intelligence Cycle}
-    \caption{Intelligence Cycle, according to \cite{JointChiefsofStaffU.S.Army.2013}}
+    \caption{Intelligence Cycle, according to \cite{JointChiefsofStaffU.S.Army.2013} consisting of the five iteratative phases and the unterlying evaluation and feedback}
     \label{fig: intelligence cycle}
 \end{figure}
 
@@ -157,7 +158,7 @@ a theory-based research paradigm for developing a directly applicable solution i
 to solve a (practical) problem \cite{Peffers.2007}. Hence, the model is ideally suited for creating the trend radar and comprises
 six successive activities \cite{Peffers.2007}:
 
-\begin{enumerate}
+\begin{enumerate}[itemsep=.5pt,parsep=1pt,topsep=1pt]
     \item Problem identification and motivation
     \item Objectives of the solution
     \item Design and development
@@ -166,7 +167,7 @@ six successive activities \cite{Peffers.2007}:
     \item Communication
 \end{enumerate}
 
-Section \ref{sec:introduction} summarizes step 1, while sections \ref{sec:results} and \ref{sec:discussion} present the outcomes of step 6. Steps 2-5 will be discussed in detail in sections \ref{sec:designobjectives}-\ref{sec:eval}. Continuous evaluation of steps 1-4 occurred throughout the study \cite{Sonnenberg.2012}.
+Section \ref{sec:introduction} summarizes step 1, while sections \ref{sec:results} and \ref{sec:discussion} present the outcomes of step 6. Steps 2-5 will be discussed in detail in sections \ref{sec:designobjectives}-\ref{sec:eval}. Continuous evaluation of steps 1-4 occurred throughout the study as described in \cite{Sonnenberg.2012}.
 
 %\begin{figure*}[thb]
 %    \centering
@@ -192,7 +193,7 @@ The design objectives of the solution are divided into content-related objective
     \item[FO2] The trend radar should be continually expandable to capture field dynamics effectively.
 \end{itemize}
 
-\subsection{Evaluation of the Problem Statement and Design Objectives} \label{sec:eval}
+\subsection{Evaluation of the Problem Statement and Design Objectives} 
 In Section \ref{sec:theoreticalbackground}, key concepts foundational to the research are defined, focusing on the intelligence cycle. The cycle is crucial as it underpins the development of the trend radar tool, which is evaluated for its compatibility within the OSINT framework. Furthermore, the review of prior studies reveals a significant gap in comprehensive OSINT research, emphasizing the importance and relevance of the inquiry.
 
 \subsection{Design and Development}
@@ -215,7 +216,7 @@ The literature search, executed using a broad search string to maximize retrieva
 \begin{figure}[t]
     \centering
     \includegraphics[width=0.4\textwidth]{PDF/images/crop_Kategorisierungskriterien und Literraturreviewaufbau}
-    \caption{Literature review setup and categorization criteria}
+    \caption{Literature review setup in 4 steps and categorization criteria}
     \label{fig:LiteratureReview}
 \end{figure}
 
@@ -233,30 +234,30 @@ Next, the trend radar was demonstrated via guideline-based, systematizing expert
 
 Experts (table \ref{tab:experts}) were selected using theoretical sampling \cite{Glaser.1967}, focusing on Germany to validate trends in the country. At least one expert from a security authority, the security industry, and a startup was chosen to capture diverse perspectives. A "prestigious" company position ensures respondents possess relevant research knowledge \cite{Bogner.2002b}.
 
-\begin{table}[htbp]
+\begin{table*}[hbtp]
     \caption{Interviewed experts}
-    \begin{tabular}{p{0.25\linewidth}p{0.55\linewidth}p{0.05\linewidth}}
+    \begin{tabular}{p{0.05\linewidth}p{0.2\linewidth}p{0.45\linewidth}p{0.15\linewidth}}
         \toprule
-        \textbf{Organization} & \textbf{Position}                                             & \textbf{ID} \\
+        \textbf{ID} &\textbf{Organization} & \textbf{Position}                                             &  \textbf{Interview date}\\
         \hline
-        Industry/ Authority   & Senior Intelligence Consultant                                & E1          \\
+        E1  & Industry/ Authority   & Senior Intelligence Consultant                                &  2023-07-14       \\
         \hline
-        Industry/ Authority   & Referent Corporate Security                                   & E2          \\
+        E2 & Industry/ Authority   & Referent Corporate Security                                   & 2023-07-19         \\
         \hline
-        Authority             & In-House Senior Consultant                                    & E3          \\
+        E3  & Authority             & In-House Senior Consultant                                    & 2023-07-28        \\
         \hline
-        Start-up              & Managing Director of a German start-up, for an OSINT platform & E4          \\
+        E4  & Start-up              & Managing Director of a German start-up, for an OSINT platform & 2023-08-02        \\
         \bottomrule
     \end{tabular}
     \label{tab:experts}
-\end{table}
+\end{table*}
 The qualitative data collection utilized semi-structured interviews, ideal for uncovering underlying theoretical relationships \cite{Bogner.2014}. The questionnaire, based on the Intelligence Cycle, commenced with a presentation of the trend radar. Open questions were initially posed for each phase to compare it with respondents' practical experience, reducing subjectivity \cite{Saunders.2012}. Exploratory questions guided conversation flow \cite{Saunders.2012}, followed by specific closed questions for targeted follow-up \cite{Saunders.2012}. The Interviews lasted up to an hour, with a maximum of three main questions per phase \cite{Bogner.2014} and were conducted online. The questionnaire underwent pilot testing with a domain expert.
 
 \subsection{Evaluation of the First Instance of the Trend Radar}
 
-The trend radar demonstration affirmed its intuitive usability and usefulness in providing an overview of OSINT technologies. Practitioners also confirmed its completeness and internal consistency (cf. E1, 14.08.2023; E3, 28.07.2023; E4, 02.08.2023). As a result, the radar proved suitable for identifying research gaps and guiding practitioners. Thus, it meets the essential evaluation criteria \cite{Sonnenberg.2012}.
+The trend radar demonstration affirmed its intuitive usability and usefulness in providing an overview of OSINT technologies. Practitioners also confirmed its completeness and internal consistency (cf. Experts E1; E3; E4). As a result, the radar proved suitable for identifying research gaps and guiding practitioners. Thus, it meets the essential evaluation criteria \cite{Sonnenberg.2012}.
 
-\subsection{Evaluation}
+\subsection{Evaluation} \label{sec:eval}
 
 The evaluation utilized qualitative data analysis \cite{Glaser.2009}, which extracts, synthesizes, and structures interview information using a predefined search grid. This facilitates targeted extraction and summarization of relevant, cross-interview information, following a "top-down approach" \cite{Bogner.2014, Glaser.2009}.
 
@@ -273,14 +274,14 @@ varying maturity levels.
 \begin{figure*}[thb]
     \centering
     \includegraphics[width=0.8\textwidth]{PDF/images/crop_Trendradar}
-    \caption{Trend radar}
+    \caption{The resulting trend radar based on the intelligent cycle split into innovation, prototype and market-establishment phase to illustrate maturity of the technologies within OSINT use cases}
     \label{fig:trendradar}
 \end{figure*}
 
 \begin{figure*}[thb]
     \centering
     \includegraphics[width=0.99\textwidth]{PDF/images/crop_Trendradar explanation}
-    \caption{Trend radar explanation}
+    \caption{Content of trend radar categorized by intelligence cycle phases, use cases and technologies}
     \label{fig:trendradarexplanation}
 \end{figure*}
 
@@ -288,12 +289,12 @@ varying maturity levels.
 
 Studies align with each phase of the Intelligence Cycle, but no application covers all phases as a third-generation OSINT tool. Literature mainly focuses on the collection phase, followed by analysis and production, and processing and exploitation. The dissemination and integration phase is least covered, followed closely by planning and direction.
 
-These findings align with the experts' practical experiences. They regard the Intelligence Cycle as "state of the art" (cf. E3, 28.12.2023), but note different manifestations of the phases in praxis (cf. E4, 02.08.2023).
-The planning and direction phase is often neglected, despite its crucial importance, leading to wasteful production (cf. E3, 28.07.2023). Conversely, OSINT is frequently associated solely with the collection phase,
-resulting in subpar outcomes due to high volumes of low-quality data (cf. E1, 14.07.2023; E2, 19.07.2023; E3, 28.07.2023). The main reason for this is, that the Intelligence Cycle is operated by at least three groups of people. Firstly, the customers, usually located at the "decision-maker level", with a primarily legal professional background (cf. E2, 19.07.2023).
-The second is the technician who carries out the data collection and processing (cf. E2, 19.07.2023; E3, 28.07.2023). Lastly, the analyst evaluates the data and creates the intelligence product (cf. E1, 14.07.2023). The process thereby is rarely transparent between the parties
-(cf. E1, 14.07.2023; E2, 19.07.2023) and is rarely anchored at the organizational level (cf. E4, 02.08.2023). According to the experts, there is thus no third-generation
-OSINT tool in use, at least not in German authorities. In addition, the collection focus is driven by concerns about missing vital information, which could later be revealed as publicly available (cf. E1, 14.07.2023).
+These findings align with the experts' practical experiences. They regard the Intelligence Cycle as "state of the art" (cf. E3), but note different manifestations of the phases in praxis (cf. E4).
+The planning and direction phase is often neglected, despite its crucial importance, leading to wasteful production (cf. E3). Conversely, OSINT is frequently associated solely with the collection phase,
+resulting in subpar outcomes due to high volumes of low-quality data (cf. E1; E2; E3). The main reason for this is, that the Intelligence Cycle is operated by at least three groups of people. Firstly, the customers, usually located at the "decision-maker level", with a primarily legal professional background (cf. E2).
+The second is the technician who carries out the data collection and processing (cf. E2; E3). Lastly, the analyst evaluates the data and creates the intelligence product (cf. E1). The process thereby is rarely transparent between the parties
+(cf. E1; E2) and is rarely anchored at the organizational level (cf. E4). According to the experts, there is thus no third-generation
+OSINT tool in use, at least not in German authorities. In addition, the collection focus is driven by concerns about missing vital information, which could later be revealed as publicly available (cf. E1).
 
 \subsection{Use Cases in Theory-Practice Comparison}
 
@@ -308,7 +309,7 @@ Twitter activities of the OSINT journalists' association "Bellingcat" \cite{Bar.
 involves for example the performance classification of Chinese logistics companies \cite{Tao.2023}.
 Additionally, two identified studies focus generally on creating knowledge graphs on OSINF \cite{Hu.2023, Ma.2022}.
 
-The Experts indicate that OSINT is used in all authorities and various use cases, even if not explicitly labeled as such (cf. E2, 19.07.2023). It is most commonly applied in cybersecurity/CTI (cf. E1, 14.07.2023; E2, 19.07.2023) and general security, especially within the German Armed Forces, the (Federal) Intelligence Service, domestic intelligence services, and the police.
+The Experts indicate that OSINT is used in all authorities and various use cases, even if not explicitly labeled as such (cf. E2). It is most commonly applied in cybersecurity/CTI (cf. E1; E2) and general security, especially within the German Armed Forces, the (Federal) Intelligence Service, domestic intelligence services, and the police.
 
 \subsection{Technologies and Maturity Levels in Theory-Practice Comparison}
 
@@ -324,9 +325,9 @@ data collection (e.g., \cite{Jenkins.2021}). Another method in the prototype pha
 "focused crawling", adapting the crawling path dynamically using a content-driven ML algorithm, BERT ("Bidirectional Encoder Representation from Transformers")
 \cite{Kuehn.2023}. Technologies for crawling/scraping the dark web, like "Torsion" \cite{Sonawane.2022},
 were assigned to the innovation phase. The experts also note the increasing use of open source tools alongside manual work
-(cf. E1, 14.07.2023; E3, 28.07.2023; E1, 14.07.2023). However, they consider traditional web crawling and scraping
+(cf. E1; E3; E1). However, they consider traditional web crawling and scraping
 outdated due to errors, implementation difficulties, and website resistance. Screenshot-based "web shooting" with
-OCR (Optical Character Recognition) extraction is seen as more modern and robust (cf. E3, 28.07.2023).
+OCR (Optical Character Recognition) extraction is seen as more modern and robust (cf. E3).
 
 NLP applications/methods such as "Topic Classifying", "Part-of-Speech Tagging", "Entity and Relation Annotation", and "Named Entity Recognition"
 demonstrate high automation levels in the processing and utilization phase. Technologies commonly used include
@@ -336,9 +337,9 @@ Additionally, deep learning, particularly through "word embedding" using the "wo
 
 
 However, the experts note that within authorities this phase predominantly involves manual work due to irreplaceable domain knowledge
-(cf. E1, 14.07.2023; E2, 19.07.2023; E3, 28.07.2023). The degree of automation depends on the abstraction level:
+(cf. E1; E2; E3). The degree of automation depends on the abstraction level:
 operational tasks needing specific information show lower automation than long-term strategic analyses requiring
-extensive data (cf. E3, 28.07.2023).
+extensive data (cf. E3).
 
 The highest automation level is observed in the analysis and production phase, where AI, ML, and DL technologies are prevalent.
 Under DL, vectorization algorithms can also be found. Particularly BERT algorithms in different versions are commonly utilized
@@ -352,11 +353,11 @@ except for Dale et al. \cite{Dale.2023}, who developed a bidirectional recurrent
 BiGur ("Bidirectional Gated Recurrent Unit") layers. Due to the modular use of publicly available models,
 the technologies are mostly classified as market-ready. The experts note, that this phase largely relies
 on manual content analysis due to limited technological understanding and acceptance, in german authorities
-(cf. E2, 19.07.2023; E3, 28.07.2023; E4, 02.08.2023). Also, ethical and legal barriers, like GDPR (General Data Protection Regulation), hinder technology
-adoption (cf. E2, 19.07.2023; E4, 02.08.2023). Additionally, security concerns favor standalone systems,
-with smart technologies often used unofficially (cf. E2, 19.07.2023; E4, 02.08.2023). However, there is a need for modular,
-expandable systems to keep pace with advancements (cf. E1, 14.07.2023; E3, 28.07.2023; E4, 02.08.2023). Nevertheless, human experience
-and specialization remain crucial to ensure product quality. Yet, the potential of Large Language Models (LLM) remains uncertain (cf. E4, 02.08.2023).
+(cf. E2; E3; E4). Also, ethical and legal barriers, like GDPR (General Data Protection Regulation), hinder technology
+adoption (cf. E2; E4). Additionally, security concerns favor standalone systems,
+with smart technologies often used unofficially (cf. E2; E4). However, there is a need for modular,
+expandable systems to keep pace with advancements (cf. E1; E3; E4). Nevertheless, human experience
+and specialization remain crucial to ensure product quality. Yet, the potential of Large Language Models (LLM) remains uncertain (cf. E4).
 
 In the dissemination and integration phase, tools like "Power BI" \cite{Tao.2023}
 are utilized to create dashboards and visualization maps. Furthermore, user interfaces,
@@ -366,8 +367,8 @@ improved user interfaces and input masks for entire tool stacks \cite{Arjun.2020
 Additionally, automated alert technologies for cybersecurity risk assessments are prevalent \cite{Ahuja.2022}. Graph-based visualizations are also common, utilizing tools
 /libraries like "Matplot," "Networkx," "Pygraphistry," or the "Neo4j-Browser" \cite{Middleton.2020}.
 Except from the alerts, the retrieval of results is largely semi-automated, with technologies in the market establishment phase. No information on targeted user tests or new development runs involving user feedback was found in any of the studies. The experts state that there is still very little
-automation within the authorities during this phase. The final product often comprises only a PDF document, email, or verbal report (cf. E1, 14.07.2023), which suffices in many cases (cf. E3, 28.07.2023).
-However, beyond OSINT, various automated tools exist that could be applied to the authorities (cf. E4, 02.08.2023). Moreover, there is a lack of necessary feedback for product improvement in practice (cf. E3, 28.07.2023).
+automation within the authorities during this phase. The final product often comprises only a PDF document, email, or verbal report (cf. E1), which suffices in many cases (cf. E3).
+However, beyond OSINT, various automated tools exist that could be applied to the authorities (cf. E4). Moreover, there is a lack of necessary feedback for product improvement in practice (cf. E3).
 
 \section{Discussion and Conclusion} \label{sec:discussion}
 %\section{Discussion} \label{sec:discussion}
