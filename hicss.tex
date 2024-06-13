@@ -36,7 +36,7 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-Open Source Intelligence (OSINT), the process of gathering intelligence from public data, is under intense scrutiny, heightened since the Russian invasion of Ukraine. However, despite numerous attempts at standardized definitions, the research contexts around the topic of technology-driven intelligence gathering and analysis   remains ambiguous. This paper addresses this gap by using a Design Science Research (DSR) approach to develop a systematic  categorization  of the technology-driven intelligence construct. Sixty studies were analyzed using structured literature review. This approach yielded three domains: maturity, Intelligence Cycle phase, and use case. This framework, developed into an artifact as a trend radar, was evaluated using expert interviews. The process revealed technological gaps in the planning/direction and dissemination/integration phases. Although intelligent support technologies were identified, practical implementation lags behind theory. And importantly, the human factor remains central to the OSINT process. The findings of this study suggest future research should develop applications for underserved phases and examine why proven applications are not widely adopted, focusing on legal, ethical, political, and social factors. Thus, the study contributes to the literature on technology-driven intelligence by serving as a knowledge base, and tool for identifying research gaps, and a guide for further research. 
+    Open Source Intelligence (OSINT), the process of gathering intelligence from public data, is under intense scrutiny, heightened since the Russian invasion of Ukraine. However, despite numerous attempts at standardized definitions, the research contexts around the topic of technology-driven intelligence gathering and analysis   remains ambiguous. This paper addresses this gap by using a Design Science Research (DSR) approach to develop a systematic  categorization  of the technology-driven intelligence construct. Sixty studies were analyzed using structured literature review. This approach yielded three domains: maturity, Intelligence Cycle phase, and use case. This framework, developed into an artifact as a trend radar, was evaluated using expert interviews. The process revealed technological gaps in the planning/direction and dissemination/integration phases. Although intelligent support technologies were identified, practical implementation lags behind theory. And importantly, the human factor remains central to the OSINT process. The findings of this study suggest future research should develop applications for underserved phases and examine why proven applications are not widely adopted, focusing on legal, ethical, political, and social factors. Thus, the study contributes to the literature on technology-driven intelligence by serving as a knowledge base, and tool for identifying research gaps, and a guide for further research.
 \end{abstract}
 
 \section{Introduction} \label{sec:introduction}
@@ -80,18 +80,14 @@ developing OSINT into a robust, autonomous solution (referred to as third-genera
 
 \subsection{Intelligence and Intelligence Cycle}
 
-The core task of OSINT is to generate intelligence
-as a basis for decision-making
+The core task of OSINT is to generate intelligence as a basis for decision-making
 \cite{Breakspear.2013,NorthAtlanticTreatyOrganization.2001}. The generation process of such an intelligence product
 is referred to as the Intelligence Cycle \cite{CentralIntelligenceAgency.1987}.
 It represents the central element of every intelligence discipline \cite{Reuser.2017}.
 The link between the phases is that the result of each preceding phase serves as input for the subsequent phase \cite{JointChiefsofStaffU.S.Army.2013}, continuously iterated to meet new requirements and demands \cite{Gibson.2016}.
-Today, to represent external influences or the
-assignment of responsibilities \cite{Lowenthal.2020,Phythian.2013}, numerous
-variations can be found \cite{Reuser.2017}. The
-Intelligence Cycle should hence be seen less as a guideline and more as an informal
-coordination element \cite{Hwang.2022}.
-In 2013, \cite{JointChiefsofStaffU.S.Army.2013} segmented the cycle into 6 phases  (see figure \ref{fig: Intelligence Cycle}).
+Today, to represent external influences or the assignment of responsibilities \cite{Lowenthal.2020,Phythian.2013}, numerous
+variations can be found \cite{Reuser.2017}. The Intelligence Cycle should hence be seen less as a guideline and more as an informal
+coordination element \cite{Hwang.2022}. In 2013, \cite{JointChiefsofStaffU.S.Army.2013} segmented the cycle into 6 phases  (see figure \ref{fig: Intelligence Cycle}).
 
 \begin{figure}[h]
     \centering
@@ -157,7 +153,7 @@ Section \ref{sec:introduction} summarizes step 1, while sections \ref{sec:result
 \subsection{Design Objectives of the Solution} \label{sec:designobjectives}
 
 
-The design objectives of the solution are divided into content-related objectives (CO) and formal objectives (FO).
+The design objectives of the solution are divided into content-related (CO) and formal objectives (FO).
 
 \begin{itemize}
     \item[\textbf{CO1:}] The artifact must mirror the intelligence generation process, facilitating structured mapping of identified technologies based on their usage. This enables direct assignment of research gaps to respective phases, verifying the existence of third-generation OSINT systems.
@@ -171,7 +167,6 @@ In section \ref{sec:theoreticalbackground}, key concepts foundational to the res
 
 \subsection{Design and Development}
 The third activity involves conducting a systematic literature review, guided by \cite{Cleven.2009}. Cooper's taxonomy \cite{Cooper.1988} is used to scope the review, establishing classification categories for creating concept matrices to structure the literature analysis \cite{Webster.2002}.
-
 To standardize the approach across the Intelligence Cycle, general categories were defined for each phase, excluding the evaluation and feedback phase due to its iterative nature. For the collection phase, six categories were developed:
 \begin{itemize}
     \item \textbf{Use case:} Application areas of the technologies.
@@ -195,7 +190,7 @@ The literature search, executed using a broad search string to maximize retrieva
 
 Each technology was then categorized and analyzed for interrelationships within the OSINT framework. Verification of categorization was conducted using a Python script, which scanned the included papers for predefined keywords. The verified categories and relationships informed the development of the artifact radar based on the verified concept matrices.
 
-For this study, a trend radar was selected for the artifact. A trend radar is a strategic tool used to identify, monitor, and evaluate trends that could impact an industry or an organization. These are usually circular diagrams that use multiple layers representing relevance or impact \cite{wulfmettbrenn2017}. 
+For this study, a trend radar was selected for the artifact. A trend radar is a strategic tool used to identify, monitor, and evaluate trends that could impact an industry or an organization. These are usually circular diagrams that use multiple layers representing relevance or impact \cite{wulfmettbrenn2017}.
 
 \subsection{Evaluation of the Design Specifications}
 The Intelligence Cycle forms the foundation of the trend radar (artifact), offering clarity and an intuitive framework that simplifies technology extraction and research gap identification. Its design also ensures applicability across diverse intelligence disciplines in Germany, where this research was conducted. By emulating the structure of the German federal government's own trend radar \cite{Stich.2022}, this artifact achieves robustness, user-friendliness, and appropriate detail, focusing on the essential categories of use case, technology, and maturity level. The concept matrices enable regular updates to the radar, ensuring current and standardized design. Rigorous verification of internal consistency maintains categorization integrity, meeting critical evaluation criteria in contemporary design research \cite{vomBrocke.2020b}.
@@ -210,15 +205,15 @@ Experts (table \ref{tab:experts}) were selected using theoretical sampling \cite
     \caption{Interviewed experts}
     \begin{tabular}{p{0.05\linewidth}p{0.2\linewidth}p{0.45\linewidth}p{0.15\linewidth}}
         \toprule
-        \textbf{ID} &\textbf{Organization} & \textbf{Position}                                             &  \textbf{Interview date}\\
+        \textbf{ID} & \textbf{Organization} & \textbf{Position}                                             & \textbf{Interview date} \\
         \hline
-        E1  & Industry/ Authority   & Senior Intelligence Consultant                                &  07-14-2023       \\
+        E1          & Industry/ Authority   & Senior Intelligence Consultant                                & 07-14-2023              \\
         \hline
-        E2 & Industry/ Authority   & Referent Corporate Security                                   & 07-19-2023         \\
+        E2          & Industry/ Authority   & Referent Corporate Security                                   & 07-19-2023              \\
         \hline
-        E3  & Authority             & In-House Senior Consultant                                    & 07-28-2023        \\
+        E3          & Authority             & In-House Senior Consultant                                    & 07-28-2023              \\
         \hline
-        E4  & Start-up              & Managing Director of a German start-up, for an OSINT platform & 08-02-2023        \\
+        E4          & Start-up              & Managing Director of a German start-up, for an OSINT platform & 08-02-2023              \\
         \bottomrule
     \end{tabular}
     \label{tab:experts}
@@ -245,7 +240,7 @@ varying maturity levels.
 
 \begin{figure*}[thb]
     \centering
-    \includegraphics[width=0.8\textwidth]{PDF/images/crop_Trendradar}
+    \includegraphics[width=0.7\textwidth]{PDF/images/crop_Trendradar}
     \caption{The resulting trend radar based on the Intelligent Cycle split into innovation, prototype, and market-establishment phase to illustrate maturity of the technologies within OSINT use cases}
     \label{fig:trendradar}
 \end{figure*}
@@ -260,7 +255,6 @@ varying maturity levels.
 \subsection{Intelligence Cycle in Theory-Practice Comparison}
 
 Studies align with each phase of the Intelligence Cycle but no application covers all phases as a third-generation OSINT tool. The literature mainly focuses on the collection phase, followed by analysis and production, and processing/exploitation. The dissemination/integration phase is least covered, followed closely by planning/direction.
-
 These findings align with the experts' practical experiences. They regard the Intelligence Cycle as "state of the art" (cf. E3) but note different manifestations of the phases in praxis (cf. E4).
 The planning and direction phase is often neglected, despite its crucial importance, leading to wasteful production (cf. E3). Conversely, OSINT is frequently associated solely with the collection phase,
 resulting in subpar outcomes due to high volumes of low-quality data (cf. E1; E2; E3). The main reason for this is that the Intelligence Cycle is operated by at least three groups of people. Firstly, the customers, usually located at the "decision-maker level", with a primarily legal professional background (cf. E2).
@@ -273,7 +267,8 @@ OSINT tool in use, at least not in German authorities. In addition, the collecti
 Five main use cases emerged from the research: cyber security, health, security, journalism,
 and competition analysis. Cyber security studies primarily focus on Open Source Cyber Threat
 Intelligence (OSCTI), which involves collecting, monitoring, and analyzing public
-data to detect potential cyber threats \cite{Ahuja.2022,AlDmour.2023}.
+%data to detect potential cyber threats \cite{Ahuja.2022,AlDmour.2023}.
+data to detect potential cyber threats \cite{Ahuja.2022}.
 Health applications mainly address COVID-19 outbreak investigations \cite{Kpozehouen.2020}.
 The security use case includes applications such as
 analyzing violent behavior in public transport \cite{Nobili.2021}. The identified journalism study examines the
@@ -326,7 +321,6 @@ adoption (cf. E2; E4). Additionally, security concerns favor standalone systems,
 with smart technologies often used unofficially (cf. E2; E4). However, there is a need for modular,
 expandable systems to keep pace with advancements (cf. E1; E3; E4). Nevertheless, human experience
 and specialization remain crucial to ensure product quality. Yet, the potential of Large Language Models (LLM) remains uncertain (cf. E4).
-
 In the dissemination and integration phase, tools like 'Power BI' \cite{Tao.2023}
 are utilized to create dashboards and visualization maps. Furthermore, user interfaces,
 web applications, and online platforms are developed, including Python GUIs,
@@ -386,7 +380,8 @@ Addressing these research questions entails resolving numerous underlying resear
 
     \item[\textbf{RG6:}] Addressing challenges necessitates foundational technical understanding at decision-maker levels, fostering openness to technology and cultivating an information-sharing mindset to transcend bureaucratic barriers \cite{NorthAtlanticTreatyOrganization.2001}.
 
-    \item[\textbf{RG7:}] While LLMs show promise in intelligence analysis, their operational application remains underexplored \cite{Radford.2023,Zhao.31.03.2023}.
+        %\item[\textbf{RG7:}] While LLMs show promise in intelligence analysis, their operational application remains underexplored \cite{Radford.2023,Zhao.31.03.2023}.
+    \item[\textbf{RG7:}] While LLMs show promise in intelligence analysis, their operational application remains underexplored \cite{Radford.2023}.
 
     \item[\textbf{RG8:}] Technicians often handle significant phases of the Intelligence Cycle independently, yet there is a notable absence of robust collection tools to match the rapidly evolving media landscape.
 
@@ -420,7 +415,7 @@ Initial evaluations reveal two crucial unanswered research questions and identif
 critical areas for future development and research to enhance the efficiency and effectiveness of intelligence operations.
 %as well as identifying research gaps for future studies, penetrating the complex research field. 
 Moreover, the developed trend radar serves as a guideline for practitioners. The radar
-is adaptable to the evolving subject area and transferable to other intelligence disciplines. Hopefully, the findings of this study can help give OSIR some traction in the academic research context to help augment and improve a very important tool in today’s dangerous world.
+is adaptable to the evolving subject area and transferable to other intelligence disciplines. Hopefully, the findings of this study can give OSIR some traction in the academic research context to augment and improve a very important tool in today’s dangerous world.
 
 
 %Before addressing these questions, future researchers are advised to validate them further. 
