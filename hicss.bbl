@@ -5,7 +5,6 @@ D.~S. {Dos Passos}, ``Big data, data science and their contributions to the deve
 
 \bibitem{SmithBoyle.24.07.2023}
 V.~Smith-Boyle, ``How osint has shaped the war in ukraine,'' {\em {American Security Project (ASP)}}, 2022.
-\newblock \url{https://www.americansecurityproject.org/osint-in-ukraine/}.
 
 \bibitem{Hwang.2022}
 Y.-W. Hwang, I.-Y. Lee, H.~Kim, H.~Lee, and D.~Kim, ``Current status and security trend of osint,'' {\em Wireless Communications and Mobile Computing}, vol.~2022, pp.~1--14, 2022.
@@ -99,6 +98,13 @@ J.~{vom Brocke}, A.~Hevner, and A.~Maedche, ``Introduction to design science res
 \bibitem{Sonnenberg.2012}
 C.~Sonnenberg and J.~{vom Brocke}, ``Evaluations in the science of the artificial -- reconsidering the build-evaluate pattern in design science research,'' in {\em Design Science Research in Information}, vol.~7286, pp.~381--397, 2012.
 
+\bibitem{Ish.2022}
+D.~Ish, J.~Ettinger, and C.~Ferris, {\em Evaluating the Effectiveness of Artificial Intelligence Systems in Intelligence Analysis}, vol.~RR-A464-1 of {\em Research reports}.
+\newblock Santa Monica, Calif.: {RAND Corporation}, 2022.
+
+\bibitem{Benes.2013}
+L.~Benes, ``Osint, new technologies, education: Expanding opportunities and threats. a new paradigm,'' {\em Journal of Strategic Security}, vol.~6, no.~3Suppl, pp.~22--37, 2013.
+
 \bibitem{Cleven.2009}
 A.~Cleven, B.~Niehaves, R.~Plattfaut, K.~Riemer, A.~Simons, and {vom Brocke, Jan, Martin Hilti}, ``Reconstructing the giant: On the importance of rigour in documenting the literature search process.''
 
@@ -124,7 +130,6 @@ S.~Singh and N.~Singh, ``Big data analytics,'' in {\em 2012 International Confer
 \bibitem{Stich.2022}
 V.~Stich, M.-F. Stroh, M.~Abbas, K.~Frings, and S.~Kremer, {\em {Digitalisierung der Wirtschaft in Deutschland: Technologie- und Trendradar 2022}}.
 \newblock Berlin: {Bundesministerium f{\"u}r Wirtschaft und Klimaschutz}.
-\newblock \url{https://www.de.digital/DIGITAL/Navigation/DE/Lagebild/Technologie-und-Trendradar/technologie-und-trendradar.html}.
 
 \bibitem{Delen.2013}
 D.~Delen and H.~Demirkan, ``Data, information and analytics as services,'' {\em Decision Support Systems}, vol.~55, no.~1, pp.~359--363, 2013.

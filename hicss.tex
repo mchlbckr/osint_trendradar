@@ -20,15 +20,15 @@
 
 \title{Mission Critical in a Dangerous World: Developing a Literature-Based Foundation for Better Open Source Intelligence (OSINT) Research}
 
-\author{Franz Kayser\thanks{~~The authors would like to thank Mike Wasserman for his valuable and profound comments.} \\
-  ESG \\
-  {\underline{ franz.kayser@esg.de}} \\\And
-  Thomas Mayer \\
-  ESG  \\
-  {\underline{ thomas3.mayer@esg.de} }\\\And 
-  Michael Bücker \\
-  University of Applied Sciences Münster\\
-  {\underline{michael.buecker@fh-muenster.de}} \\}
+%\author{Franz Kayser\thanks{~~The authors would like to thank Mike Wasserman for his valuable and profound comments.} \\
+%  ESG \\
+%  {\underline{ franz.kayser@esg.de}} \\\And
+%  Thomas Mayer \\
+%  ESG  \\
+%  {\underline{ thomas3.mayer@esg.de} }\\\And 
+%  Michael Bücker \\
+% University of Applied Sciences Münster\\
+%  {\underline{michael.buecker@fh-muenster.de}} \\}
   
 \date{}
 
@@ -52,14 +52,14 @@ making previously restricted data publicly accessible \cite{Hwang.2022, Williams
 Despite the heightened interest, fundamental scientific literature in the field remains limited \cite{HerreraCubides.2020},
 failing to keep pace with rapid developments \cite{Ghioni.2023, Williams.2018}. Key questions regarding the existence of
 autonomous third-generation OSINT systems \cite{PastorGalindo.2019, PastorGalindo.2020} remain unanswered
-\cite{Ghioni.2023, PastorGalindo.2020, Yogish.2021} and significant OSINT use cases remain unexplored
+\cite{Ghioni.2023, PastorGalindo.2020, Yogish.2021} and significant OSINT use cases unexplored
 \cite{AlKilani.2021, Dokman.2020, Ghioni.2023}, lacking qualitative field research to bridge theoretical concepts with
-practical implementation \cite{HerreraCubides.2020, PastorGalindo.2019}. Such a framework would likely be helpful in building a solid scientific research framework with which more knowledge about OSINT can be generated and applied. This study thus addresses the research question:
+practical implementation. This is mainly due to the frequent use of OSINT in government/security sectors that are hard to access \cite{HerreraCubides.2020, PastorGalindo.2019}. A robust, structured framework would enhance the scientific understanding and application of OSINT. This study therefore addresses the research question:
 \textit{How can current OSINT trends, in the form of technologies and their characteristics, particularly maturity levels and use cases, be presented in a more unified way that bridges academic research and practical applications?}
 This paper investigates current OSINT trends, adopting the DSR approach \cite{Peffers.2007}.
-The methodology involves a systematic literature review \cite{Webster.2002} to analyze and classify relevant OSINT literature.
-Subsequently, OSINT technologies and their characteristics will be visualized in a trend radar, evaluated using structured
-interviews with security sector experts \cite{Bogner.2014}, and explored using qualitative content analysis \cite{Billings.1997}. All background material for this research, such as concept matrices and code, is openly available on GitHub \cite{kayser2024}.
+The methodology involves a systematic literature review \cite{Webster.2002} to analyze and classify previous relevant OSINT literature, establishing a consolidated knowledge base.
+Subsequently, OSINT technologies and their characteristics will be visualized in a trend radar, evaluated using semi-structured
+interviews \cite{Bogner.2014} with security sector experts, and explored using qualitative content analysis \cite{Billings.1997}, to examine this under-researched area. All background material for this research is openly available on GitHub \cite{kayser2024}.
 
 
 \section{Theoretical Background} \label{sec:theoreticalbackground}
@@ -130,36 +130,37 @@ OSINT in conjunction with AI, highlighting the absence of a comprehensive framew
 
 The study follows the iterative DSR approach, a theory-based research paradigm for developing a directly applicable solution in the form of an innovative artifact \cite{vomBrocke.2020b}
 to solve a (practical) problem \cite{Peffers.2007}. Hence, the model is ideally suited for creating an artifact that can be useful for addressing the aforementioned definitional gap and lack of academic frameworks. The DSR methodology includes
-six successive activities \cite{Peffers.2007} (see figure 1).
+six successive activities \cite{Peffers.2007} (see figure \ref{fig: DSRM}). Section \ref{sec:introduction} summarizes step 1, while sections \ref{sec:results} and \ref{sec:discussion} present the outcomes of step 6. Steps 2-5 will be discussed in detail in sections \ref{sec:designobjectives}-\ref{sec:eval}. Continuous evaluation of steps 1-4 occurred throughout the study following \cite{Sonnenberg.2012}.
 
-
-Section \ref{sec:introduction} summarizes step 1, while sections \ref{sec:results} and \ref{sec:discussion} present the outcomes of step 6. Steps 2-5 will be discussed in detail in sections \ref{sec:designobjectives}-\ref{sec:eval}. Continuous evaluation of steps 1-4 occurred throughout the study following \cite{Sonnenberg.2012}.
-
-%\begin{figure*}[thb]
-%    \centering
-%    \includegraphics[width=\textwidth]{PDF/images/crop_DSRM}
-%    \caption{Design Science Research Model (DSRM)}
-%    \label{fig: DSRM}
-%\end{figure*}
+\begin{figure*}[thb]
+    \centering
+    \includegraphics[width=0.7\textwidth]{PDF/images/cropped DSR_V01.pdf}
+    \caption{DSR is a theory-based iterative approach for developing innovative solutions \cite{Peffers.2007}. It involves six steps \cite{Peffers.2007} and includes three control steps \cite{Sonnenberg.2012} for continuous refinement.}
+    \label{fig: DSRM}
+\end{figure*}
 
 \subsection{Design Objectives of the Solution} \label{sec:designobjectives}
 
 
-The design objectives of the solution are divided into content-related (CO) and formal objectives (FO).
+The design objectives derive from the research question \cite{Peffers.2007} and are divided into content-related (CO) and formal objectives (FO).
 
 \begin{itemize}
-    \item[\textbf{CO1:}] The artifact must mirror the intelligence generation process, facilitating structured mapping of identified technologies based on their usage. This enables direct assignment of research gaps to respective phases, verifying the existence of third-generation OSINT systems.
-    \item[\textbf{CO2:}] Key characteristics, such as technology maturity levels and use cases, must be considered. Technology maturity informs research status, while use cases reveal research directions.
-    \item[\textbf{FO1:}] The artifact must follow a simple structure for quick identification of research gaps and high standardization for applicability across intelligence disciplines.
-    \item[\textbf{FO2:}] The artifact should be continually expandable to capture field dynamics effectively.
+    \item[\textbf{CO1:}] Third-generation OSINT systems remain unconfirmed \cite{Ghioni.2023}. The artifact must reflect the intelligence generation process to map technologies by usage to respective phases and identify research gaps.
+        %The artifact must mirror the intelligence generation process, facilitating structured mapping of identified technologies based on their usage. This enables direct assignment of research gaps to respective phases, verifying the existence of third-generation OSINT systems.
+    \item[\textbf{CO2:}] Key use cases \cite{AlKilani.2021}, technologies, and their characteristics are lacking in OSINT research \cite{Ghioni.2023,Ish.2022}. The artifact must include technology maturity to inform research status and use cases to indicate research directions.
+        %Key characteristics, such as technology maturity levels and use cases, must be considered. Technology maturity informs research status, while use cases reveal research directions.
+    \item[\textbf{FO1:}] Given OSINT's rapid evolution \cite{Ghioni.2023}, the artifact requires a simple, standardized structure to quickly identify research gaps and ensure cross-disciplinary applicability.
+        %The artifact must follow a simple structure for quick identification of research gaps and high standardization for applicability across intelligence disciplines.
+    \item[\textbf{FO2:}] Due to the high field dynamic, predicting future developments is challenging \cite{Benes.2013}. The artifact should be designed for continuous expansion to remain relevant over time.
+        %The artifact should be continually expandable to capture field dynamics effectively.
 \end{itemize}
 
 \subsection{Evaluation of the Problem Statement and Design Objectives} \label{sec:eval}
 In section \ref{sec:theoreticalbackground}, key concepts foundational to the research are defined, focusing on the Intelligence Cycle. The cycle is crucial as it underpins the development of the artifact. The artifact is evaluated for its compatibility within the OSINT framework. Furthermore, the review of prior studies reveals a significant gap in comprehensive OSINT research, emphasizing the importance and relevance of the inquiry.
 
 \subsection{Design and Development}
-The third activity involves conducting a systematic literature review, guided by \cite{Cleven.2009}. Cooper's taxonomy \cite{Cooper.1988} is used to scope the review, establishing classification categories for creating concept matrices to structure the literature analysis \cite{Webster.2002}.
-To standardize the approach across the Intelligence Cycle, general categories were defined for each phase, excluding the evaluation/feedback phase due to its iterative nature. For the collection phase, six categories were developed:
+The third activity involves conducting a systematic literature review, guided by \cite{Cleven.2009}. Cooper's taxonomy \cite{Cooper.1988} scoped the review, setting up classification categories for concept matrices to structure the literature analysis \cite{Webster.2002}.
+To standardize verification across the Intelligence Cycle, general categories reflecting established technology evaluation criteria were defined for each phase, except the iterative evaluation/feedback phase. For the collection phase, six categories were developed:
 \begin{itemize}
     \item \textbf{Use case:} Application areas of the technologies.
     \item \textbf{Data:} Composition and types of data foundations, including data format and source.
@@ -170,8 +171,8 @@ To standardize the approach across the Intelligence Cycle, general categories we
 \end{itemize}
 
 Similar categories were adapted for the other phases of the Intelligence Cycle, with complexity measured via the analytics spectrum: descriptive, diagnostic, predictive, and prescriptive \cite{Delen.2013}.
-
-The literature search, executed using a broad search string to maximize retrieval, was limited to publications from 2020 to 2023 to reflect recent advancements. A total of 60 studies were analyzed using the SQR3 method \cite{Robinson.1970} and categorized into a meticulously structured Excel spreadsheet for each phase of the Intelligence Cycle (Fig. \ref{fig:LiteratureReview}).
+The literature search, using the broad search string ("OSINT" OR "Open Source Intelligence" OR "Open-Source Intelligence" OR "open source intelligence" OR "open-source intelligence"), was limited to publications from 2020 to 2023 to capture recent advancements. This search was applied across four databases: Web of Science, IEEE Xplore, ACM Digital Library, and arXiv. A total of 60 studies were analyzed using the SQR3 method \cite{Robinson.1970} and organized into a structured Excel spreadsheet for each phase of the Intelligence Cycle.
+%The literature search, executed using a broad search string to maximize retrieval, was limited to publications from 2020 to 2023 to reflect recent advancements. A total of 60 studies were analyzed using the SQR3 method \cite{Robinson.1970} and categorized into a meticulously structured Excel spreadsheet for each phase of the Intelligence Cycle.% (Fig. \ref{fig:LiteratureReview}).
 
 %\begin{figure}[t]
 %    \centering
@@ -185,7 +186,7 @@ Each technology was then categorized and analyzed for interrelationships within 
 For this study, a trend radar was selected for the artifact. A trend radar is a strategic tool used to identify, monitor, and evaluate trends that could impact an industry or an organization. These are usually circular diagrams that use multiple layers representing relevance or impact \cite{wulfmettbrenn2017}.
 
 \subsection{Evaluation of the Design Specifications}
-The Intelligence Cycle forms the foundation of the trend radar (artifact), offering clarity and an intuitive framework that simplifies technology extraction and research gap identification. Its design also ensures applicability across diverse intelligence disciplines in Germany, where this research was conducted. By emulating the structure of the German federal government's own trend radar \cite{Stich.2022}, this artifact achieves robustness, user-friendliness, and appropriate detail, focusing on the essential categories of use case, technology, and maturity level. The concept matrices enable regular updates to the radar, ensuring current and standardized design. Rigorous verification of internal consistency maintains categorization integrity, meeting critical evaluation criteria in contemporary design research \cite{vomBrocke.2020b}.
+The Intelligence Cycle forms the foundation of the trend radar (artifact), offering clarity and an intuitive framework that simplifies technology extraction and research gap identification. Its design also ensures applicability across diverse intelligence disciplines in Germany, where this research was conducted. By emulating the structure of the German federal government's trend radar \cite{Stich.2022}, the categories included in this radar have been limited to use case, technology, and maturity level. This focus enhances robustness, user-friendliness, and appropriate detail in the artifact. The concept matrices enable regular updates to the radar, ensuring current and standardized design. Rigorous verification of internal consistency maintains categorization integrity, meeting critical evaluation criteria in contemporary design research \cite{vomBrocke.2020b}.
 
 
 \subsection{Demonstration}
@@ -197,24 +198,24 @@ Experts (table \ref{tab:experts}) were selected using theoretical sampling \cite
     \caption{Interviewed experts}
     \begin{tabular}{p{0.05\linewidth}p{0.2\linewidth}p{0.45\linewidth}p{0.15\linewidth}}
         \toprule
-        \textbf{ID} & \textbf{Organization} & \textbf{Position}                                             & \textbf{Interview date} \\
+        \textbf{ID} & \textbf{Organization} & \textbf{Position}                      & \textbf{Interview date} \\
         \hline
-        E1          & Industry/ Authority   & Senior Intelligence Consultant                                & 07-14-2023              \\
+        E1          & Industry/ Authority   & Senior Intelligence Consultant         & 07-14-2023              \\
         \hline
-        E2          & Industry/ Authority   & Referent Corporate Security                                   & 07-19-2023              \\
+        E2          & Industry/ Authority   & Referent Corporate Security            & 07-19-2023              \\
         \hline
-        E3          & Authority             & In-House Senior Consultant                                    & 07-28-2023              \\
+        E3          & Authority             & In-House Senior Consultant             & 07-28-2023              \\
         \hline
-        E4          & Start-up              & Managing Director of a German start-up, for an OSINT platform & 08-02-2023              \\
+        E4          & Start-up              & Managing Director of a German start-up & 08-02-2023              \\
         \bottomrule
     \end{tabular}
     \label{tab:experts}
 \end{table*}
-The qualitative data collection utilized semi-structured interviews, ideal for uncovering underlying theoretical relationships \cite{Bogner.2014}. The questionnaire, based on the Intelligence Cycle, commenced with a presentation of the artifact, the trend radar. Open questions were initially posed for each phase to compare it with respondents' practical experience, reducing subjectivity \cite{Saunders.2012}. Exploratory questions guided conversation flow \cite{Saunders.2012}, followed by specific closed questions for targeted follow-up \cite{Saunders.2012}. The interviews lasted up to an hour, with a maximum of three main questions per phase \cite{Bogner.2014} and were conducted online. The questionnaire underwent pilot testing with a domain expert.
+The qualitative data collection utilized semi-structured interviews, ideal for uncovering underlying theoretical relationships \cite{Bogner.2014}. The questionnaire, based on the Intelligence Cycle, commenced with a presentation of the artifact, the trend radar. Open questions were initially posed for each phase to compare it with respondents' practical experience, reducing subjectivity \cite{Saunders.2012}. Exploratory questions guided conversation flow \cite{Saunders.2012}, followed by specific closed questions for targeted follow-up \cite{Saunders.2012}. The interviews, contucted online, lasted up to an hour, with a maximum of three main questions per phase \cite{Bogner.2014}. The questionnaire underwent pilot testing.
 
 \subsection{Evaluation of the First Instance of the Trend Radar}
 
-The trend radar demonstration affirmed its intuitive usability and usefulness in providing an overview of OSINT technologies. Practitioners also confirmed its completeness and internal consistency (cf. E1; E3; E4). As a result, the radar proved suitable for identifying research gaps and guiding practitioners. Thus, it meets the essential evaluation criteria \cite{Sonnenberg.2012}.
+The trend radar demonstration affirmed its intuitive usability and usefulness in providing an overview of OSINT technologies. Practitioners also confirmed its completeness and internal consistency (cf. E1; E3; E4). As a result, the radar proved suitable for identifying research gaps and guiding practitioners, meeting the essential evaluation criteria \cite{Sonnenberg.2012}.
 
 \subsection{Evaluation} \label{sec:eval}
 
@@ -252,7 +253,7 @@ The planning/direction phase is often neglected, despite its crucial importance,
 resulting in subpar outcomes due to high volumes of low-quality data (cf. E1; E2; E3). The main reason for this is that the Intelligence Cycle is operated by at least three groups of people. Firstly, the customers, usually located at the "decision-maker level", with a primarily legal professional background (cf. E2).
 The second is the technician who carries out the data collection and processing (cf. E2; E3). Lastly, the analyst evaluates the data and creates the intelligence product (cf. E1). The process thereby is rarely transparent between the parties
 (cf. E1; E2) and is rarely anchored at the organizational level (cf. E4). According to the experts, there is thus no third-generation
-OSINT tool in use, at least not in German authorities. In addition, the collection focus is driven by concerns about missing vital information, which could later be revealed as publicly available (cf. E1).
+OSINT tool in use, at least not in German authorities. In addition, the collection focus is driven by concerns about missing vital information, later being revealed as publicly available (cf. E1).
 
 \subsection{Use Cases in Theory-Practice Comparison}
 
@@ -287,7 +288,7 @@ were assigned to the innovation phase. The experts also note the increasing use 
 outdated due to errors, implementation difficulties, and website resistance. Screenshot-based 'web shooting' with
 OCR (Optical Character Recognition) extraction is seen as more modern and robust (cf. E3).
 
-NLP (Natural Language Processing) applications/methods such as 'topic classifying', 'part-of-speech tagging', 'entity and relation annotation', and 'named entity recognition'
+NLP (Natural Language Processing) methods such as 'topic classifying', 'part-of-speech tagging', and 'entity and relation annotation'
 demonstrate high automation levels in the processing/utilization phase. Technologies commonly used include
 the 'Python NLTK Toolkit' \cite{Hubbard.2022} and the 'Stanford CoreNLP Toolkit' \cite{Middleton.2020}.
 Additionally, Deep Learning (DL), particularly through 'word embedding' using the 'word2vec' algorithm, is prominent
@@ -401,14 +402,17 @@ extremely difficult-to-access target group, interviews were not conducted with a
 Also, independent verification of coding by a second researcher is recommended for improved intercoder reliability
 \cite{Bogner.2002c, Glaser.2009}. Lastly, the research structure followed a linear execution rather than the suggested iterative approach \cite{Peffers.2007}.
 
-Nevertheless, the study furnishes future researchers with a comprehensive knowledge base on OSINT
-through a practice-evaluated artifact, a trend radar.
+Nevertheless, this study provides a comprehensive OSINT knowledge base through a practice-evaluated trend radar. It introduces a structured mechanism capturing the rapid development and shedding first light on the public security sector. Initial evaluations reveal two unanswered research questions and nine research gaps, highlighting critical areas for further development. Future research could apply this framework to other countries, where intelligence agencies may have more digitized processes, such as in allied nations (cf. E2). Extending the framework to other intelligence disciplines or domains like the medical sector, where similar processes exist (cf. E4), could also offer new study opportunities. The trend radar serves as a practical guide and aims to elevate OSINT within academic research as essential tool in today’s dangerous world.
+%This study offers a comprehensive knowledge base on OSINT through a field-evaluated trend radar. The radar identifies key use cases, technologies and thier characteristics, introducing a mechanism that captures the subject's rapid evolution and ensures temporal persistence. It also provides new insights into the public security sector, previously underexplored due to access challenges. Initial evaluations reveal two unanswered research questions and nine research gaps, highlighting critical areas for further development. Future research could apply this framework to other countries, where intelligence agencies may have more advanced, (digitized) processes, such as in allied nations (cf. E2). Extending the framework to other intelligence disciplines or domains like the medical sector, where similar digitized processes exist (cf. E4), could also offer new study opportunities. The trend radar serves as a practical guide for practitioners, and it is hoped that this study will elevate OSINT in academic research, enhancing this essential tool in today’s dangerous world.
+
+%Nevertheless, the study furnishes future researchers with a comprehensive knowledge base on OSINT
+%through a practice-evaluated artifact, a trend radar.
 %The radar serves as a comprehensive knowledge base, allowing for contemporary evaluation and analysis of OSINT technologies.
-Initial evaluations reveal two crucial unanswered research questions and identify nine detailed research gaps, highlighting
-critical areas for future development and research to enhance the efficiency and effectiveness of intelligence operations.
+%Initial evaluations reveal two crucial unanswered research questions and identify nine detailed research gaps, highlighting
+%critical areas for future development and research to enhance the efficiency and effectiveness of intelligence operations.
 %as well as identifying research gaps for future studies, penetrating the complex research field. 
-Moreover, the developed trend radar serves as a guideline for practitioners. The radar
-is adaptable to the evolving subject area and transferable to other intelligence disciplines. Hopefully, the findings of this study can give OSINT some traction in the academic research context to augment and improve a very important tool in today’s dangerous world.
+%Moreover, the developed trend radar serves as a guideline for practitioners. The radar
+%is adaptable to the evolving subject area and transferable to other intelligence disciplines. Hopefully, the findings of this study can give OSINT some traction in the academic research context to augment and improve a very important tool in today’s dangerous world.
 
 
 %Before addressing these questions, future researchers are advised to validate them further. 
