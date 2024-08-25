@@ -18,7 +18,8 @@
 \usepackage{booktabs}
 \usepackage{enumitem}
 
-\title{Mission Critical in a Dangerous World: Developing a Literature-Based Foundation for Better Open Source Intelligence (OSINT) Research}
+\title{Addressing Challenges in a Dangerous World: Developing a Design Science Artifact for Advancing Open Source Intelligence (OSINT) Research}
+%Mission Critical in a Dangerous World: Developing a Literature-Based Foundation for Better Open Source Intelligence (OSINT) Research}
 
 %\author{Franz Kayser\thanks{~~The authors would like to thank Mike Wasserman for his valuable and profound comments.} \\
 %  ESG \\
@@ -88,7 +89,7 @@ It represents the central element of every intelligence discipline \cite{Reuser.
 The link between the phases is that the result of each preceding phase serves as input for the subsequent phase \cite{JointChiefsofStaffU.S.Army.2013}, continuously iterated to meet new requirements and demands \cite{Gibson.2016}.
 Today, to represent external influences or the assignment of responsibilities \cite{Lowenthal.2020,Phythian.2013}, numerous
 variations can be found \cite{Reuser.2017}. The Intelligence Cycle should hence be seen less as a guideline and more as an informal
-coordination element \cite{Hwang.2022}. In 2013, \cite{JointChiefsofStaffU.S.Army.2013} segmented the cycle into six phases  (see figure \ref{fig: Intelligence Cycle}).
+coordination element \cite{Hwang.2022}. In 2013, \cite{JointChiefsofStaffU.S.Army.2013} segmented the cycle into six phases  (figure \ref{fig: Intelligence Cycle}).
 
 \begin{figure}[h]
     \centering
@@ -130,7 +131,7 @@ OSINT in conjunction with AI, highlighting the absence of a comprehensive framew
 
 The study follows the iterative DSR approach, a theory-based research paradigm for developing a directly applicable solution in the form of an innovative artifact \cite{vomBrocke.2020b}
 to solve a (practical) problem \cite{Peffers.2007}. Hence, the model is ideally suited for creating an artifact that can be useful for addressing the aforementioned definitional gap and lack of academic frameworks. The DSR methodology includes
-six successive activities \cite{Peffers.2007} (see figure \ref{fig: DSRM}). Section \ref{sec:introduction} summarizes step 1, while sections \ref{sec:results} and \ref{sec:discussion} present the outcomes of step 6. Steps 2-5 will be discussed in detail in sections \ref{sec:designobjectives}-\ref{sec:eval}. Continuous evaluation of steps 1-4 occurred throughout the study following \cite{Sonnenberg.2012}.
+six successive activities \cite{Peffers.2007} (figure \ref{fig: DSRM}). Section \ref{sec:introduction} summarizes step 1, while sections \ref{sec:results} and \ref{sec:discussion} present the outcomes of step 6. Steps 2-5 will be discussed in detail in sections \ref{sec:designobjectives}-\ref{sec:eval}. Continuous evaluation of steps 1-4 occurred throughout the study following \cite{Sonnenberg.2012}.
 
 \begin{figure*}[thb]
     \centering
@@ -245,7 +246,7 @@ varying maturity levels.
     \label{fig:trendradarexplanation}
 \end{figure*}
 
-\subsection{Intelligence Cycle in Theory-Practice Comparison}
+\subsection{Intelligence Cycle in Theory-Practice Comparison} \label{sec:intcomp}
 
 Studies align with each phase of the Intelligence Cycle but no application covers all phases as a third-generation OSINT tool. The literature mainly focuses on the collection phase, followed by analysis/production, and processing/exploitation. The dissemination/integration phase is least covered, followed closely by planning/direction.
 These findings align with the experts' practical experiences. They regard the Intelligence Cycle as "state of the art" (cf. E3) but note different manifestations of the phases in praxis (cf. E4).
@@ -271,7 +272,7 @@ Additionally, two identified studies focus generally on creating knowledge graph
 
 The experts indicate that OSINT is used in all authorities and various use cases, even if not explicitly labeled as such (cf. E2). It is most commonly applied in cyber security/OSCTI and general security, especially within the German Armed Forces, the (Federal) Intelligence Service, domestic intelligence services, and the police (cf. E1; E2).
 
-\subsection{Technologies and Maturity Levels in Theory-Practice Comparison}
+\subsection{Technologies and Maturity Levels in Theory-Practice Comparison} \label{sec:matcomp}
 
 Automated technologies are utilized across all phases and use cases except the initial phase.
 While technologies demonstrate considerable market maturity, manual activities remain prevalent, with the highest level of automation observed within cyber security.
@@ -361,14 +362,14 @@ Addressing these research questions entails resolving numerous underlying resear
 %\end{itemize}
 
 \begin{itemize}
-    \item[\textbf{RG1:}] There is a technological gap in tools that cover the initial phase of the Intelligence Cycle, particularly in frameworks for targeted requirements definition and communication.
+    \item[\textbf{RG1:}] There is a technological gap in tools for the initial phase of the Intelligence Cycle, in frameworks for requirements definition and communication (chapter \ref{sec:intcomp}, cf. E3).
         %This gap contributes to an overemphasis on the collection phase \cite{Lowenthal.2020}.
 
         \item[\textbf{RG2:}]Effective dissemination and integration mechanisms tailored for authorities are deficient, primarily due to inadequate user testing and iterative feedback incorporation. The importance of consumer feedback is underscored by established frameworks to enhance product quality and mitigate data overload \cite{JointChiefsofStaffU.S.Army.2013, NorthAtlanticTreatyOrganization.2001}.
 
     \item[\textbf{RG3:}] The future of OSINT systems hinges on modular concepts, yet only limited research has been conducted in this area \cite{Arjun.2020,Wright.2020}.
 
-    \item[\textbf{RG4:}] It is crucial to move away from monolithic stand-alone setups in procurement procedures.
+    \item[\textbf{RG4:}] It is crucial to move away from monolithic stand-alone setups in procurement procedures (chapter \ref{sec:matcomp}, cf. E1; E3; E4).
 
     \item[\textbf{RG5:}] Ensuring compliance with ethical and legal principles is vital for product adoption, requiring robust legislative updates and considering both national and international regulations, such as GDPR \cite{EuropeanParliament.2016,EuropeanCommission.18.08.2023,Wittmer.2022}.
 
@@ -377,7 +378,7 @@ Addressing these research questions entails resolving numerous underlying resear
         %\item[\textbf{RG7:}] While LLMs show promise in intelligence analysis, their operational application remains underexplored \cite{Radford.2023,Zhao.31.03.2023}.
     \item[\textbf{RG7:}] While LLMs show promise in intelligence analysis, their operational application remains underexplored \cite{Radford.2023}.
 
-    \item[\textbf{RG8:}] Technicians often handle significant phases of the Intelligence Cycle independently, yet there is a notable absence of robust collection tools to match the rapidly evolving media landscape.
+    \item[\textbf{RG8:}] Technicians often handle phases of the Intelligence Cycle alone, yet there is a absence of robust collection tools matching the rapidly evolving media landscape (chapter \ref{sec:matcomp}, cf. E4).
 
     \item[\textbf{RG9:}] Gaps between analysts and technicians pose risks of excessive data collection, emphasizing the need for tools to enhance transparency and mitigate collection biases \cite{Lowenthal.2020}.
 \end{itemize}
@@ -397,7 +398,7 @@ particularly evident in the hierarchical dependency of AI, ML, and DL technologi
 the wording of the authors was followed for objective reproduction when identifying the technologies
 but the accuracy of the information was not reviewed in detail. Moreover, no fixed limits could be defined
 for the volume category, as these were not recorded in uniform dimensions in the studies.
-The third limitation concerns the limited sample size in expert interviews. Due to the
+The third limitation concerns the limited sample size in expert interviews, confined to Germany. Due to the
 extremely difficult-to-access target group, interviews were not conducted with active users and decision-makers within authorities.
 Also, independent verification of coding by a second researcher is recommended for improved intercoder reliability
 \cite{Bogner.2002c, Glaser.2009}. Lastly, the research structure followed a linear execution rather than the suggested iterative approach \cite{Peffers.2007}.
