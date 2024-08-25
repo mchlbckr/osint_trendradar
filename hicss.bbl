@@ -99,7 +99,7 @@ J.~{vom Brocke}, A.~Hevner, and A.~Maedche, ``Introduction to design science res
 C.~Sonnenberg and J.~{vom Brocke}, ``Evaluations in the science of the artificial -- reconsidering the build-evaluate pattern in design science research,'' in {\em Design Science Research in Information}, vol.~7286, pp.~381--397, 2012.
 
 \bibitem{Ish.2022}
-D.~Ish, J.~Ettinger, and C.~Ferris, {\em Evaluating the Effectiveness of Artificial Intelligence Systems in Intelligence Analysis}, vol.~RR-A464-1 of {\em Research reports}.
+D.~Ish, J.~Ettinger, and C.~Ferris, {\em Evaluating the Effectiveness of Artificial Intelligence Systems in Intelligence Analysis}, vol.~RR-A464-1.
 \newblock Santa Monica, Calif.: {RAND Corporation}, 2022.
 
 \bibitem{Benes.2013}
@@ -118,8 +118,8 @@ C.~Duncheon, ``Product miniaturization requires automation -- but with a strateg
 M.~R. Endsley and D.~B. Kaber, ``Level of automation effects on performance, situation awareness and workload in a dynamic control task,'' {\em Ergonomics}, vol.~42, no.~3, pp.~462--492, 1999.
 
 \bibitem{Bleck.2004}
-S.~Bleck, {\em Entwicklung einer Methodik zur integrierten Planung von Informationstechnologie-Einsatz und intermedi{\"a}ren Informationsdienstleistungen im elektronischen Gesch{\"a}ftsverkehr: Zugl.: Aachen, Techn. Hochsch., Diss., 2004}, vol.~72 of {\em Schriftenreihe Rationalisierung und Humanisierung}.
-\newblock Aachen: Shaker, 2004.
+S.~Bleck, {\em Entwicklung einer Methodik zur integrierten Planung von Informationstechnologie-Einsatz und intermedi{\"a}ren Informationsdienstleistungen im elektronischen Gesch{\"a}ftsverkehr}, vol.~72 of {\em Schriftenreihe Rationalisierung und Humanisierung}.
+\newblock Shaker, 2004.
 
 \bibitem{Elgendy.2014}
 N.~Elgendy and A.~Elragal, ``Big data analytics: A literature review paper,'' in {\em Advances in Data Mining}, vol.~8557, pp.~214--227, 2014.
@@ -179,10 +179,10 @@ D.~B{\"a}r, F.~Calderon, M.~Lawlor, S.~Licklederer, M.~Totzauer, and S.~Feuerrie
 Z.~Tao, P.~Charoenkwan, B.~Paphawasit, and N.~Rujeerapaiboon, ``Machine learning-based classification of competitors performance: evidence from chinese logistics companies,'' in {\em 2023 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT {\&} NCON)}, pp.~131--137, IEEE, 2023.
 
 \bibitem{Hu.2023}
-Y.~Hu, L.~He, X.~Tang, G.~Luo, S.~He, and Q.~Fang, ``Construction of domain knowledge graph based on open source intelligence,'' in {\em 2023 IEEE 2nd International Conference on Electrical Engineering, Big Data and Algorithms (EEBDA)}, pp.~1378--1382, IEEE, 2023.
+Y.~Hu, L.~He, X.~Tang, G.~Luo, S.~He, and Q.~Fang, ``Construction of domain knowledge graph based on open source intelligence,'' in {\em 2023 IEEE 2nd International Conference on Electrical Engineering, Big Data and Algorithms (EEBDA)}, pp.~1378--1382, 2023.
 
 \bibitem{Ma.2022}
-H.~Ma, X.~Liu, and W.~Zhao, ``Research on domain-specific knowledge graph based on the roberta-wwm-ext pretraining model,'' {\em Computational intelligence and neuroscience}, vol.~2022, p.~8656013, 2022.
+H.~Ma, X.~Liu, and W.~Zhao, ``Research on domain-specific knowledge graph based on the roberta-wwm-ext pretraining model,'' {\em Computational intelligence and neuroscience}, vol.~2022, 2022.
 
 \bibitem{Middleton.2020}
 S.~Middleton, A.~Lavorgna, G.~Neumann, and D.~Whitehead, ``Information extraction from the long tail,'' in {\em 12th ACM Conference on Web Science Companion}, (New York, NY, USA), pp.~82--88, ACM, 2020.
