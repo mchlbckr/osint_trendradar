@@ -135,7 +135,7 @@ six successive activities \cite{Peffers.2007} (Figure \ref{fig: DSRM}). Section 
 
 \begin{figure*}[thb]
     \centering
-    \includegraphics[width=\textwidth]{PDF/images/cropped DSR_V01.pdf}
+    \includegraphics[width=0.8\textwidth]{PDF/images/cropped DSR_V01.pdf}
     \caption{DSR is a theory-based iterative approach for developing innovative solutions \cite{Peffers.2007}. It involves six steps \cite{Peffers.2007} and includes three control steps \cite{Sonnenberg.2012} for continuous refinement.}
     \label{fig: DSRM}
 \end{figure*}
@@ -160,10 +160,10 @@ The design objectives derive from the research question \cite{Peffers.2007} and 
 In section \ref{sec:theoreticalbackground}, the theoretical background to the research is outlined, focusing on the Intelligence Cycle. The cycle is crucial as it underpins the development of the artifact. The artifact is evaluated for its compatibility within the OSINT framework. Furthermore, the review of prior studies reveals a significant gap in comprehensive OSINT research, emphasizing the importance and relevance of the inquiry.
 
 \subsection{Design and Development}
-The third activity involves conducting a systematic literature review, guided by \cite{Cleven.2009}. Cooper's taxonomy \cite{Cooper.1988} scoped the review, setting up classification categories for concept matrices to structure the literature analysis \cite{Webster.2002}.
+The third activity is a systematic literature review, guided by \cite{Cleven.2009}. Cooper's taxonomy \cite{Cooper.1988} scoped the review, setting up classification categories for concept matrices to structure the literature analysis \cite{Webster.2002}.
 To standardize verification across the Intelligence Cycle, general categories reflecting established technology evaluation criteria were defined for each phase, except the iterative evaluation/feedback phase. For the collection phase, six categories were developed:
 \begin{itemize}
-    \item \textbf{Use case:} Application areas of the technologies .
+    \item \textbf{Use case:} Application areas of the technologies.
     \item \textbf{Data:} Composition and types of data foundations, including data format and source.
     \item \textbf{Process:} Degree of automation in the technologies, categorized into manual, semi-automated, automated, and fully automated/autonomous \cite{Duncheon.2002, Billings.1997, Endsley.1999}.
     \item \textbf{Technology:} Material and immaterial means used for managing information \cite{Bleck.2004}.
@@ -172,7 +172,7 @@ To standardize verification across the Intelligence Cycle, general categories re
 \end{itemize}
 
 Similar categories were adapted for the other phases of the Intelligence Cycle, with complexity measured via the analytics spectrum: descriptive, diagnostic, predictive, and prescriptive \cite{Delen.2013}.
-The literature search, using the broad search string ("OSINT" OR "Open Source Intelligence" OR "Open-Source Intelligence" OR "open source intelligence" OR "open-source intelligence"), was limited to publications from 2020 to 2023 to capture recent advancements. This search was applied across four databases: Web of Science, IEEE Xplore, ACM Digital Library, and arXiv. A total of 60 studies were analyzed using the SQR3 method \cite{Robinson.1970} and organized into a structured Excel spreadsheet for each phase of the Intelligence Cycle.
+The literature search, using the broad search string ("OSINT" OR "Open Source Intelligence" OR "Open-Source Intelligence" OR "open source intelligence" OR "open-source intelligence"), was limited to publications from 2020 to 2023 to capture recent advancements. The search was applied across four databases: Web of Science, IEEE Xplore, ACM Digital Library, and arXiv. A total of 60 studies were analyzed using the SQR3 method \cite{Robinson.1970} and organized into a structured Excel spreadsheet for each phase of the Intelligence Cycle.
 %The literature search, executed using a broad search string to maximize retrieval, was limited to publications from 2020 to 2023 to reflect recent advancements. A total of 60 studies were analyzed using the SQR3 method \cite{Robinson.1970} and categorized into a meticulously structured Excel spreadsheet for each phase of the Intelligence Cycle.% (Fig. \ref{fig:LiteratureReview}).
 
 %\begin{figure}[t]
@@ -182,7 +182,7 @@ The literature search, using the broad search string ("OSINT" OR "Open Source In
 %    \label{fig:LiteratureReview}
 %\end{figure}
 
-Each technology was then categorized and analyzed for interrelationships within the OSINT framework. Verification of categorization was conducted using a Python script, which scanned the included papers for predefined keywords. The verified categories and relationships informed the development of the artifact radar based on the verified concept matrices.
+Each technology was then categorized and analyzed for interrelationships within the OSINT framework. Verification of categorization was conducted using a Python script, which scanned the included papers for predefined keywords. The verified categories and relationships informed the development of the artifact based on the verified concept matrices.
 
 For this study, a trend radar was chosen as the artifact. This strategic tool identifies, monitors, and evaluates trends affecting industries or organizations, typically using circular diagrams with layers representing relevance or impact \cite{wulfmettbrenn2017}.
 %For this study, a trend radar was selected for the artifact. A trend radar is a strategic tool used to identify, monitor, and evaluate trends that could impact an industry or an organization. These are usually circular diagrams that use multiple layers representing relevance or impact \cite{wulfmettbrenn2017}.
@@ -194,7 +194,7 @@ The Intelligence Cycle forms the foundation of the trend radar (artifact), offer
 \subsection{Demonstration}
 The trend radar was demonstrated via guideline-based, systematizing expert interviews \cite{Bogner.2014, Glaser.2009, Meuser.1991}. Particularly in less structured and sparsely linked subject areas, this method enables dense data collection \cite{Bogner.2014, Meuser.1991}, especially when access to the social field is limited \cite{Bogner.2002c, Glaser.2009}.
 
-Experts (Table \ref{tab:experts}) were selected using theoretical sampling \cite{Glaser.1967}, focusing on Germany to evaluate trends within the country of focus for this study. At least one expert from a security authority, the security industry, and a startup was chosen to capture diverse perspectives. A 'prestigious' company position ensures respondents possess relevant research knowledge \cite{Bogner.2002b}.
+Experts (Table \ref{tab:experts}) were selected using theoretical sampling \cite{Glaser.1967}, focusing on Germany, the study's primary country of interest, to evaluate relevant trends. At least one expert from a security authority, the security industry, and a startup was chosen to capture diverse perspectives. A 'prestigious' company position ensures respondents possess relevant research knowledge \cite{Bogner.2002b}.
 
 \begin{table*}[hbtp]
     \caption{Interviewed experts}
@@ -213,7 +213,7 @@ Experts (Table \ref{tab:experts}) were selected using theoretical sampling \cite
     \end{tabular}
     \label{tab:experts}
 \end{table*}
-The qualitative data collection utilized semi-structured interviews, ideal for uncovering underlying theoretical relationships \cite{Bogner.2014}. The interview guide, based on the Intelligence Cycle, commenced with a presentation of the artifact, the trend radar. Open questions were initially posed for each phase to compare it with respondents' practical experience, reducing subjectivity \cite{Saunders.2012}. Exploratory questions guided conversation flow \cite{Saunders.2012}, followed by specific closed questions for targeted follow-up \cite{Saunders.2012}. The interviews, contucted online, lasted up to an hour, with a maximum of three main questions per phase \cite{Bogner.2014}. The interview guide underwent pilot testing with a domain expert.
+The qualitative data collection utilized semi-structured interviews, ideal for uncovering underlying theoretical relationships \cite{Bogner.2014}. The interview guide, based on the Intelligence Cycle, commenced with a presentation of the trend radar. Open questions were initially posed for each phase to compare it with respondents' practical experience, reducing subjectivity \cite{Saunders.2012}. Exploratory questions guided conversation flow \cite{Saunders.2012}, followed by specific closed questions for targeted follow-up \cite{Saunders.2012}. The interviews, contucted online, lasted up to an hour, with a maximum of three main questions per phase \cite{Bogner.2014}. The interview guide underwent pilot testing with a domain expert.
 
 \subsection{Evaluation of the First Instance of the Trend Radar}
 
@@ -291,7 +291,7 @@ outdated due to errors, implementation difficulties, and website resistance. Scr
 OCR (Optical Character Recognition) extraction is seen as more modern and robust (cf. E3).
 
 NLP (Natural Language Processing) methods such as 'topic classifying', 'part-of-speech tagging', and 'entity and relation annotation'
-demonstrate high automation levels in the processing/utilization phase. Technologies commonly used include
+demonstrate high automation levels in the processing/exploitation phase. Technologies commonly used include
 the 'Python NLTK Toolkit' \cite{Hubbard.2022} and the 'Stanford CoreNLP Toolkit' \cite{Middleton.2020}.
 Additionally, Deep Learning (DL), particularly through 'word embedding' using the 'word2vec' algorithm, is prominent
 (e.g., \cite{Bai.2020}). However, the experts note that within authorities this phase predominantly involves manual work due to irreplaceable domain knowledge
