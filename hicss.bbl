@@ -37,12 +37,16 @@ H.~AlKilani and A.~Qusef, ``Osint techniques integration with risk assessment is
 \bibitem{Peffers.2007}
 K.~Peffers, T.~Tuunanen, M.~A. Rothenberger, and S.~Chatterjee, ``A design science research methodology for information systems research,'' {\em Journal of Management Information Systems}, vol.~24, no.~3, pp.~45--77, 2007.
 
-\bibitem{Webster.2002}
-J.~Webster, Watson, and {T. Richard}, ``Analyzing the past to prepare for the future: Writing a literature review,'' {\em MIS Quarterly}, vol.~26, pp.~xiii--xxiii, 2002.
+\bibitem{Cleven.2009}
+A.~Cleven, B.~Niehaves, R.~Plattfaut, K.~Riemer, A.~Simons, and {vom Brocke, Jan, Martin Hilti}, ``Reconstructing the giant: On the importance of rigour in documenting the literature search process.''
 
 \bibitem{Bogner.2014}
 A.~Bogner, B.~Littig, and W.~Menz, {\em Interviews mit Experten: Eine praxisorientierte Einf{\"u}hrung}.
 \newblock Wiesbaden: {Springer Fachmedien Wiesbaden}, 2014.
+
+\bibitem{Glaser.2009}
+J.~Gl{\"a}ser and G.~Laudel, {\em Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}.
+\newblock Lehrbuch, Wiesbaden: {VS Verlag f{\"u}r Sozialwissenschaften}, 3., {\"u}berarb. aufl.~ed., 2009.
 
 \bibitem{Billings.1997}
 C.~E. Billings, {\em Aviation automation: The search for a human-centered approach}.
@@ -105,11 +109,11 @@ D.~Ish, J.~Ettinger, and C.~Ferris, {\em Evaluating the Effectiveness of Artific
 \bibitem{Benes.2013}
 L.~Benes, ``Osint, new technologies, education: Expanding opportunities and threats. a new paradigm,'' {\em Journal of Strategic Security}, vol.~6, no.~3Suppl, pp.~22--37, 2013.
 
-\bibitem{Cleven.2009}
-A.~Cleven, B.~Niehaves, R.~Plattfaut, K.~Riemer, A.~Simons, and {vom Brocke, Jan, Martin Hilti}, ``Reconstructing the giant: On the importance of rigour in documenting the literature search process.''
-
 \bibitem{Cooper.1988}
 H.~M. Cooper, ``Organizing knowledge syntheses: A taxonomy of literature reviews,'' {\em Knowledge in Society}, vol.~1, no.~1, pp.~104--126, 1988.
+
+\bibitem{Webster.2002}
+J.~Webster, Watson, and {T. Richard}, ``Analyzing the past to prepare for the future: Writing a literature review,'' {\em MIS Quarterly}, vol.~26, pp.~xiii--xxiii, 2002.
 
 \bibitem{Duncheon.2002}
 C.~Duncheon, ``Product miniaturization requires automation -- but with a strategy,'' {\em Assembly Automation}, vol.~22, no.~1, pp.~16--20, 2002.
@@ -140,10 +144,6 @@ F.~P. Robinson, {\em Effective study}.
 
 \bibitem{wulfmettbrenn2017}
 J.~Wulf, T.~Mettler, and W.~Brenner, ``Using a trend radar for competitive intelligence: Lessons from an industrial product service system manufacturer.,'' {\em Technological Forecasting and Social Change}, vol.~127, pp.~118--130, 2017.
-
-\bibitem{Glaser.2009}
-J.~Gl{\"a}ser and G.~Laudel, {\em Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}.
-\newblock Lehrbuch, Wiesbaden: {VS Verlag f{\"u}r Sozialwissenschaften}, 3., {\"u}berarb. aufl.~ed., 2009.
 
 \bibitem{Meuser.1991}
 M.~Meuser and U.~Nagel, ``Expertinneninterviews - vielfach erprobt, wenig bedacht: ein beitrag zur qualitativen methodendiskussion,'' pp.~441--471, 1991.
