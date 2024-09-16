@@ -5,11 +5,10 @@
 
 
 \documentclass[10pt]{article}
-\input{hicss51-packages.tex}
+\input{hicss-packages.tex}
 \newcommand{\sansserifformat}[1]{\fontfamily{cmss}{ #1}}%
 
-%\setlength\titlebox{5cm}
-
+\setlength\titlebox{7cm}
 
 % You can expand the titlebox if you need extra space
 % to show all the authors. Please do not make the title box
@@ -17,19 +16,26 @@
 
 \usepackage{booktabs}
 \usepackage{enumitem}
+\usepackage{hicss}
+
+
+\addbibresource{references.bib}
+% \bibliographystyle{apalike}
+% \bibliography{sample}
+\bibliography{references}
 
 \title{Addressing Challenges in a Dangerous World: Developing a Design Science Artifact for Advancing Open Source Intelligence (OSINT) Research}
 %Mission Critical in a Dangerous World: Developing a Literature-Based Foundation for Better Open Source Intelligence (OSINT) Research}
 
-%\author{Franz Kayser\thanks{~~The authors would like to thank Mike Wasserman for his valuable and profound comments.} \\
-%  ESG \\
-%  {\underline{ franz.kayser@esg.de}} \\\And
-%  Thomas Mayer \\
-%  ESG  \\
-%  {\underline{ thomas3.mayer@esg.de} }\\\And 
-%  Michael Bücker \\
-% University of Applied Sciences Münster\\
-%  {\underline{michael.buecker@fh-muenster.de}} \\}
+\author{Franz Kayser\thanks{~~The authors would like to thank Mike Wasserman for his valuable and profound comments.} \\
+ ESG \\
+ {\underline{ franz.kayser@esg.de}} \\\And
+ Thomas Mayer \\
+ ESG  \\
+ {\underline{ thomas3.mayer@esg.de} }\\\And 
+ Michael Bücker \\
+University of Applied Sciences Münster\\
+ {\underline{michael.buecker@fh-muenster.de}} \\}
   
 \date{}
 
@@ -44,10 +50,10 @@
 \section{Introduction} \label{sec:introduction}
 
 OSINT, the process of extracting intelligence from public data, has gained considerable attention, particularly since
-the 2022 Russian invasion of Ukraine \cite{DosPassos.2017}. Real-time analysis of social media has proven pivotal in revealing
-valuable insights \cite{SmithBoyle.24.07.2023}. Despite numerous attempts to define OSINT
-\cite{Hwang.2022, PastorGalindo.2020, Yogish.2021}, controversy persists, influenced by ongoing advancements in computer and
-data sciences that continuously enhance collection and analysis capabilities \cite{Ghioni.2023, Williams.2018}.
+the 2022 Russian invasion of Ukraine (\cite{DosPassos.2017}). Real-time analysis of social media has proven pivotal in revealing
+valuable insights (\cite{SmithBoyle.24.07.2023}). Despite numerous attempts to define OSINT
+(\cite{Hwang.2022, PastorGalindo.2020, Yogish.2021}), controversy persists, influenced by ongoing advancements in computer and
+data sciences that continuously enhance collection and analysis capabilities (\cite{Ghioni.2023, Williams.2018}).
 The surge in open communication channels has led to an 'information explosion' \cite{DosPassos.2017, Hwang.2022, Yogish.2021},
 making previously restricted data publicly accessible \cite{Hwang.2022, Williams.2018} and reshaping intelligence paradigms \cite{Dokman.2020}.
 Despite the heightened interest, fundamental scientific literature in the field remains limited \cite{HerreraCubides.2020},
@@ -481,7 +487,13 @@ Nevertheless, this study provides a comprehensive OSINT knowledge base through a
 
 %Bibliography 
 
-\bibliographystyle{ieeetr}
-\bibliography{references}
+%\bibliographystyle{ieeetr}
+%\bibliography{references}
+
+
+%Bibliography 
+
+
+\printbibliography
 
 \end{document}
