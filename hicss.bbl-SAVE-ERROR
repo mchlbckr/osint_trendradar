@@ -455,116 +455,6 @@
       \field{volume}{72}
       \field{year}{2004}
     \endentry
-    \entry{Bogner.2002b}{inbook}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
-           family={Bogner},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6d398596737114a363216ba9297ac707}{%
-           family={Menz},
-           familyi={M\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=b02dc3d2c3210168a75c1a7b7671183c}{%
-           family={Bogner},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod}}}%
-        {{hash=aaf3d86dde12b010fecce9a6e3609bc7}{%
-           family={Littig},
-           familyi={L\bibinitperiod},
-           given={Beate},
-           giveni={B\bibinitperiod}}}%
-        {{hash=6d398596737114a363216ba9297ac707}{%
-           family={Menz},
-           familyi={M\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Wiesbaden}%
-      }
-      \list{publisher}{1}{%
-        {VS Verlag für Sozialwissenschaften}%
-      }
-      \strng{namehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{fullhash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{fullhashraw}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{bibnamehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authorbibnamehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authornamehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authorfullhash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authorfullhashraw}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{editorbibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{editornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
-      \strng{editorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{editorfullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{{Das Experteninterview}}
-      \field{isbn}{978-3-8100-3200-3}
-      \field{title}{{Das theoriegenerierende Experteninterview}}
-      \field{year}{2002}
-      \field{pages}{33\bibrangedash 70}
-      \range{pages}{38}
-    \endentry
-    \entry{Bogner.2002c}{book}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
-           family={Bogner},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=aaf3d86dde12b010fecce9a6e3609bc7}{%
-           family={Littig},
-           familyi={L\bibinitperiod},
-           given={Beate},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6d398596737114a363216ba9297ac707}{%
-           family={Menz},
-           familyi={M\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Wiesbaden}%
-      }
-      \list{publisher}{1}{%
-        {VS Verlag für Sozialwissenschaften}%
-      }
-      \strng{namehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
-      \strng{fullhash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{fullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{bibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{authorbibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{authornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
-      \strng{authorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{authorfullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \field{extraname}{1}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Das Experteninterview}}
-      \field{year}{2002}
-    \endentry
     \entry{Bogner.2014}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
@@ -600,7 +490,6 @@
       \strng{authornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
       \strng{authorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
       \strng{authorfullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -1314,7 +1203,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Today, open source intelligence (OSINT), i.e., information derived from publicly available sources, makes up between 80 and 90 percent of all intelligence activities carried out by Law Enforcement Agencies (LEAs) and intelligence services in the West. Developments in data mining, machine learning, visual forensics and, most importantly, the growing computing power available for commercial use, have enabled OSINT practitioners to speed up, and sometimes even automate, intelligence collection and analysis, obtaining more accurate results more quickly. As the infosphere expands to accommodate ever-increasing online presence, so does the pool of actionable OSINT. These developments raise important concerns in terms of governance, ethical, legal, and social implications (GELSI). New and crucial oversight concerns emerge alongside standard privacy concerns, as some of the more advanced data analysis tools require little to no supervision. This article offers a systematic review of the relevant literature. It analyzes 571 publications to assess the current state of the literature on the use of AI-powered OSINT (and the development of OSINT software) as it relates to the GELSI framework, highlighting potential gaps and suggesting new research directions.}
       \field{issn}{0951-5666}
-      \field{journaltitle}{AI {\&} society}
+      \field{journaltitle}{{AI {\&} Society}}
       \field{title}{Open source intelligence and AI: a systematic review of the GELSI literature﻿}
       \field{year}{2023}
       \field{pages}{1\bibrangedash 16}
@@ -1457,7 +1346,7 @@
       \field{labeltitlesource}{title}
       \field{edition}{3., überarb. Aufl.}
       \field{series}{Lehrbuch}
-      \field{title}{Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}
+      \field{title}{{Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}}
       \field{year}{2009}
     \endentry
     \entry{HerreraCubides.2020}{article}{}{}
@@ -2400,7 +2289,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Access}
-      \field{title}{The Not Yet Exploited Goldmine of OSINT: Opportunities, Open Challenges and Future Trends}
+      \field{title}{{The Not Yet Exploited Goldmine of OSINT: Opportunities, Open Challenges and Future Trends}}
       \field{volume}{8}
       \field{year}{2020}
       \field{pages}{10282\bibrangedash 10304}
@@ -3341,7 +3230,10 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Applied Engineering and Management Letters}
+      \field{number}{2}
       \field{title}{Open Source Intelligence and its Applications in Next Generation Cyber Security - A Literature Review}
+      \field{volume}{5}
       \field{year}{2021}
     \endentry
   \enddatalist
@@ -3782,52 +3674,6 @@
       \field{volume}{72}
       \field{year}{2004}
     \endentry
-    \entry{Bogner.2002c}{book}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
-           family={Bogner},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=aaf3d86dde12b010fecce9a6e3609bc7}{%
-           family={Littig},
-           familyi={L\bibinitperiod},
-           given={Beate},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6d398596737114a363216ba9297ac707}{%
-           family={Menz},
-           familyi={M\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Wiesbaden}%
-      }
-      \list{publisher}{1}{%
-        {VS Verlag für Sozialwissenschaften}%
-      }
-      \strng{namehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
-      \strng{fullhash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{fullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{bibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{authorbibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{authornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
-      \strng{authorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{authorfullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \field{extraname}{1}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Das Experteninterview}}
-      \field{year}{2002}
-    \endentry
     \entry{Bogner.2014}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
@@ -3863,7 +3709,6 @@
       \strng{authornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
       \strng{authorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
       \strng{authorfullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -3874,70 +3719,6 @@
       \field{isbn}{978-3-531-19415-8}
       \field{title}{{Interviews mit Experten: Eine praxisorientierte Einführung}}
       \field{year}{2014}
-    \endentry
-    \entry{Bogner.2002b}{inbook}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
-           family={Bogner},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6d398596737114a363216ba9297ac707}{%
-           family={Menz},
-           familyi={M\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=b02dc3d2c3210168a75c1a7b7671183c}{%
-           family={Bogner},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod}}}%
-        {{hash=aaf3d86dde12b010fecce9a6e3609bc7}{%
-           family={Littig},
-           familyi={L\bibinitperiod},
-           given={Beate},
-           giveni={B\bibinitperiod}}}%
-        {{hash=6d398596737114a363216ba9297ac707}{%
-           family={Menz},
-           familyi={M\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Wiesbaden}%
-      }
-      \list{publisher}{1}{%
-        {VS Verlag für Sozialwissenschaften}%
-      }
-      \strng{namehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{fullhash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{fullhashraw}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{bibnamehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authorbibnamehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authornamehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authorfullhash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authorfullhashraw}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{editorbibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{editornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
-      \strng{editorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{editorfullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{{Das Experteninterview}}
-      \field{isbn}{978-3-8100-3200-3}
-      \field{title}{{Das theoriegenerierende Experteninterview}}
-      \field{year}{2002}
-      \field{pages}{33\bibrangedash 70}
-      \range{pages}{38}
     \endentry
     \entry{Bohm.2021}{article}{}{}
       \name{author}{2}{}{%
@@ -4641,7 +4422,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Today, open source intelligence (OSINT), i.e., information derived from publicly available sources, makes up between 80 and 90 percent of all intelligence activities carried out by Law Enforcement Agencies (LEAs) and intelligence services in the West. Developments in data mining, machine learning, visual forensics and, most importantly, the growing computing power available for commercial use, have enabled OSINT practitioners to speed up, and sometimes even automate, intelligence collection and analysis, obtaining more accurate results more quickly. As the infosphere expands to accommodate ever-increasing online presence, so does the pool of actionable OSINT. These developments raise important concerns in terms of governance, ethical, legal, and social implications (GELSI). New and crucial oversight concerns emerge alongside standard privacy concerns, as some of the more advanced data analysis tools require little to no supervision. This article offers a systematic review of the relevant literature. It analyzes 571 publications to assess the current state of the literature on the use of AI-powered OSINT (and the development of OSINT software) as it relates to the GELSI framework, highlighting potential gaps and suggesting new research directions.}
       \field{issn}{0951-5666}
-      \field{journaltitle}{AI {\&} society}
+      \field{journaltitle}{{AI {\&} Society}}
       \field{title}{Open source intelligence and AI: a systematic review of the GELSI literature﻿}
       \field{year}{2023}
       \field{pages}{1\bibrangedash 16}
@@ -4784,7 +4565,7 @@
       \field{labeltitlesource}{title}
       \field{edition}{3., überarb. Aufl.}
       \field{series}{Lehrbuch}
-      \field{title}{Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}
+      \field{title}{{Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}}
       \field{year}{2009}
     \endentry
     \entry{HerreraCubides.2020}{article}{}{}
@@ -5727,7 +5508,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Access}
-      \field{title}{The Not Yet Exploited Goldmine of OSINT: Opportunities, Open Challenges and Future Trends}
+      \field{title}{{The Not Yet Exploited Goldmine of OSINT: Opportunities, Open Challenges and Future Trends}}
       \field{volume}{8}
       \field{year}{2020}
       \field{pages}{10282\bibrangedash 10304}
@@ -6668,7 +6449,10 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Applied Engineering and Management Letters}
+      \field{number}{2}
       \field{title}{Open Source Intelligence and its Applications in Next Generation Cyber Security - A Literature Review}
+      \field{volume}{5}
       \field{year}{2021}
     \endentry
   \enddatalist

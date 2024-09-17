@@ -455,116 +455,6 @@
       \field{volume}{72}
       \field{year}{2004}
     \endentry
-    \entry{Bogner.2002b}{inbook}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
-           family={Bogner},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6d398596737114a363216ba9297ac707}{%
-           family={Menz},
-           familyi={M\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=b02dc3d2c3210168a75c1a7b7671183c}{%
-           family={Bogner},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod}}}%
-        {{hash=aaf3d86dde12b010fecce9a6e3609bc7}{%
-           family={Littig},
-           familyi={L\bibinitperiod},
-           given={Beate},
-           giveni={B\bibinitperiod}}}%
-        {{hash=6d398596737114a363216ba9297ac707}{%
-           family={Menz},
-           familyi={M\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Wiesbaden}%
-      }
-      \list{publisher}{1}{%
-        {VS Verlag für Sozialwissenschaften}%
-      }
-      \strng{namehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{fullhash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{fullhashraw}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{bibnamehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authorbibnamehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authornamehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authorfullhash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authorfullhashraw}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{editorbibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{editornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
-      \strng{editorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{editorfullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{{Das Experteninterview}}
-      \field{isbn}{978-3-8100-3200-3}
-      \field{title}{{Das theoriegenerierende Experteninterview}}
-      \field{year}{2002}
-      \field{pages}{33\bibrangedash 70}
-      \range{pages}{38}
-    \endentry
-    \entry{Bogner.2002c}{book}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
-           family={Bogner},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=aaf3d86dde12b010fecce9a6e3609bc7}{%
-           family={Littig},
-           familyi={L\bibinitperiod},
-           given={Beate},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6d398596737114a363216ba9297ac707}{%
-           family={Menz},
-           familyi={M\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Wiesbaden}%
-      }
-      \list{publisher}{1}{%
-        {VS Verlag für Sozialwissenschaften}%
-      }
-      \strng{namehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
-      \strng{fullhash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{fullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{bibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{authorbibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{authornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
-      \strng{authorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{authorfullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \field{extraname}{1}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Das Experteninterview}}
-      \field{year}{2002}
-    \endentry
     \entry{Bogner.2014}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
@@ -600,7 +490,6 @@
       \strng{authornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
       \strng{authorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
       \strng{authorfullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -1198,7 +1087,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{title}{{Document 32016R0679: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)}}
+      \field{title}{{Document 32016R0679: Regulation (EU) 2016/679 (General Data Protection Regulation)}}
       \field{year}{2016}
       \verb{urlraw}
       \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
@@ -1457,7 +1346,7 @@
       \field{labeltitlesource}{title}
       \field{edition}{3., überarb. Aufl.}
       \field{series}{Lehrbuch}
-      \field{title}{Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}
+      \field{title}{{Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}}
       \field{year}{2009}
     \endentry
     \entry{HerreraCubides.2020}{article}{}{}
@@ -2400,7 +2289,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Access}
-      \field{title}{The Not Yet Exploited Goldmine of OSINT: Opportunities, Open Challenges and Future Trends}
+      \field{title}{{The Not Yet Exploited Goldmine of OSINT: Opportunities, Open Challenges and Future Trends}}
       \field{volume}{8}
       \field{year}{2020}
       \field{pages}{10282\bibrangedash 10304}
@@ -2922,7 +2811,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2023 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT {\&} NCON)}
+      \field{journaltitle}{ECTI DAMT {\&} NCON}
       \field{title}{Machine learning-based classification of competitors performance: evidence from Chinese logistics companies}
       \field{year}{2023}
       \field{pages}{131\bibrangedash 137}
@@ -3113,7 +3002,6 @@
       \field{labeltitlesource}{title}
       \field{series}{Research reports}
       \field{title}{Defining Second Generation Open Source Intelligence (OSINT) for the Defense Enterprise}
-      \field{volume}{RR-1964-OSD}
       \field{year}{2018}
     \endentry
     \entry{Wittmer.2022}{inbook}{}{}
@@ -3153,7 +3041,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Die Möglichkeiten für Cyberkriminelle, Straftaten im Internet anonym zu begehen, haben mit der Entwicklung von Darknet-Technologien erheblich zugenommen. Zur Aufklärung dieser Straftaten kommt aus technischer Perspektive die Nutzung von Open Source Intelligence (OSINT) in Betracht. Diese Methode bezeichnet einen Vorgang, bei dem Daten aus öffentlich zugänglichen Quellen gesammelt werden, um durch deren Auswertung an ermittlungsrelevante Erkenntnisse zu gelangen. Der folgende Beitrag thematisiert die Nutzung von OSINT zur Strafverfolgung im Darknet und wirft die Frage auf, was nach dem aktuellen Stand der Technik möglich und was auf Grundlage der geltenden strafprozessualen Vorgaben rechtlich zulässig ist. Die Verfasser*innen kommen zu dem Ergebnis, dass ein legislatives {\glqq}Update{\grqq} der StPO unvermeidbar sein wird, wenn die rechtlichen Vorgaben mit den technischen Möglichkeiten Schritt halten sollen. Dieses Ergebnis wird damit begründet, dass die Nutzung von OSINT aufgrund ihrer grundrechtlichen Eingriffsintensität in vielen Fällen nicht mehr auf die Ermittlungsgeneralklausel der {§}{§} 161, 163 StPO gestützt werden kann.}
-      \field{booktitle}{{INFORMATIK 2022, Lecture Notes in Informatics (LNI), Gesellschaft für Informatik}}
+      \field{booktitle}{{INFORMATIK (LNI)}}
       \field{title}{{Zulässigkeit von Open Source-Ermittlungen zur Strafverfolgung im Darknet}}
       \field{year}{2022}
       \field{dateera}{ce}
@@ -3305,7 +3193,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-7480-1}
-      \field{journaltitle}{2022 7th IEEE International Conference on Data Science in Cyberspace (DSC)}
+      \field{journaltitle}{7th IEEE DSC}
       \field{title}{NiNSRAPM: An Ensemble Learning Based Non-intrusive Network Security Risk Assessment Prediction Model}
       \field{year}{2022}
       \field{pages}{17\bibrangedash 23}
@@ -3785,52 +3673,6 @@
       \field{volume}{72}
       \field{year}{2004}
     \endentry
-    \entry{Bogner.2002c}{book}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
-           family={Bogner},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=aaf3d86dde12b010fecce9a6e3609bc7}{%
-           family={Littig},
-           familyi={L\bibinitperiod},
-           given={Beate},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6d398596737114a363216ba9297ac707}{%
-           family={Menz},
-           familyi={M\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Wiesbaden}%
-      }
-      \list{publisher}{1}{%
-        {VS Verlag für Sozialwissenschaften}%
-      }
-      \strng{namehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
-      \strng{fullhash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{fullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{bibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{authorbibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{authornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
-      \strng{authorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{authorfullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \field{extraname}{1}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Das Experteninterview}}
-      \field{year}{2002}
-    \endentry
     \entry{Bogner.2014}{book}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
@@ -3866,7 +3708,6 @@
       \strng{authornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
       \strng{authorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
       \strng{authorfullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -3877,70 +3718,6 @@
       \field{isbn}{978-3-531-19415-8}
       \field{title}{{Interviews mit Experten: Eine praxisorientierte Einführung}}
       \field{year}{2014}
-    \endentry
-    \entry{Bogner.2002b}{inbook}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=b02dc3d2c3210168a75c1a7b7671183c}{%
-           family={Bogner},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6d398596737114a363216ba9297ac707}{%
-           family={Menz},
-           familyi={M\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=b02dc3d2c3210168a75c1a7b7671183c}{%
-           family={Bogner},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod}}}%
-        {{hash=aaf3d86dde12b010fecce9a6e3609bc7}{%
-           family={Littig},
-           familyi={L\bibinitperiod},
-           given={Beate},
-           giveni={B\bibinitperiod}}}%
-        {{hash=6d398596737114a363216ba9297ac707}{%
-           family={Menz},
-           familyi={M\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Wiesbaden}%
-      }
-      \list{publisher}{1}{%
-        {VS Verlag für Sozialwissenschaften}%
-      }
-      \strng{namehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{fullhash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{fullhashraw}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{bibnamehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authorbibnamehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authornamehash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authorfullhash}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{authorfullhashraw}{7873fcccaf5fc2710aa7647f518ac3cc}
-      \strng{editorbibnamehash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{editornamehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
-      \strng{editorfullhash}{2cf39ae346a3e773370aba4b65c9b54b}
-      \strng{editorfullhashraw}{2cf39ae346a3e773370aba4b65c9b54b}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{{Das Experteninterview}}
-      \field{isbn}{978-3-8100-3200-3}
-      \field{title}{{Das theoriegenerierende Experteninterview}}
-      \field{year}{2002}
-      \field{pages}{33\bibrangedash 70}
-      \range{pages}{38}
     \endentry
     \entry{Bohm.2021}{article}{}{}
       \name{author}{2}{}{%
@@ -4528,7 +4305,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{title}{{Document 32016R0679: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)}}
+      \field{title}{{Document 32016R0679: Regulation (EU) 2016/679 (General Data Protection Regulation)}}
       \field{year}{2016}
       \verb{urlraw}
       \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
@@ -4787,7 +4564,7 @@
       \field{labeltitlesource}{title}
       \field{edition}{3., überarb. Aufl.}
       \field{series}{Lehrbuch}
-      \field{title}{Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}
+      \field{title}{{Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}}
       \field{year}{2009}
     \endentry
     \entry{HerreraCubides.2020}{article}{}{}
@@ -5730,7 +5507,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Access}
-      \field{title}{The Not Yet Exploited Goldmine of OSINT: Opportunities, Open Challenges and Future Trends}
+      \field{title}{{The Not Yet Exploited Goldmine of OSINT: Opportunities, Open Challenges and Future Trends}}
       \field{volume}{8}
       \field{year}{2020}
       \field{pages}{10282\bibrangedash 10304}
@@ -6252,7 +6029,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2023 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT {\&} NCON)}
+      \field{journaltitle}{ECTI DAMT {\&} NCON}
       \field{title}{Machine learning-based classification of competitors performance: evidence from Chinese logistics companies}
       \field{year}{2023}
       \field{pages}{131\bibrangedash 137}
@@ -6443,7 +6220,6 @@
       \field{labeltitlesource}{title}
       \field{series}{Research reports}
       \field{title}{Defining Second Generation Open Source Intelligence (OSINT) for the Defense Enterprise}
-      \field{volume}{RR-1964-OSD}
       \field{year}{2018}
     \endentry
     \entry{Wittmer.2022}{inbook}{}{}
@@ -6483,7 +6259,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Die Möglichkeiten für Cyberkriminelle, Straftaten im Internet anonym zu begehen, haben mit der Entwicklung von Darknet-Technologien erheblich zugenommen. Zur Aufklärung dieser Straftaten kommt aus technischer Perspektive die Nutzung von Open Source Intelligence (OSINT) in Betracht. Diese Methode bezeichnet einen Vorgang, bei dem Daten aus öffentlich zugänglichen Quellen gesammelt werden, um durch deren Auswertung an ermittlungsrelevante Erkenntnisse zu gelangen. Der folgende Beitrag thematisiert die Nutzung von OSINT zur Strafverfolgung im Darknet und wirft die Frage auf, was nach dem aktuellen Stand der Technik möglich und was auf Grundlage der geltenden strafprozessualen Vorgaben rechtlich zulässig ist. Die Verfasser*innen kommen zu dem Ergebnis, dass ein legislatives {\glqq}Update{\grqq} der StPO unvermeidbar sein wird, wenn die rechtlichen Vorgaben mit den technischen Möglichkeiten Schritt halten sollen. Dieses Ergebnis wird damit begründet, dass die Nutzung von OSINT aufgrund ihrer grundrechtlichen Eingriffsintensität in vielen Fällen nicht mehr auf die Ermittlungsgeneralklausel der {§}{§} 161, 163 StPO gestützt werden kann.}
-      \field{booktitle}{{INFORMATIK 2022, Lecture Notes in Informatics (LNI), Gesellschaft für Informatik}}
+      \field{booktitle}{{INFORMATIK (LNI)}}
       \field{title}{{Zulässigkeit von Open Source-Ermittlungen zur Strafverfolgung im Darknet}}
       \field{year}{2022}
       \field{dateera}{ce}
@@ -6635,7 +6411,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-7480-1}
-      \field{journaltitle}{2022 7th IEEE International Conference on Data Science in Cyberspace (DSC)}
+      \field{journaltitle}{7th IEEE DSC}
       \field{title}{NiNSRAPM: An Ensemble Learning Based Non-intrusive Network Security Risk Assessment Prediction Model}
       \field{year}{2022}
       \field{pages}{17\bibrangedash 23}
