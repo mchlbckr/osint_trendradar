@@ -58,7 +58,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2020 IEEE International Conference on Big Data (Big Data)}
+      \field{journaltitle}{IEEE Big Data}
       \field{title}{Exploring Open Source Information for Cyber Threat Intelligence}
       \field{year}{2020}
       \field{pages}{2232\bibrangedash 2241}
@@ -104,7 +104,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-0052-7}
-      \field{journaltitle}{2022 Second International Conference on Artificial Intelligence and Smart Energy (ICAIS)}
+      \field{journaltitle}{2022 2nd ICAIS}
       \field{title}{Cyber Security Threats and Their Connection with Twitter}
       \field{year}{2022}
       \field{pages}{1458\bibrangedash 1463}
@@ -148,7 +148,7 @@
            giveni={A\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {New York, NY, USA}%
+        {New York}%
       }
       \list{publisher}{1}{%
         {ACM}%
@@ -172,7 +172,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{International Conference on Data Science, E-learning and Information Systems 2021}
+      \field{booktitle}{Int. Conf. on Data Science, E-learning and Information Systems}
       \field{title}{OSINT Techniques Integration with Risk Assessment ISO/IEC 27001}
       \field{year}{2021}
       \field{pages}{82\bibrangedash 86}
@@ -230,7 +230,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-7281-6509-7}
-      \field{journaltitle}{2020 4th International Conference on Computer, Communication and Signal Processing (ICCCSP)}
+      \field{journaltitle}{2020 4th ICCCSP}
       \field{title}{PeopleXploit: A hybrid tool to collect public data}
       \field{year}{2020}
       \field{pages}{1\bibrangedash 6}
@@ -282,7 +282,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-7281-9948-1}
-      \field{journaltitle}{2020 IEEE 2nd International Conference on Civil Aviation Safety and Information Technology (ICCASIT}
+      \field{journaltitle}{IEEE ICCASIT}
       \field{title}{Research on Anti-terrorism Intelligence Mining Method Based on Attention Neural Networks}
       \field{year}{2020}
       \field{pages}{458\bibrangedash 464}
@@ -451,7 +451,7 @@
       \field{labeltitlesource}{title}
       \field{isbn}{3-8322-3480-2}
       \field{series}{{Schriftenreihe Rationalisierung und Humanisierung}}
-      \field{title}{{Entwicklung einer Methodik zur integrierten Planung von Informationstechnologie-Einsatz und intermediären Informationsdienstleistungen im elektronischen Geschäftsverkehr}}
+      \field{title}{Entwicklung einer {Methodik} zur integrierten {Planung} von {Informationstechnologie}-{Einsatz} und intermediären {Informationsdienstleistungen} im elektronischen {Geschäftsverkehr}}
       \field{volume}{72}
       \field{year}{2004}
     \endentry
@@ -480,7 +480,7 @@
         {Wiesbaden}%
       }
       \list{publisher}{1}{%
-        {Springer Fachmedien Wiesbaden}%
+        {Springer}%
       }
       \strng{namehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
       \strng{fullhash}{2cf39ae346a3e773370aba4b65c9b54b}
@@ -539,56 +539,23 @@
       \field{pages}{317\bibrangedash 337}
       \range{pages}{21}
     \endentry
-    \entry{Breakspear.2013}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=32fef3b4624b53e7e978a55753b624ce}{%
-           family={Breakspear},
-           familyi={B\bibinitperiod},
-           given={Alan},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{fullhash}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{fullhashraw}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{bibnamehash}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{authorbibnamehash}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{authornamehash}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{authorfullhash}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{authorfullhashraw}{32fef3b4624b53e7e978a55753b624ce}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0268-4527}
-      \field{journaltitle}{Intelligence and National Security}
-      \field{number}{5}
-      \field{title}{A New Definition of Intelligence}
-      \field{volume}{28}
-      \field{year}{2013}
-      \field{pages}{678\bibrangedash 693}
-      \range{pages}{16}
-    \endentry
     \entry{CentralIntelligenceAgency.1987}{book}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a9f620b61e8a256713dc8b633d194210}{%
-           family={{Central Intelligence Agency}},
+        {{un=0,uniquepart=base,hash=a22a8145b8191aba30ed8da23988446e}{%
+           family={{CIA}},
            familyi={C\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Washington, DC}%
       }
-      \strng{namehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{fullhash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{fullhashraw}{a9f620b61e8a256713dc8b633d194210}
-      \strng{bibnamehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authorbibnamehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authornamehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authorfullhash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authorfullhashraw}{a9f620b61e8a256713dc8b633d194210}
+      \strng{namehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{fullhash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{fullhashraw}{a22a8145b8191aba30ed8da23988446e}
+      \strng{bibnamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorbibnamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authornamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorfullhash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorfullhashraw}{a22a8145b8191aba30ed8da23988446e}
       \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
@@ -602,18 +569,18 @@
     \endentry
     \entry{CentralIntelligenceAgency.2023}{book}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a9f620b61e8a256713dc8b633d194210}{%
-           family={{Central Intelligence Agency}},
+        {{un=0,uniquepart=base,hash=a22a8145b8191aba30ed8da23988446e}{%
+           family={{CIA}},
            familyi={C\bibinitperiod}}}%
       }
-      \strng{namehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{fullhash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{fullhashraw}{a9f620b61e8a256713dc8b633d194210}
-      \strng{bibnamehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authorbibnamehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authornamehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authorfullhash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authorfullhashraw}{a9f620b61e8a256713dc8b633d194210}
+      \strng{namehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{fullhash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{fullhashraw}{a22a8145b8191aba30ed8da23988446e}
+      \strng{bibnamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorbibnamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authornamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorfullhash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorfullhashraw}{a22a8145b8191aba30ed8da23988446e}
       \field{extraname}{2}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
@@ -756,7 +723,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-5719-4}
-      \field{journaltitle}{2023 International Conference on Computing, Networking and Communications (ICNC)}
+      \field{journaltitle}{IEEE ICNC}
       \field{title}{AI-based Cyber Event OSINT via Twitter Data}
       \field{year}{2023}
       \field{pages}{436\bibrangedash 442}
@@ -835,7 +802,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{INFuture2019: Knowledge in the Digital Age}
-      \field{series}{International Conference The Future of Information Sciences INFuture}
+      \field{series}{Int. Conf. The Future of Information Sciences INFuture}
       \field{title}{Open Source Intelligence (OSINT): issues and trends}
       \field{year}{2020}
     \endentry
@@ -993,7 +960,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-5661-6}
-      \field{journaltitle}{2022 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)}
+      \field{journaltitle}{2022 IEEE/ACM ASONAM}
       \field{title}{WayPop Machine: A Wayback Machine to Investigate Popularity and Root Out Trolls}
       \field{year}{2022}
       \field{pages}{391\bibrangedash 395}
@@ -1039,33 +1006,6 @@
       \field{pages}{462\bibrangedash 492}
       \range{pages}{31}
     \endentry
-    \entry{EuropeanCommission.18.08.2023}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
-           family={{European Commission}},
-           familyi={E\bibinitperiod}}}%
-      }
-      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Determining the lead DPA if your organisation processes data in several EU countries}
-      \field{note}{\url{https://shorturl.at/ZGfH4}}
-      \field{title}{Enforcement and sanctions: What happens if my company processes data in different EU Member States?}
-      \field{year}{18.08.2023}
-      \warn{\item article entry 'EuropeanCommission.18.08.2023' (references.bib): Invalid format '18.08.2023' of date field 'urldate' - ignoring}
-    \endentry
     \entry{EuropeanParliament.2016}{misc}{}{}
       \name{editor}{1}{}{%
         {{un=0,uniquepart=base,hash=04477f088e2d7fa909d6f010ddf08b41}{%
@@ -1087,14 +1027,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{title}{{Document 32016R0679: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)}}
+      \field{title}{{Document 32016R0679: Regulation (EU) 2016/679 (General Data Protection Regulation)}}
       \field{year}{2016}
-      \verb{urlraw}
-      \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
-      \endverb
-      \verb{url}
-      \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
-      \endverb
       \warn{\item misc entry 'EuropeanParliament.2016' (references.bib): Invalid format '26.05.2023' of date field 'urldate' - ignoring}
     \endentry
     \entry{GarciaLozano.2020}{article}{}{}
@@ -1239,7 +1173,7 @@
         {Cham}%
       }
       \list{publisher}{1}{%
-        {Springer International Publishing}%
+        {Springer}%
       }
       \strng{namehash}{2d36061626ffdbee5bf59389139c4fcd}
       \strng{fullhash}{2d36061626ffdbee5bf59389139c4fcd}
@@ -1327,7 +1261,7 @@
         {Wiesbaden}%
       }
       \list{publisher}{1}{%
-        {VS Verlag für Sozialwissenschaften}%
+        {VS Verlag}%
       }
       \strng{namehash}{45800352f71891d7e568d36e33a315c0}
       \strng{fullhash}{45800352f71891d7e568d36e33a315c0}
@@ -1344,7 +1278,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{3., überarb. Aufl.}
       \field{series}{Lehrbuch}
       \field{title}{{Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}}
       \field{year}{2009}
@@ -1448,7 +1381,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-6253-2}
-      \field{journaltitle}{2023 IEEE 2nd International Conference on Electrical Engineering, Big Data and Algorithms (EEBDA)}
+      \field{journaltitle}{2023 IEEE 2nd EEBDA}
       \field{title}{Construction of domain knowledge graph based on open source intelligence}
       \field{year}{2023}
       \field{pages}{1378\bibrangedash 1382}
@@ -1493,8 +1426,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-1-6654-9952-1}
-      \field{journaltitle}{2022 IEEE International Conference on Cyber Security and Resilience (CSR)}
+      \field{journaltitle}{IEEE CSR}
       \field{title}{IPASS: A Novel Open-Source Intelligence Password Scoring System}
       \field{year}{2022}
       \field{pages}{90\bibrangedash 95}
@@ -1612,7 +1544,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2020 19th RoEduNet Conference: Networking in Education and Research (RoEduNet)}
+      \field{journaltitle}{2020 19th RoEduNet Conference}
       \field{title}{Early Detection of Vulnerabilities from News Websites using Machine Learning Models}
       \field{year}{2020}
       \field{pages}{1\bibrangedash 6}
@@ -1703,7 +1635,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2021 International Carnahan Conference on Security Technology (ICCST)}
+      \field{journaltitle}{2021 ICCST}
       \field{title}{Designing a Modular and Distributed Web Crawler Focused on Unstructured Cybersecurity Intelligence}
       \field{year}{2021}
       \field{pages}{1\bibrangedash 6}
@@ -1819,9 +1751,9 @@
            givenun=0}}%
       }
       \name{editor}{1}{}{%
-        {{hash=98a7ceb51164560bb5da9f9362f12ece}{%
-           family={{Science and Technology for Peace and Security (PEASEC), Technical University of Darmstadt}},
-           familyi={S\bibinitperiod}}}%
+        {{hash=793c80e72fb7aa9dea7a5a12906dfef5}{%
+           family={{PEASEC, Technical University of Darmstadt}},
+           familyi={P\bibinitperiod}}}%
       }
       \strng{namehash}{953bd0736a0694fc71127fb01ccc48d9}
       \strng{fullhash}{a6a1ab4041e3432fcadc1cf942314b9c}
@@ -1831,10 +1763,10 @@
       \strng{authornamehash}{953bd0736a0694fc71127fb01ccc48d9}
       \strng{authorfullhash}{a6a1ab4041e3432fcadc1cf942314b9c}
       \strng{authorfullhashraw}{a6a1ab4041e3432fcadc1cf942314b9c}
-      \strng{editorbibnamehash}{98a7ceb51164560bb5da9f9362f12ece}
-      \strng{editornamehash}{98a7ceb51164560bb5da9f9362f12ece}
-      \strng{editorfullhash}{98a7ceb51164560bb5da9f9362f12ece}
-      \strng{editorfullhashraw}{98a7ceb51164560bb5da9f9362f12ece}
+      \strng{editorbibnamehash}{793c80e72fb7aa9dea7a5a12906dfef5}
+      \strng{editornamehash}{793c80e72fb7aa9dea7a5a12906dfef5}
+      \strng{editorfullhash}{793c80e72fb7aa9dea7a5a12906dfef5}
+      \strng{editorfullhashraw}{793c80e72fb7aa9dea7a5a12906dfef5}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -1842,9 +1774,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{eprintclass}{cs.CR}
       \field{journaltitle}{arXiv}
-      \field{number}{2304.11960}
       \field{title}{{ThreatCrawl: A BERT-based Focused Crawler for the Cybersecurity Domain}}
       \field{year}{2023}
     \endentry
@@ -1899,7 +1829,7 @@
         {Thousand Oaks, Calif.}%
       }
       \list{publisher}{1}{%
-        {SAGE/CQ Press}%
+        {Sage}%
       }
       \strng{namehash}{3cac304df0e2b6ffa5fa3041c7d9d92b}
       \strng{fullhash}{3cac304df0e2b6ffa5fa3041c7d9d92b}
@@ -1916,8 +1846,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{{"}Mark M. Lowenthal's trusted guide is the go-to resource for understanding how the intelligence community's history, structure, procedures, and functions affect policy decisions. In this Eighth Edition, the author addresses cyber security and cyber intelligence throughout, expands the coverage of collection, comprehensively updates the chapters on nation state issues and transnational issues, and looks at foreign intelligence services, both large and small{"}}
-      \field{edition}{Eighth edition}
+      \field{edition}{8th edition}
       \field{title}{Intelligence: From secrets to policy}
       \field{year}{2020}
     \endentry
@@ -1962,36 +1891,6 @@
       \field{title}{Research on Domain-Specific Knowledge Graph Based on the RoBERTa-wwm-ext Pretraining Model}
       \field{volume}{2022}
       \field{year}{2022}
-    \endentry
-    \entry{Mercado.2005}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1e33df0ebaf5f433af18ff4fdc61f0ad}{%
-           family={Mercado},
-           familyi={M\bibinitperiod},
-           given={Stephen\bibnamedelima C.},
-           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{fullhash}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{fullhashraw}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{bibnamehash}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{authorbibnamehash}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{authornamehash}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{authorfullhash}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{authorfullhashraw}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Studies in Intelligence}
-      \field{number}{2}
-      \field{title}{Reexamining the Distinction Between Open Information and Secrets}
-      \field{volume}{49}
-      \field{year}{2005}
     \endentry
     \entry{Meuser.1991}{article}{}{}
       \name{author}{2}{}{%
@@ -2082,6 +1981,56 @@
       \field{pages}{82\bibrangedash 88}
       \range{pages}{7}
     \endentry
+    \entry{NorthAtlanticTreatyOrganization.2001}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bffcc931f95bfaa3bc6249b16fd85ee7}{%
+           family={{NATO}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{bibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorbibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authornamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorfullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorfullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{NATO Open Source Intelligence Handbook}}
+      \field{year}{2001}
+    \endentry
+    \entry{NorthAtlanticTreatyOrganization.2002}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bffcc931f95bfaa3bc6249b16fd85ee7}{%
+           family={{NATO}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{bibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorbibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authornamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorfullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorfullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{NATO Open Source Intelligence Reader}}
+      \field{year}{2002}
+    \endentry
     \entry{Nobili.2021}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=75232a918176a820fbcf676159a1a94b}{%
@@ -2139,61 +2088,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2021 International Conference on Cyber-Physical Social Intelligence (ICCSI)}
+      \field{journaltitle}{IEEE ICCSI}
       \field{title}{An OSINT platform to analyse violence against workers in public trasportation}
       \field{year}{2021}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
-    \endentry
-    \entry{NorthAtlanticTreatyOrganization.2001}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cf5593968e997d7e64c3760f7ee7b17c}{%
-           family={{North Atlantic Treaty Organization}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{fullhash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{fullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{bibnamehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authorbibnamehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authornamehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authorfullhash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authorfullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
-      \field{extraname}{1}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{NATO Open Source Intelligence Handbook}
-      \field{year}{2001}
-    \endentry
-    \entry{NorthAtlanticTreatyOrganization.2002}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cf5593968e997d7e64c3760f7ee7b17c}{%
-           family={{North Atlantic Treaty Organization}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{fullhash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{fullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{bibnamehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authorbibnamehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authornamehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authorfullhash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authorfullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
-      \field{extraname}{2}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{NATO Open Source Intelligence Reader}
-      \field{year}{2002}
     \endentry
     \entry{PastorGalindo.2019}{article}{}{}
       \name{author}{4}{}{%
@@ -2553,42 +2452,6 @@
       \field{title}{Research methods for business students}
       \field{year}{2012}
     \endentry
-    \entry{Singh.2012}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=180f08755244699103fb043e7a91b757}{%
-           family={Singh},
-           familyi={S\bibinitperiod},
-           given={Sachchidanand},
-           giveni={S\bibinitperiod},
-           givenun=1}}%
-        {{un=1,uniquepart=given,hash=5426cf7d8b5ebf1acb6c4703c3dccf21}{%
-           family={Singh},
-           familyi={S\bibinitperiod},
-           given={Nirmala},
-           giveni={N\bibinitperiod},
-           givenun=1}}%
-      }
-      \strng{namehash}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{fullhash}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{fullhashraw}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{bibnamehash}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{authorbibnamehash}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{authornamehash}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{authorfullhash}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{authorfullhashraw}{f1d655631c74d16ea1635f0db300dbaf}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{2012 International Conference on Communication, Information \& Computing Technology (ICCICT)}
-      \field{title}{Big Data analytics}
-      \field{year}{2012}
-      \field{pages}{1\bibrangedash 4}
-      \range{pages}{4}
-    \endentry
     \entry{SmithBoyle.24.07.2023}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=667f5d3b288ce07290671f613693c51a}{%
@@ -2664,7 +2527,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-8407-7}
-      \field{journaltitle}{2022 2nd International Conference on Intelligent Technologies (CONIT)}
+      \field{journaltitle}{IEEE CONIT}
       \field{title}{Torsion: Web Reconnaissance using Open Source Intelligence}
       \field{year}{2022}
       \field{pages}{1\bibrangedash 4}
@@ -2811,7 +2674,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2023 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT {\&} NCON)}
+      \field{journaltitle}{IEEE ECTI DAMT {\&} NCON}
       \field{title}{Machine learning-based classification of competitors performance: evidence from Chinese logistics companies}
       \field{year}{2023}
       \field{pages}{131\bibrangedash 137}
@@ -2898,7 +2761,7 @@
         {Cham}%
       }
       \list{publisher}{1}{%
-        {Springer International Publishing}%
+        {Springer}%
       }
       \strng{namehash}{e4291cd81a48b9b79267fbc93e6fbd42}
       \strng{fullhash}{5d38d92c34184bee8e528968e2963293}
@@ -3002,7 +2865,6 @@
       \field{labeltitlesource}{title}
       \field{series}{Research reports}
       \field{title}{Defining Second Generation Open Source Intelligence (OSINT) for the Defense Enterprise}
-      \field{volume}{RR-1964-OSD}
       \field{year}{2018}
     \endentry
     \entry{Wittmer.2022}{inbook}{}{}
@@ -3042,7 +2904,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Die Möglichkeiten für Cyberkriminelle, Straftaten im Internet anonym zu begehen, haben mit der Entwicklung von Darknet-Technologien erheblich zugenommen. Zur Aufklärung dieser Straftaten kommt aus technischer Perspektive die Nutzung von Open Source Intelligence (OSINT) in Betracht. Diese Methode bezeichnet einen Vorgang, bei dem Daten aus öffentlich zugänglichen Quellen gesammelt werden, um durch deren Auswertung an ermittlungsrelevante Erkenntnisse zu gelangen. Der folgende Beitrag thematisiert die Nutzung von OSINT zur Strafverfolgung im Darknet und wirft die Frage auf, was nach dem aktuellen Stand der Technik möglich und was auf Grundlage der geltenden strafprozessualen Vorgaben rechtlich zulässig ist. Die Verfasser*innen kommen zu dem Ergebnis, dass ein legislatives {\glqq}Update{\grqq} der StPO unvermeidbar sein wird, wenn die rechtlichen Vorgaben mit den technischen Möglichkeiten Schritt halten sollen. Dieses Ergebnis wird damit begründet, dass die Nutzung von OSINT aufgrund ihrer grundrechtlichen Eingriffsintensität in vielen Fällen nicht mehr auf die Ermittlungsgeneralklausel der {§}{§} 161, 163 StPO gestützt werden kann.}
-      \field{booktitle}{{INFORMATIK 2022, Lecture Notes in Informatics (LNI), Gesellschaft für Informatik}}
+      \field{booktitle}{{INFORMATIK (LNI)}}
       \field{title}{{Zulässigkeit von Open Source-Ermittlungen zur Strafverfolgung im Darknet}}
       \field{year}{2022}
       \field{dateera}{ce}
@@ -3093,7 +2955,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-7281-1056-1}
-      \field{journaltitle}{2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)}
+      \field{journaltitle}{2020 IEEE/ACM Int. Conf. ASONAM}
       \field{title}{Project Umbra}
       \field{year}{2020}
       \field{pages}{748\bibrangedash 751}
@@ -3194,7 +3056,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-7480-1}
-      \field{journaltitle}{2022 7th IEEE International Conference on Data Science in Cyberspace (DSC)}
+      \field{journaltitle}{7th IEEE DSC}
       \field{title}{NiNSRAPM: An Ensemble Learning Based Non-intrusive Network Security Risk Assessment Prediction Model}
       \field{year}{2022}
       \field{pages}{17\bibrangedash 23}
@@ -3277,7 +3139,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2020 IEEE International Conference on Big Data (Big Data)}
+      \field{journaltitle}{IEEE Big Data}
       \field{title}{Exploring Open Source Information for Cyber Threat Intelligence}
       \field{year}{2020}
       \field{pages}{2232\bibrangedash 2241}
@@ -3323,7 +3185,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-0052-7}
-      \field{journaltitle}{2022 Second International Conference on Artificial Intelligence and Smart Energy (ICAIS)}
+      \field{journaltitle}{2022 2nd ICAIS}
       \field{title}{Cyber Security Threats and Their Connection with Twitter}
       \field{year}{2022}
       \field{pages}{1458\bibrangedash 1463}
@@ -3367,7 +3229,7 @@
            giveni={A\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {New York, NY, USA}%
+        {New York}%
       }
       \list{publisher}{1}{%
         {ACM}%
@@ -3391,7 +3253,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{International Conference on Data Science, E-learning and Information Systems 2021}
+      \field{booktitle}{Int. Conf. on Data Science, E-learning and Information Systems}
       \field{title}{OSINT Techniques Integration with Risk Assessment ISO/IEC 27001}
       \field{year}{2021}
       \field{pages}{82\bibrangedash 86}
@@ -3449,7 +3311,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-7281-6509-7}
-      \field{journaltitle}{2020 4th International Conference on Computer, Communication and Signal Processing (ICCCSP)}
+      \field{journaltitle}{2020 4th ICCCSP}
       \field{title}{PeopleXploit: A hybrid tool to collect public data}
       \field{year}{2020}
       \field{pages}{1\bibrangedash 6}
@@ -3501,7 +3363,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-7281-9948-1}
-      \field{journaltitle}{2020 IEEE 2nd International Conference on Civil Aviation Safety and Information Technology (ICCASIT}
+      \field{journaltitle}{IEEE ICCASIT}
       \field{title}{Research on Anti-terrorism Intelligence Mining Method Based on Attention Neural Networks}
       \field{year}{2020}
       \field{pages}{458\bibrangedash 464}
@@ -3670,7 +3532,7 @@
       \field{labeltitlesource}{title}
       \field{isbn}{3-8322-3480-2}
       \field{series}{{Schriftenreihe Rationalisierung und Humanisierung}}
-      \field{title}{{Entwicklung einer Methodik zur integrierten Planung von Informationstechnologie-Einsatz und intermediären Informationsdienstleistungen im elektronischen Geschäftsverkehr}}
+      \field{title}{Entwicklung einer {Methodik} zur integrierten {Planung} von {Informationstechnologie}-{Einsatz} und intermediären {Informationsdienstleistungen} im elektronischen {Geschäftsverkehr}}
       \field{volume}{72}
       \field{year}{2004}
     \endentry
@@ -3699,7 +3561,7 @@
         {Wiesbaden}%
       }
       \list{publisher}{1}{%
-        {Springer Fachmedien Wiesbaden}%
+        {Springer}%
       }
       \strng{namehash}{4578d7ac3aa6f37fdd409ae71b97cee7}
       \strng{fullhash}{2cf39ae346a3e773370aba4b65c9b54b}
@@ -3758,56 +3620,23 @@
       \field{pages}{317\bibrangedash 337}
       \range{pages}{21}
     \endentry
-    \entry{Breakspear.2013}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=32fef3b4624b53e7e978a55753b624ce}{%
-           family={Breakspear},
-           familyi={B\bibinitperiod},
-           given={Alan},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{fullhash}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{fullhashraw}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{bibnamehash}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{authorbibnamehash}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{authornamehash}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{authorfullhash}{32fef3b4624b53e7e978a55753b624ce}
-      \strng{authorfullhashraw}{32fef3b4624b53e7e978a55753b624ce}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0268-4527}
-      \field{journaltitle}{Intelligence and National Security}
-      \field{number}{5}
-      \field{title}{A New Definition of Intelligence}
-      \field{volume}{28}
-      \field{year}{2013}
-      \field{pages}{678\bibrangedash 693}
-      \range{pages}{16}
-    \endentry
     \entry{CentralIntelligenceAgency.1987}{book}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a9f620b61e8a256713dc8b633d194210}{%
-           family={{Central Intelligence Agency}},
+        {{un=0,uniquepart=base,hash=a22a8145b8191aba30ed8da23988446e}{%
+           family={{CIA}},
            familyi={C\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Washington, DC}%
       }
-      \strng{namehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{fullhash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{fullhashraw}{a9f620b61e8a256713dc8b633d194210}
-      \strng{bibnamehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authorbibnamehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authornamehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authorfullhash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authorfullhashraw}{a9f620b61e8a256713dc8b633d194210}
+      \strng{namehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{fullhash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{fullhashraw}{a22a8145b8191aba30ed8da23988446e}
+      \strng{bibnamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorbibnamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authornamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorfullhash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorfullhashraw}{a22a8145b8191aba30ed8da23988446e}
       \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
@@ -3821,18 +3650,18 @@
     \endentry
     \entry{CentralIntelligenceAgency.2023}{book}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a9f620b61e8a256713dc8b633d194210}{%
-           family={{Central Intelligence Agency}},
+        {{un=0,uniquepart=base,hash=a22a8145b8191aba30ed8da23988446e}{%
+           family={{CIA}},
            familyi={C\bibinitperiod}}}%
       }
-      \strng{namehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{fullhash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{fullhashraw}{a9f620b61e8a256713dc8b633d194210}
-      \strng{bibnamehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authorbibnamehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authornamehash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authorfullhash}{a9f620b61e8a256713dc8b633d194210}
-      \strng{authorfullhashraw}{a9f620b61e8a256713dc8b633d194210}
+      \strng{namehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{fullhash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{fullhashraw}{a22a8145b8191aba30ed8da23988446e}
+      \strng{bibnamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorbibnamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authornamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorfullhash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorfullhashraw}{a22a8145b8191aba30ed8da23988446e}
       \field{extraname}{2}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
@@ -3975,7 +3804,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-5719-4}
-      \field{journaltitle}{2023 International Conference on Computing, Networking and Communications (ICNC)}
+      \field{journaltitle}{IEEE ICNC}
       \field{title}{AI-based Cyber Event OSINT via Twitter Data}
       \field{year}{2023}
       \field{pages}{436\bibrangedash 442}
@@ -4054,7 +3883,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{INFuture2019: Knowledge in the Digital Age}
-      \field{series}{International Conference The Future of Information Sciences INFuture}
+      \field{series}{Int. Conf. The Future of Information Sciences INFuture}
       \field{title}{Open Source Intelligence (OSINT): issues and trends}
       \field{year}{2020}
     \endentry
@@ -4212,7 +4041,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-5661-6}
-      \field{journaltitle}{2022 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)}
+      \field{journaltitle}{2022 IEEE/ACM ASONAM}
       \field{title}{WayPop Machine: A Wayback Machine to Investigate Popularity and Root Out Trolls}
       \field{year}{2022}
       \field{pages}{391\bibrangedash 395}
@@ -4258,33 +4087,6 @@
       \field{pages}{462\bibrangedash 492}
       \range{pages}{31}
     \endentry
-    \entry{EuropeanCommission.18.08.2023}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
-           family={{European Commission}},
-           familyi={E\bibinitperiod}}}%
-      }
-      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
-      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Determining the lead DPA if your organisation processes data in several EU countries}
-      \field{note}{\url{https://shorturl.at/ZGfH4}}
-      \field{title}{Enforcement and sanctions: What happens if my company processes data in different EU Member States?}
-      \field{year}{18.08.2023}
-      \warn{\item article entry 'EuropeanCommission.18.08.2023' (references.bib): Invalid format '18.08.2023' of date field 'urldate' - ignoring}
-    \endentry
     \entry{EuropeanParliament.2016}{misc}{}{}
       \name{editor}{1}{}{%
         {{un=0,uniquepart=base,hash=04477f088e2d7fa909d6f010ddf08b41}{%
@@ -4306,14 +4108,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{title}{{Document 32016R0679: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)}}
+      \field{title}{{Document 32016R0679: Regulation (EU) 2016/679 (General Data Protection Regulation)}}
       \field{year}{2016}
-      \verb{urlraw}
-      \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
-      \endverb
-      \verb{url}
-      \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
-      \endverb
       \warn{\item misc entry 'EuropeanParliament.2016' (references.bib): Invalid format '26.05.2023' of date field 'urldate' - ignoring}
     \endentry
     \entry{GarciaLozano.2020}{article}{}{}
@@ -4458,7 +4254,7 @@
         {Cham}%
       }
       \list{publisher}{1}{%
-        {Springer International Publishing}%
+        {Springer}%
       }
       \strng{namehash}{2d36061626ffdbee5bf59389139c4fcd}
       \strng{fullhash}{2d36061626ffdbee5bf59389139c4fcd}
@@ -4546,7 +4342,7 @@
         {Wiesbaden}%
       }
       \list{publisher}{1}{%
-        {VS Verlag für Sozialwissenschaften}%
+        {VS Verlag}%
       }
       \strng{namehash}{45800352f71891d7e568d36e33a315c0}
       \strng{fullhash}{45800352f71891d7e568d36e33a315c0}
@@ -4563,7 +4359,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{3., überarb. Aufl.}
       \field{series}{Lehrbuch}
       \field{title}{{Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}}
       \field{year}{2009}
@@ -4667,7 +4462,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-6253-2}
-      \field{journaltitle}{2023 IEEE 2nd International Conference on Electrical Engineering, Big Data and Algorithms (EEBDA)}
+      \field{journaltitle}{2023 IEEE 2nd EEBDA}
       \field{title}{Construction of domain knowledge graph based on open source intelligence}
       \field{year}{2023}
       \field{pages}{1378\bibrangedash 1382}
@@ -4712,8 +4507,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-1-6654-9952-1}
-      \field{journaltitle}{2022 IEEE International Conference on Cyber Security and Resilience (CSR)}
+      \field{journaltitle}{IEEE CSR}
       \field{title}{IPASS: A Novel Open-Source Intelligence Password Scoring System}
       \field{year}{2022}
       \field{pages}{90\bibrangedash 95}
@@ -4831,7 +4625,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2020 19th RoEduNet Conference: Networking in Education and Research (RoEduNet)}
+      \field{journaltitle}{2020 19th RoEduNet Conference}
       \field{title}{Early Detection of Vulnerabilities from News Websites using Machine Learning Models}
       \field{year}{2020}
       \field{pages}{1\bibrangedash 6}
@@ -4922,7 +4716,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2021 International Carnahan Conference on Security Technology (ICCST)}
+      \field{journaltitle}{2021 ICCST}
       \field{title}{Designing a Modular and Distributed Web Crawler Focused on Unstructured Cybersecurity Intelligence}
       \field{year}{2021}
       \field{pages}{1\bibrangedash 6}
@@ -5038,9 +4832,9 @@
            givenun=0}}%
       }
       \name{editor}{1}{}{%
-        {{hash=98a7ceb51164560bb5da9f9362f12ece}{%
-           family={{Science and Technology for Peace and Security (PEASEC), Technical University of Darmstadt}},
-           familyi={S\bibinitperiod}}}%
+        {{hash=793c80e72fb7aa9dea7a5a12906dfef5}{%
+           family={{PEASEC, Technical University of Darmstadt}},
+           familyi={P\bibinitperiod}}}%
       }
       \strng{namehash}{953bd0736a0694fc71127fb01ccc48d9}
       \strng{fullhash}{a6a1ab4041e3432fcadc1cf942314b9c}
@@ -5050,10 +4844,10 @@
       \strng{authornamehash}{953bd0736a0694fc71127fb01ccc48d9}
       \strng{authorfullhash}{a6a1ab4041e3432fcadc1cf942314b9c}
       \strng{authorfullhashraw}{a6a1ab4041e3432fcadc1cf942314b9c}
-      \strng{editorbibnamehash}{98a7ceb51164560bb5da9f9362f12ece}
-      \strng{editornamehash}{98a7ceb51164560bb5da9f9362f12ece}
-      \strng{editorfullhash}{98a7ceb51164560bb5da9f9362f12ece}
-      \strng{editorfullhashraw}{98a7ceb51164560bb5da9f9362f12ece}
+      \strng{editorbibnamehash}{793c80e72fb7aa9dea7a5a12906dfef5}
+      \strng{editornamehash}{793c80e72fb7aa9dea7a5a12906dfef5}
+      \strng{editorfullhash}{793c80e72fb7aa9dea7a5a12906dfef5}
+      \strng{editorfullhashraw}{793c80e72fb7aa9dea7a5a12906dfef5}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -5061,9 +4855,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{eprintclass}{cs.CR}
       \field{journaltitle}{arXiv}
-      \field{number}{2304.11960}
       \field{title}{{ThreatCrawl: A BERT-based Focused Crawler for the Cybersecurity Domain}}
       \field{year}{2023}
     \endentry
@@ -5118,7 +4910,7 @@
         {Thousand Oaks, Calif.}%
       }
       \list{publisher}{1}{%
-        {SAGE/CQ Press}%
+        {Sage}%
       }
       \strng{namehash}{3cac304df0e2b6ffa5fa3041c7d9d92b}
       \strng{fullhash}{3cac304df0e2b6ffa5fa3041c7d9d92b}
@@ -5135,8 +4927,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{{"}Mark M. Lowenthal's trusted guide is the go-to resource for understanding how the intelligence community's history, structure, procedures, and functions affect policy decisions. In this Eighth Edition, the author addresses cyber security and cyber intelligence throughout, expands the coverage of collection, comprehensively updates the chapters on nation state issues and transnational issues, and looks at foreign intelligence services, both large and small{"}}
-      \field{edition}{Eighth edition}
+      \field{edition}{8th edition}
       \field{title}{Intelligence: From secrets to policy}
       \field{year}{2020}
     \endentry
@@ -5181,36 +4972,6 @@
       \field{title}{Research on Domain-Specific Knowledge Graph Based on the RoBERTa-wwm-ext Pretraining Model}
       \field{volume}{2022}
       \field{year}{2022}
-    \endentry
-    \entry{Mercado.2005}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1e33df0ebaf5f433af18ff4fdc61f0ad}{%
-           family={Mercado},
-           familyi={M\bibinitperiod},
-           given={Stephen\bibnamedelima C.},
-           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{fullhash}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{fullhashraw}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{bibnamehash}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{authorbibnamehash}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{authornamehash}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{authorfullhash}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \strng{authorfullhashraw}{1e33df0ebaf5f433af18ff4fdc61f0ad}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Studies in Intelligence}
-      \field{number}{2}
-      \field{title}{Reexamining the Distinction Between Open Information and Secrets}
-      \field{volume}{49}
-      \field{year}{2005}
     \endentry
     \entry{Meuser.1991}{article}{}{}
       \name{author}{2}{}{%
@@ -5301,6 +5062,56 @@
       \field{pages}{82\bibrangedash 88}
       \range{pages}{7}
     \endentry
+    \entry{NorthAtlanticTreatyOrganization.2001}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bffcc931f95bfaa3bc6249b16fd85ee7}{%
+           family={{NATO}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{bibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorbibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authornamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorfullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorfullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{NATO Open Source Intelligence Handbook}}
+      \field{year}{2001}
+    \endentry
+    \entry{NorthAtlanticTreatyOrganization.2002}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bffcc931f95bfaa3bc6249b16fd85ee7}{%
+           family={{NATO}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{bibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorbibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authornamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorfullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorfullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{NATO Open Source Intelligence Reader}}
+      \field{year}{2002}
+    \endentry
     \entry{Nobili.2021}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=75232a918176a820fbcf676159a1a94b}{%
@@ -5358,61 +5169,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2021 International Conference on Cyber-Physical Social Intelligence (ICCSI)}
+      \field{journaltitle}{IEEE ICCSI}
       \field{title}{An OSINT platform to analyse violence against workers in public trasportation}
       \field{year}{2021}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
-    \endentry
-    \entry{NorthAtlanticTreatyOrganization.2001}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cf5593968e997d7e64c3760f7ee7b17c}{%
-           family={{North Atlantic Treaty Organization}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{fullhash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{fullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{bibnamehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authorbibnamehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authornamehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authorfullhash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authorfullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
-      \field{extraname}{1}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{NATO Open Source Intelligence Handbook}
-      \field{year}{2001}
-    \endentry
-    \entry{NorthAtlanticTreatyOrganization.2002}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cf5593968e997d7e64c3760f7ee7b17c}{%
-           family={{North Atlantic Treaty Organization}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{fullhash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{fullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{bibnamehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authorbibnamehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authornamehash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authorfullhash}{cf5593968e997d7e64c3760f7ee7b17c}
-      \strng{authorfullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
-      \field{extraname}{2}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{NATO Open Source Intelligence Reader}
-      \field{year}{2002}
     \endentry
     \entry{PastorGalindo.2019}{article}{}{}
       \name{author}{4}{}{%
@@ -5772,42 +5533,6 @@
       \field{title}{Research methods for business students}
       \field{year}{2012}
     \endentry
-    \entry{Singh.2012}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=180f08755244699103fb043e7a91b757}{%
-           family={Singh},
-           familyi={S\bibinitperiod},
-           given={Sachchidanand},
-           giveni={S\bibinitperiod},
-           givenun=1}}%
-        {{un=1,uniquepart=given,hash=5426cf7d8b5ebf1acb6c4703c3dccf21}{%
-           family={Singh},
-           familyi={S\bibinitperiod},
-           given={Nirmala},
-           giveni={N\bibinitperiod},
-           givenun=1}}%
-      }
-      \strng{namehash}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{fullhash}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{fullhashraw}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{bibnamehash}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{authorbibnamehash}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{authornamehash}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{authorfullhash}{f1d655631c74d16ea1635f0db300dbaf}
-      \strng{authorfullhashraw}{f1d655631c74d16ea1635f0db300dbaf}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{2012 International Conference on Communication, Information \& Computing Technology (ICCICT)}
-      \field{title}{Big Data analytics}
-      \field{year}{2012}
-      \field{pages}{1\bibrangedash 4}
-      \range{pages}{4}
-    \endentry
     \entry{SmithBoyle.24.07.2023}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=667f5d3b288ce07290671f613693c51a}{%
@@ -5883,7 +5608,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-8407-7}
-      \field{journaltitle}{2022 2nd International Conference on Intelligent Technologies (CONIT)}
+      \field{journaltitle}{IEEE CONIT}
       \field{title}{Torsion: Web Reconnaissance using Open Source Intelligence}
       \field{year}{2022}
       \field{pages}{1\bibrangedash 4}
@@ -6030,7 +5755,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{2023 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT {\&} NCON)}
+      \field{journaltitle}{IEEE ECTI DAMT {\&} NCON}
       \field{title}{Machine learning-based classification of competitors performance: evidence from Chinese logistics companies}
       \field{year}{2023}
       \field{pages}{131\bibrangedash 137}
@@ -6117,7 +5842,7 @@
         {Cham}%
       }
       \list{publisher}{1}{%
-        {Springer International Publishing}%
+        {Springer}%
       }
       \strng{namehash}{e4291cd81a48b9b79267fbc93e6fbd42}
       \strng{fullhash}{5d38d92c34184bee8e528968e2963293}
@@ -6221,7 +5946,6 @@
       \field{labeltitlesource}{title}
       \field{series}{Research reports}
       \field{title}{Defining Second Generation Open Source Intelligence (OSINT) for the Defense Enterprise}
-      \field{volume}{RR-1964-OSD}
       \field{year}{2018}
     \endentry
     \entry{Wittmer.2022}{inbook}{}{}
@@ -6261,7 +5985,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Die Möglichkeiten für Cyberkriminelle, Straftaten im Internet anonym zu begehen, haben mit der Entwicklung von Darknet-Technologien erheblich zugenommen. Zur Aufklärung dieser Straftaten kommt aus technischer Perspektive die Nutzung von Open Source Intelligence (OSINT) in Betracht. Diese Methode bezeichnet einen Vorgang, bei dem Daten aus öffentlich zugänglichen Quellen gesammelt werden, um durch deren Auswertung an ermittlungsrelevante Erkenntnisse zu gelangen. Der folgende Beitrag thematisiert die Nutzung von OSINT zur Strafverfolgung im Darknet und wirft die Frage auf, was nach dem aktuellen Stand der Technik möglich und was auf Grundlage der geltenden strafprozessualen Vorgaben rechtlich zulässig ist. Die Verfasser*innen kommen zu dem Ergebnis, dass ein legislatives {\glqq}Update{\grqq} der StPO unvermeidbar sein wird, wenn die rechtlichen Vorgaben mit den technischen Möglichkeiten Schritt halten sollen. Dieses Ergebnis wird damit begründet, dass die Nutzung von OSINT aufgrund ihrer grundrechtlichen Eingriffsintensität in vielen Fällen nicht mehr auf die Ermittlungsgeneralklausel der {§}{§} 161, 163 StPO gestützt werden kann.}
-      \field{booktitle}{{INFORMATIK 2022, Lecture Notes in Informatics (LNI), Gesellschaft für Informatik}}
+      \field{booktitle}{{INFORMATIK (LNI)}}
       \field{title}{{Zulässigkeit von Open Source-Ermittlungen zur Strafverfolgung im Darknet}}
       \field{year}{2022}
       \field{dateera}{ce}
@@ -6312,7 +6036,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-7281-1056-1}
-      \field{journaltitle}{2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)}
+      \field{journaltitle}{2020 IEEE/ACM Int. Conf. ASONAM}
       \field{title}{Project Umbra}
       \field{year}{2020}
       \field{pages}{748\bibrangedash 751}
@@ -6413,7 +6137,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-7480-1}
-      \field{journaltitle}{2022 7th IEEE International Conference on Data Science in Cyberspace (DSC)}
+      \field{journaltitle}{7th IEEE DSC}
       \field{title}{NiNSRAPM: An Ensemble Learning Based Non-intrusive Network Security Risk Assessment Prediction Model}
       \field{year}{2022}
       \field{pages}{17\bibrangedash 23}
