@@ -58,15 +58,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-1-7281-6251-5}
       \field{journaltitle}{2020 IEEE International Conference on Big Data (Big Data)}
       \field{title}{Exploring Open Source Information for Cyber Threat Intelligence}
       \field{year}{2020}
       \field{pages}{2232\bibrangedash 2241}
       \range{pages}{10}
-      \verb{doi}
-      \verb 10.1109/BigData50022.2020.9378220
-      \endverb
     \endentry
     \entry{Ahuja.2022}{article}{}{}
       \name{author}{4}{}{%
@@ -113,9 +109,6 @@
       \field{year}{2022}
       \field{pages}{1458\bibrangedash 1463}
       \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/ICAIS53314.2022.9742767
-      \endverb
     \endentry
     \entry{AlKilani.2021}{inbook}{}{}
       \name{author}{2}{}{%
@@ -180,14 +173,10 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International Conference on Data Science, E-learning and Information Systems 2021}
-      \field{isbn}{9781450388382}
       \field{title}{OSINT Techniques Integration with Risk Assessment ISO/IEC 27001}
       \field{year}{2021}
       \field{pages}{82\bibrangedash 86}
       \range{pages}{5}
-      \verb{doi}
-      \verb 10.1145/3460620.3460736
-      \endverb
     \endentry
     \entry{Arjun.2020}{article}{}{}
       \name{author}{5}{}{%
@@ -246,9 +235,6 @@
       \field{year}{2020}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/ICCCSP49186.2020.9315266
-      \endverb
     \endentry
     \entry{Bai.2020}{article}{}{}
       \name{author}{4}{}{%
@@ -301,9 +287,6 @@
       \field{year}{2020}
       \field{pages}{458\bibrangedash 464}
       \range{pages}{7}
-      \verb{doi}
-      \verb 10.1109/ICCASIT50869.2020.9368596
-      \endverb
     \endentry
     \entry{Bar.2023}{article}{}{}
       \name{author}{6}{}{%
@@ -371,9 +354,6 @@
       \field{year}{2023}
       \field{pages}{163\bibrangedash 173}
       \range{pages}{11}
-      \verb{doi}
-      \verb 10.1145/3578503.3583604
-      \endverb
     \endentry
     \entry{Benes.2013}{article}{}{}
       \name{author}{1}{}{%
@@ -407,9 +387,6 @@
       \field{year}{2013}
       \field{pages}{22\bibrangedash 37}
       \range{pages}{16}
-      \verb{doi}
-      \verb 10.5038/1944-0472.6.3S.3
-      \endverb
     \endentry
     \entry{Billings.1997}{book}{}{}
       \name{author}{1}{}{%
@@ -441,7 +418,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{9780805821277}
       \field{series}{Human factors in transportation}
       \field{title}{Aviation automation: The search for a human-centered approach}
       \field{year}{1997}
@@ -474,8 +450,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{3-8322-3480-2}
-      \field{series}{Schriftenreihe Rationalisierung und Humanisierung}
-      \field{title}{Entwicklung einer Methodik zur integrierten Planung von Informationstechnologie-Einsatz und intermediären Informationsdienstleistungen im elektronischen Geschäftsverkehr}
+      \field{series}{{Schriftenreihe Rationalisierung und Humanisierung}}
+      \field{title}{{Entwicklung einer Methodik zur integrierten Planung von Informationstechnologie-Einsatz und intermediären Informationsdienstleistungen im elektronischen Geschäftsverkehr}}
       \field{volume}{72}
       \field{year}{2004}
     \endentry
@@ -536,15 +512,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Das Experteninterview}
+      \field{booktitle}{{Das Experteninterview}}
       \field{isbn}{978-3-8100-3200-3}
-      \field{title}{Das theoriegenerierende Experteninterview}
+      \field{title}{{Das theoriegenerierende Experteninterview}}
       \field{year}{2002}
       \field{pages}{33\bibrangedash 70}
       \range{pages}{38}
-      \verb{doi}
-      \verb 10.1007/978-3-322-93270-9{\textunderscore }2
-      \endverb
     \endentry
     \entry{Bogner.2002c}{book}{}{}
       \name{author}{3}{}{%
@@ -589,12 +562,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-3-8100-3200-3}
-      \field{title}{Das Experteninterview}
+      \field{title}{{Das Experteninterview}}
       \field{year}{2002}
-      \verb{doi}
-      \verb 10.1007/978-3-322-93270-9
-      \endverb
     \endentry
     \entry{Bogner.2014}{book}{}{}
       \name{author}{3}{}{%
@@ -640,11 +609,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-3-531-19415-8}
-      \field{title}{Interviews mit Experten: Eine praxisorientierte Einführung}
+      \field{title}{{Interviews mit Experten: Eine praxisorientierte Einführung}}
       \field{year}{2014}
-      \verb{doi}
-      \verb 10.1007/978-3-531-19416-5
-      \endverb
     \endentry
     \entry{Bohm.2021}{article}{}{}
       \name{author}{2}{}{%
@@ -683,9 +649,6 @@
       \field{year}{2021}
       \field{pages}{317\bibrangedash 337}
       \range{pages}{21}
-      \verb{doi}
-      \verb 10.1365/s43439-021-00042-7
-      \endverb
     \endentry
     \entry{Breakspear.2013}{article}{}{}
       \name{author}{1}{}{%
@@ -719,9 +682,6 @@
       \field{year}{2013}
       \field{pages}{678\bibrangedash 693}
       \range{pages}{16}
-      \verb{doi}
-      \verb 10.1080/02684527.2012.699285
-      \endverb
     \endentry
     \entry{CentralIntelligenceAgency.1987}{book}{}{}
       \name{author}{1}{}{%
@@ -866,9 +826,6 @@
       \field{year}{1988}
       \field{pages}{104\bibrangedash 126}
       \range{pages}{23}
-      \verb{doi}
-      \verb 10.1007/BF03177550
-      \endverb
     \endentry
     \entry{Dale.2023}{article}{}{}
       \name{author}{3}{}{%
@@ -915,9 +872,6 @@
       \field{year}{2023}
       \field{pages}{436\bibrangedash 442}
       \range{pages}{7}
-      \verb{doi}
-      \verb 10.1109/ICNC57223.2023.10074187
-      \endverb
     \endentry
     \entry{Delen.2013}{article}{}{}
       \name{author}{2}{}{%
@@ -957,9 +911,6 @@
       \field{year}{2013}
       \field{pages}{359\bibrangedash 363}
       \range{pages}{5}
-      \verb{doi}
-      \verb 10.1016/j.dss.2012.05.044
-      \endverb
     \endentry
     \entry{Dokman.2020}{article}{}{}
       \name{author}{2}{}{%
@@ -998,9 +949,6 @@
       \field{series}{International Conference The Future of Information Sciences INFuture}
       \field{title}{Open Source Intelligence (OSINT): issues and trends}
       \field{year}{2020}
-      \verb{doi}
-      \verb 10.17234/INFUTURE.2019.23
-      \endverb
     \endentry
     \entry{DosPassos.2017}{article}{}{}
       \name{author}{1}{}{%
@@ -1033,9 +981,6 @@
       \field{year}{2017}
       \field{pages}{392\bibrangedash 396}
       \range{pages}{5}
-      \verb{doi}
-      \verb 10.20985/1980-5160.2016.v11n4.1026
-      \endverb
     \endentry
     \entry{Duncheon.2002}{article}{}{}
       \name{author}{1}{}{%
@@ -1069,9 +1014,6 @@
       \field{year}{2002}
       \field{pages}{16\bibrangedash 20}
       \range{pages}{5}
-      \verb{doi}
-      \verb 10.1108/01445150210697096
-      \endverb
     \endentry
     \entry{Elgendy.2014}{inbook}{}{}
       \name{author}{2}{}{%
@@ -1109,9 +1051,6 @@
       \field{year}{2014}
       \field{pages}{214\bibrangedash 227}
       \range{pages}{14}
-      \verb{doi}
-      \verb 10.1007/978-3-319-08976-8{\textunderscore }16
-      \endverb
     \endentry
     \entry{Elmas.2022}{article}{}{}
       \name{author}{5}{}{%
@@ -1170,9 +1109,6 @@
       \field{year}{2022}
       \field{pages}{391\bibrangedash 395}
       \range{pages}{5}
-      \verb{doi}
-      \verb 10.1109/ASONAM55673.2022.10068665
-      \endverb
     \endentry
     \entry{Endsley.1999}{article}{}{}
       \name{author}{2}{}{%
@@ -1213,9 +1149,6 @@
       \field{year}{1999}
       \field{pages}{462\bibrangedash 492}
       \range{pages}{31}
-      \verb{doi}
-      \verb 10.1080/001401399185595
-      \endverb
     \endentry
     \entry{EuropeanCommission.18.08.2023}{article}{}{}
       \name{author}{1}{}{%
@@ -1342,9 +1275,6 @@
       \field{year}{2020}
       \field{pages}{113132}
       \range{pages}{1}
-      \verb{doi}
-      \verb 10.1016/j.dss.2019.113132
-      \endverb
     \endentry
     \entry{Ghioni.2023}{article}{}{}
       \name{author}{3}{}{%
@@ -1384,14 +1314,11 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Today, open source intelligence (OSINT), i.e., information derived from publicly available sources, makes up between 80 and 90 percent of all intelligence activities carried out by Law Enforcement Agencies (LEAs) and intelligence services in the West. Developments in data mining, machine learning, visual forensics and, most importantly, the growing computing power available for commercial use, have enabled OSINT practitioners to speed up, and sometimes even automate, intelligence collection and analysis, obtaining more accurate results more quickly. As the infosphere expands to accommodate ever-increasing online presence, so does the pool of actionable OSINT. These developments raise important concerns in terms of governance, ethical, legal, and social implications (GELSI). New and crucial oversight concerns emerge alongside standard privacy concerns, as some of the more advanced data analysis tools require little to no supervision. This article offers a systematic review of the relevant literature. It analyzes 571 publications to assess the current state of the literature on the use of AI-powered OSINT (and the development of OSINT software) as it relates to the GELSI framework, highlighting potential gaps and suggesting new research directions.}
       \field{issn}{0951-5666}
-      \field{journaltitle}{AI {\&} society}
+      \field{journaltitle}{{AI {\&} Society}}
       \field{title}{Open source intelligence and AI: a systematic review of the GELSI literature﻿}
       \field{year}{2023}
       \field{pages}{1\bibrangedash 16}
       \range{pages}{16}
-      \verb{doi}
-      \verb 10.1007/s00146-023-01628-x
-      \endverb
     \endentry
     \entry{Gibson.2016}{inbook}{}{}
       \name{author}{1}{}{%
@@ -1451,9 +1378,6 @@
       \field{year}{2016}
       \field{pages}{69\bibrangedash 93}
       \range{pages}{25}
-      \verb{doi}
-      \verb 10.1007/978-3-319-47671-1{\textunderscore }6
-      \endverb
     \endentry
     \entry{Glaser.1967}{book}{}{}
       \name{author}{2}{}{%
@@ -1491,7 +1415,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{0-202-30260-1}
       \field{series}{Observations}
       \field{title}{The discovery of grounded theory: Strategies for qualitative research}
       \field{year}{1967}
@@ -1532,9 +1455,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Viele sozialwissenschaftliche Untersuchungen beruhen auf Rekonstruktionen von Situationen oder Prozessen. Das Lehrbuch vermittelt anhand zweier Beispieluntersuchungen anwendungsbereites Wissen über alle Phasen solcher rekonstruierender Untersuchungen und stellt je eine Erhebungs- und eine Auswertungsmethode ausführlich dar. Die Interviewpartner werden als Experten aufgefasst, die über spezifisches Wissen über die zu rekonstruierenden Sachverhalte verfügen. Die qualitative Inhaltsanalyse ermöglicht eine systematische Extraktion relevanter Informationen aus den Interviews und ist zugleich offen für nicht erwartete Befunde. Mit Lernfragen nach jedem Kapitel und einer übersichtlichen Gliederung eignet sich das Buch als praxisorientierte Einführung.}
       \field{edition}{3., überarb. Aufl.}
-      \field{isbn}{978-3-531-15684-2}
       \field{series}{Lehrbuch}
       \field{title}{Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}
       \field{year}{2009}
@@ -1582,9 +1503,6 @@
       \field{year}{2020}
       \field{pages}{7617}
       \range{pages}{1}
-      \verb{doi}
-      \verb 10.3390/app10217617
-      \endverb
     \endentry
     \entry{Hu.2023}{article}{}{}
       \name{author}{6}{}{%
@@ -1646,9 +1564,6 @@
       \field{year}{2023}
       \field{pages}{1378\bibrangedash 1382}
       \range{pages}{5}
-      \verb{doi}
-      \verb 10.1109/EEBDA56825.2023.10090635
-      \endverb
     \endentry
     \entry{Hubbard.2022}{article}{}{}
       \name{author}{3}{}{%
@@ -1695,9 +1610,6 @@
       \field{year}{2022}
       \field{pages}{90\bibrangedash 95}
       \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/CSR54599.2022.9850311
-      \endverb
     \endentry
     \entry{Hwang.2022}{article}{}{}
       \name{author}{5}{}{%
@@ -1747,16 +1659,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{1530-8669}
       \field{journaltitle}{Wireless Communications and Mobile Computing}
       \field{title}{Current Status and Security Trend of OSINT}
       \field{volume}{2022}
       \field{year}{2022}
       \field{pages}{1\bibrangedash 14}
       \range{pages}{14}
-      \verb{doi}
-      \verb 10.1155/2022/1290129
-      \endverb
     \endentry
     \entry{Iorga.2020}{article}{}{}
       \name{author}{6}{}{%
@@ -1815,15 +1723,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-0-7381-1265-7}
       \field{journaltitle}{2020 19th RoEduNet Conference: Networking in Education and Research (RoEduNet)}
       \field{title}{Early Detection of Vulnerabilities from News Websites using Machine Learning Models}
       \field{year}{2020}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/ROEDUNET51892.2020.9324852
-      \endverb
     \endentry
     \entry{Ish.2022}{book}{}{}
       \name{author}{3}{}{%
@@ -1867,7 +1771,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-1-9774-0725-2}
       \field{title}{Evaluating the Effectiveness of Artificial Intelligence Systems in Intelligence Analysis}
       \field{volume}{RR-A464-1}
       \field{year}{2022}
@@ -1911,15 +1814,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-1-6654-9988-0}
       \field{journaltitle}{2021 International Carnahan Conference on Security Technology (ICCST)}
       \field{title}{Designing a Modular and Distributed Web Crawler Focused on Unstructured Cybersecurity Intelligence}
       \field{year}{2021}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/ICCST49569.2021.9717379
-      \endverb
     \endentry
     \entry{kayser2024}{misc}{}{}
       \name{author}{1}{}{%
@@ -2002,9 +1901,6 @@
       \field{year}{2020}
       \field{pages}{e18939}
       \range{pages}{-1}
-      \verb{doi}
-      \verb 10.2196/18939
-      \endverb
     \endentry
     \entry{Kuehn.2023}{article}{}{}
       \name{author}{4}{}{%
@@ -2100,9 +1996,6 @@
       \field{year}{2018}
       \field{pages}{961\bibrangedash 971}
       \range{pages}{11}
-      \verb{doi}
-      \verb 10.1016/j.asoc.2017.04.055
-      \endverb
     \endentry
     \entry{Lowenthal.2020}{book}{}{}
       \name{author}{1}{}{%
@@ -2136,7 +2029,6 @@
       \field{labeltitlesource}{title}
       \field{abstract}{{"}Mark M. Lowenthal's trusted guide is the go-to resource for understanding how the intelligence community's history, structure, procedures, and functions affect policy decisions. In this Eighth Edition, the author addresses cyber security and cyber intelligence throughout, expands the coverage of collection, comprehensively updates the chapters on nation state issues and transnational issues, and looks at foreign intelligence services, both large and small{"}}
       \field{edition}{Eighth edition}
-      \field{isbn}{978-1544325064}
       \field{title}{Intelligence: From secrets to policy}
       \field{year}{2020}
     \endentry
@@ -2181,9 +2073,6 @@
       \field{title}{Research on Domain-Specific Knowledge Graph Based on the RoBERTa-wwm-ext Pretraining Model}
       \field{volume}{2022}
       \field{year}{2022}
-      \verb{doi}
-      \verb 10.1155/2022/8656013
-      \endverb
     \endentry
     \entry{Mercado.2005}{article}{}{}
       \name{author}{1}{}{%
@@ -2245,7 +2134,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{ExpertInneninterviews - vielfach erprobt, wenig bedacht: ein Beitrag zur qualitativen Methodendiskussion}
+      \field{title}{{ExpertInneninterviews - vielfach erprobt, wenig bedacht: ein Beitrag zur qualitativen Methodendiskussion}}
       \field{year}{1991}
       \field{pages}{441\bibrangedash 471}
       \range{pages}{31}
@@ -2298,15 +2187,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{9781450379946}
       \field{journaltitle}{12th ACM Conference on Web Science Companion}
       \field{title}{Information Extraction from the Long Tail}
       \field{year}{2020}
       \field{pages}{82\bibrangedash 88}
       \range{pages}{7}
-      \verb{doi}
-      \verb 10.1145/3394332.3402838
-      \endverb
     \endentry
     \entry{Nobili.2021}{article}{}{}
       \name{author}{6}{}{%
@@ -2365,15 +2250,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-1-6654-2621-3}
       \field{journaltitle}{2021 International Conference on Cyber-Physical Social Intelligence (ICCSI)}
       \field{title}{An OSINT platform to analyse violence against workers in public trasportation}
       \field{year}{2021}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/ICCSI53130.2021.9736240
-      \endverb
     \endentry
     \entry{NorthAtlanticTreatyOrganization.2001}{book}{}{}
       \name{author}{1}{}{%
@@ -2524,9 +2405,6 @@
       \field{year}{2020}
       \field{pages}{10282\bibrangedash 10304}
       \range{pages}{23}
-      \verb{doi}
-      \verb 10.1109/ACCESS.2020.2965257
-      \endverb
     \endentry
     \entry{Peffers.2007}{article}{}{}
       \name{author}{4}{}{%
@@ -2578,9 +2456,6 @@
       \field{year}{2007}
       \field{pages}{45\bibrangedash 77}
       \range{pages}{33}
-      \verb{doi}
-      \verb 10.2753/MIS0742-1222240302
-      \endverb
     \endentry
     \entry{Phythian.2013}{book}{}{}
       \name{editor}{1}{}{%
@@ -2824,9 +2699,6 @@
       \field{year}{2012}
       \field{pages}{1\bibrangedash 4}
       \range{pages}{4}
-      \verb{doi}
-      \verb 10.1109/ICCICT.2012.6398180
-      \endverb
     \endentry
     \entry{SmithBoyle.24.07.2023}{article}{}{}
       \name{author}{1}{}{%
@@ -2908,9 +2780,6 @@
       \field{year}{2022}
       \field{pages}{1\bibrangedash 4}
       \range{pages}{4}
-      \verb{doi}
-      \verb 10.1109/CONIT55038.2022.9848337
-      \endverb
     \endentry
     \entry{Sonnenberg.2012}{inbook}{}{}
       \name{author}{2}{}{%
@@ -2948,9 +2817,6 @@
       \field{year}{2012}
       \field{pages}{381\bibrangedash 397}
       \range{pages}{17}
-      \verb{doi}
-      \verb 10.1007/978-3-642-29863-9{\textunderscore }28
-      \endverb
     \endentry
     \entry{Stich.2022}{book}{}{}
       \name{author}{5}{}{%
@@ -3056,15 +2922,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{979-8-3503-9654-6}
       \field{journaltitle}{2023 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT {\&} NCON)}
       \field{title}{Machine learning-based classification of competitors performance: evidence from Chinese logistics companies}
       \field{year}{2023}
       \field{pages}{131\bibrangedash 137}
       \range{pages}{7}
-      \verb{doi}
-      \verb 10.1109/ECTIDAMTNCON57770.2023.10139375
-      \endverb
     \endentry
     \entry{JointChiefsofStaffU.S.Army.2013}{inbook}{}{}
       \name{author}{1}{}{%
@@ -3175,9 +3037,6 @@
       \field{year}{2020}
       \field{pages}{1\bibrangedash 13}
       \range{pages}{13}
-      \verb{doi}
-      \verb 10.1007/978-3-030-46781-4{\textunderscore }1
-      \endverb
     \endentry
     \entry{Webster.2002}{article}{}{}
       \name{author}{3}{}{%
@@ -3252,7 +3111,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-0-8330-9883-2}
       \field{series}{Research reports}
       \field{title}{Defining Second Generation Open Source Intelligence (OSINT) for the Defense Enterprise}
       \field{volume}{RR-1964-OSD}
@@ -3299,9 +3157,6 @@
       \field{title}{{Zulässigkeit von Open Source-Ermittlungen zur Strafverfolgung im Darknet}}
       \field{year}{2022}
       \field{dateera}{ce}
-      \verb{doi}
-      \verb 10.18420/inf2022{\textunderscore }47
-      \endverb
     \endentry
     \entry{Wright.2020}{article}{}{}
       \name{author}{4}{}{%
@@ -3354,9 +3209,6 @@
       \field{year}{2020}
       \field{pages}{748\bibrangedash 751}
       \range{pages}{4}
-      \verb{doi}
-      \verb 10.1109/ASONAM49781.2020.9381427
-      \endverb
     \endentry
     \entry{wulfmettbrenn2017}{article}{}{}
       \name{author}{3}{}{%
@@ -3458,9 +3310,6 @@
       \field{year}{2022}
       \field{pages}{17\bibrangedash 23}
       \range{pages}{7}
-      \verb{doi}
-      \verb 10.1109/DSC55868.2022.00010
-      \endverb
     \endentry
     \entry{Yogish.2021}{article}{}{}
       \name{author}{2}{}{%
@@ -3492,11 +3341,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Applied Engineering and Management Letters}
+      \field{number}{2}
       \field{title}{Open Source Intelligence and its Applications in Next Generation Cyber Security - A Literature Review}
+      \field{volume}{5}
       \field{year}{2021}
-      \verb{doi}
-      \verb 10.5281/zenodo.5171580
-      \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
@@ -3539,15 +3388,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-1-7281-6251-5}
       \field{journaltitle}{2020 IEEE International Conference on Big Data (Big Data)}
       \field{title}{Exploring Open Source Information for Cyber Threat Intelligence}
       \field{year}{2020}
       \field{pages}{2232\bibrangedash 2241}
       \range{pages}{10}
-      \verb{doi}
-      \verb 10.1109/BigData50022.2020.9378220
-      \endverb
     \endentry
     \entry{Ahuja.2022}{article}{}{}
       \name{author}{4}{}{%
@@ -3594,9 +3439,6 @@
       \field{year}{2022}
       \field{pages}{1458\bibrangedash 1463}
       \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/ICAIS53314.2022.9742767
-      \endverb
     \endentry
     \entry{AlKilani.2021}{inbook}{}{}
       \name{author}{2}{}{%
@@ -3661,14 +3503,10 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International Conference on Data Science, E-learning and Information Systems 2021}
-      \field{isbn}{9781450388382}
       \field{title}{OSINT Techniques Integration with Risk Assessment ISO/IEC 27001}
       \field{year}{2021}
       \field{pages}{82\bibrangedash 86}
       \range{pages}{5}
-      \verb{doi}
-      \verb 10.1145/3460620.3460736
-      \endverb
     \endentry
     \entry{Arjun.2020}{article}{}{}
       \name{author}{5}{}{%
@@ -3727,9 +3565,6 @@
       \field{year}{2020}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/ICCCSP49186.2020.9315266
-      \endverb
     \endentry
     \entry{Bai.2020}{article}{}{}
       \name{author}{4}{}{%
@@ -3782,9 +3617,6 @@
       \field{year}{2020}
       \field{pages}{458\bibrangedash 464}
       \range{pages}{7}
-      \verb{doi}
-      \verb 10.1109/ICCASIT50869.2020.9368596
-      \endverb
     \endentry
     \entry{Bar.2023}{article}{}{}
       \name{author}{6}{}{%
@@ -3852,9 +3684,6 @@
       \field{year}{2023}
       \field{pages}{163\bibrangedash 173}
       \range{pages}{11}
-      \verb{doi}
-      \verb 10.1145/3578503.3583604
-      \endverb
     \endentry
     \entry{Benes.2013}{article}{}{}
       \name{author}{1}{}{%
@@ -3888,9 +3717,6 @@
       \field{year}{2013}
       \field{pages}{22\bibrangedash 37}
       \range{pages}{16}
-      \verb{doi}
-      \verb 10.5038/1944-0472.6.3S.3
-      \endverb
     \endentry
     \entry{Billings.1997}{book}{}{}
       \name{author}{1}{}{%
@@ -3922,7 +3748,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{9780805821277}
       \field{series}{Human factors in transportation}
       \field{title}{Aviation automation: The search for a human-centered approach}
       \field{year}{1997}
@@ -3955,8 +3780,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{3-8322-3480-2}
-      \field{series}{Schriftenreihe Rationalisierung und Humanisierung}
-      \field{title}{Entwicklung einer Methodik zur integrierten Planung von Informationstechnologie-Einsatz und intermediären Informationsdienstleistungen im elektronischen Geschäftsverkehr}
+      \field{series}{{Schriftenreihe Rationalisierung und Humanisierung}}
+      \field{title}{{Entwicklung einer Methodik zur integrierten Planung von Informationstechnologie-Einsatz und intermediären Informationsdienstleistungen im elektronischen Geschäftsverkehr}}
       \field{volume}{72}
       \field{year}{2004}
     \endentry
@@ -4003,12 +3828,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-3-8100-3200-3}
-      \field{title}{Das Experteninterview}
+      \field{title}{{Das Experteninterview}}
       \field{year}{2002}
-      \verb{doi}
-      \verb 10.1007/978-3-322-93270-9
-      \endverb
     \endentry
     \entry{Bogner.2014}{book}{}{}
       \name{author}{3}{}{%
@@ -4054,11 +3875,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-3-531-19415-8}
-      \field{title}{Interviews mit Experten: Eine praxisorientierte Einführung}
+      \field{title}{{Interviews mit Experten: Eine praxisorientierte Einführung}}
       \field{year}{2014}
-      \verb{doi}
-      \verb 10.1007/978-3-531-19416-5
-      \endverb
     \endentry
     \entry{Bogner.2002b}{inbook}{}{}
       \name{author}{2}{}{%
@@ -4117,15 +3935,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Das Experteninterview}
+      \field{booktitle}{{Das Experteninterview}}
       \field{isbn}{978-3-8100-3200-3}
-      \field{title}{Das theoriegenerierende Experteninterview}
+      \field{title}{{Das theoriegenerierende Experteninterview}}
       \field{year}{2002}
       \field{pages}{33\bibrangedash 70}
       \range{pages}{38}
-      \verb{doi}
-      \verb 10.1007/978-3-322-93270-9{\textunderscore }2
-      \endverb
     \endentry
     \entry{Bohm.2021}{article}{}{}
       \name{author}{2}{}{%
@@ -4164,9 +3979,6 @@
       \field{year}{2021}
       \field{pages}{317\bibrangedash 337}
       \range{pages}{21}
-      \verb{doi}
-      \verb 10.1365/s43439-021-00042-7
-      \endverb
     \endentry
     \entry{Breakspear.2013}{article}{}{}
       \name{author}{1}{}{%
@@ -4200,9 +4012,6 @@
       \field{year}{2013}
       \field{pages}{678\bibrangedash 693}
       \range{pages}{16}
-      \verb{doi}
-      \verb 10.1080/02684527.2012.699285
-      \endverb
     \endentry
     \entry{CentralIntelligenceAgency.1987}{book}{}{}
       \name{author}{1}{}{%
@@ -4347,9 +4156,6 @@
       \field{year}{1988}
       \field{pages}{104\bibrangedash 126}
       \range{pages}{23}
-      \verb{doi}
-      \verb 10.1007/BF03177550
-      \endverb
     \endentry
     \entry{Dale.2023}{article}{}{}
       \name{author}{3}{}{%
@@ -4396,9 +4202,6 @@
       \field{year}{2023}
       \field{pages}{436\bibrangedash 442}
       \range{pages}{7}
-      \verb{doi}
-      \verb 10.1109/ICNC57223.2023.10074187
-      \endverb
     \endentry
     \entry{Delen.2013}{article}{}{}
       \name{author}{2}{}{%
@@ -4438,9 +4241,6 @@
       \field{year}{2013}
       \field{pages}{359\bibrangedash 363}
       \range{pages}{5}
-      \verb{doi}
-      \verb 10.1016/j.dss.2012.05.044
-      \endverb
     \endentry
     \entry{Dokman.2020}{article}{}{}
       \name{author}{2}{}{%
@@ -4479,9 +4279,6 @@
       \field{series}{International Conference The Future of Information Sciences INFuture}
       \field{title}{Open Source Intelligence (OSINT): issues and trends}
       \field{year}{2020}
-      \verb{doi}
-      \verb 10.17234/INFUTURE.2019.23
-      \endverb
     \endentry
     \entry{DosPassos.2017}{article}{}{}
       \name{author}{1}{}{%
@@ -4514,9 +4311,6 @@
       \field{year}{2017}
       \field{pages}{392\bibrangedash 396}
       \range{pages}{5}
-      \verb{doi}
-      \verb 10.20985/1980-5160.2016.v11n4.1026
-      \endverb
     \endentry
     \entry{Duncheon.2002}{article}{}{}
       \name{author}{1}{}{%
@@ -4550,9 +4344,6 @@
       \field{year}{2002}
       \field{pages}{16\bibrangedash 20}
       \range{pages}{5}
-      \verb{doi}
-      \verb 10.1108/01445150210697096
-      \endverb
     \endentry
     \entry{Elgendy.2014}{inbook}{}{}
       \name{author}{2}{}{%
@@ -4590,9 +4381,6 @@
       \field{year}{2014}
       \field{pages}{214\bibrangedash 227}
       \range{pages}{14}
-      \verb{doi}
-      \verb 10.1007/978-3-319-08976-8{\textunderscore }16
-      \endverb
     \endentry
     \entry{Elmas.2022}{article}{}{}
       \name{author}{5}{}{%
@@ -4651,9 +4439,6 @@
       \field{year}{2022}
       \field{pages}{391\bibrangedash 395}
       \range{pages}{5}
-      \verb{doi}
-      \verb 10.1109/ASONAM55673.2022.10068665
-      \endverb
     \endentry
     \entry{Endsley.1999}{article}{}{}
       \name{author}{2}{}{%
@@ -4694,9 +4479,6 @@
       \field{year}{1999}
       \field{pages}{462\bibrangedash 492}
       \range{pages}{31}
-      \verb{doi}
-      \verb 10.1080/001401399185595
-      \endverb
     \endentry
     \entry{EuropeanCommission.18.08.2023}{article}{}{}
       \name{author}{1}{}{%
@@ -4823,9 +4605,6 @@
       \field{year}{2020}
       \field{pages}{113132}
       \range{pages}{1}
-      \verb{doi}
-      \verb 10.1016/j.dss.2019.113132
-      \endverb
     \endentry
     \entry{Ghioni.2023}{article}{}{}
       \name{author}{3}{}{%
@@ -4865,14 +4644,11 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Today, open source intelligence (OSINT), i.e., information derived from publicly available sources, makes up between 80 and 90 percent of all intelligence activities carried out by Law Enforcement Agencies (LEAs) and intelligence services in the West. Developments in data mining, machine learning, visual forensics and, most importantly, the growing computing power available for commercial use, have enabled OSINT practitioners to speed up, and sometimes even automate, intelligence collection and analysis, obtaining more accurate results more quickly. As the infosphere expands to accommodate ever-increasing online presence, so does the pool of actionable OSINT. These developments raise important concerns in terms of governance, ethical, legal, and social implications (GELSI). New and crucial oversight concerns emerge alongside standard privacy concerns, as some of the more advanced data analysis tools require little to no supervision. This article offers a systematic review of the relevant literature. It analyzes 571 publications to assess the current state of the literature on the use of AI-powered OSINT (and the development of OSINT software) as it relates to the GELSI framework, highlighting potential gaps and suggesting new research directions.}
       \field{issn}{0951-5666}
-      \field{journaltitle}{AI {\&} society}
+      \field{journaltitle}{{AI {\&} Society}}
       \field{title}{Open source intelligence and AI: a systematic review of the GELSI literature﻿}
       \field{year}{2023}
       \field{pages}{1\bibrangedash 16}
       \range{pages}{16}
-      \verb{doi}
-      \verb 10.1007/s00146-023-01628-x
-      \endverb
     \endentry
     \entry{Gibson.2016}{inbook}{}{}
       \name{author}{1}{}{%
@@ -4932,9 +4708,6 @@
       \field{year}{2016}
       \field{pages}{69\bibrangedash 93}
       \range{pages}{25}
-      \verb{doi}
-      \verb 10.1007/978-3-319-47671-1{\textunderscore }6
-      \endverb
     \endentry
     \entry{Glaser.1967}{book}{}{}
       \name{author}{2}{}{%
@@ -4972,7 +4745,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{0-202-30260-1}
       \field{series}{Observations}
       \field{title}{The discovery of grounded theory: Strategies for qualitative research}
       \field{year}{1967}
@@ -5013,9 +4785,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Viele sozialwissenschaftliche Untersuchungen beruhen auf Rekonstruktionen von Situationen oder Prozessen. Das Lehrbuch vermittelt anhand zweier Beispieluntersuchungen anwendungsbereites Wissen über alle Phasen solcher rekonstruierender Untersuchungen und stellt je eine Erhebungs- und eine Auswertungsmethode ausführlich dar. Die Interviewpartner werden als Experten aufgefasst, die über spezifisches Wissen über die zu rekonstruierenden Sachverhalte verfügen. Die qualitative Inhaltsanalyse ermöglicht eine systematische Extraktion relevanter Informationen aus den Interviews und ist zugleich offen für nicht erwartete Befunde. Mit Lernfragen nach jedem Kapitel und einer übersichtlichen Gliederung eignet sich das Buch als praxisorientierte Einführung.}
       \field{edition}{3., überarb. Aufl.}
-      \field{isbn}{978-3-531-15684-2}
       \field{series}{Lehrbuch}
       \field{title}{Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen}
       \field{year}{2009}
@@ -5063,9 +4833,6 @@
       \field{year}{2020}
       \field{pages}{7617}
       \range{pages}{1}
-      \verb{doi}
-      \verb 10.3390/app10217617
-      \endverb
     \endentry
     \entry{Hu.2023}{article}{}{}
       \name{author}{6}{}{%
@@ -5127,9 +4894,6 @@
       \field{year}{2023}
       \field{pages}{1378\bibrangedash 1382}
       \range{pages}{5}
-      \verb{doi}
-      \verb 10.1109/EEBDA56825.2023.10090635
-      \endverb
     \endentry
     \entry{Hubbard.2022}{article}{}{}
       \name{author}{3}{}{%
@@ -5176,9 +4940,6 @@
       \field{year}{2022}
       \field{pages}{90\bibrangedash 95}
       \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/CSR54599.2022.9850311
-      \endverb
     \endentry
     \entry{Hwang.2022}{article}{}{}
       \name{author}{5}{}{%
@@ -5228,16 +4989,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{1530-8669}
       \field{journaltitle}{Wireless Communications and Mobile Computing}
       \field{title}{Current Status and Security Trend of OSINT}
       \field{volume}{2022}
       \field{year}{2022}
       \field{pages}{1\bibrangedash 14}
       \range{pages}{14}
-      \verb{doi}
-      \verb 10.1155/2022/1290129
-      \endverb
     \endentry
     \entry{Iorga.2020}{article}{}{}
       \name{author}{6}{}{%
@@ -5296,15 +5053,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-0-7381-1265-7}
       \field{journaltitle}{2020 19th RoEduNet Conference: Networking in Education and Research (RoEduNet)}
       \field{title}{Early Detection of Vulnerabilities from News Websites using Machine Learning Models}
       \field{year}{2020}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/ROEDUNET51892.2020.9324852
-      \endverb
     \endentry
     \entry{Ish.2022}{book}{}{}
       \name{author}{3}{}{%
@@ -5348,7 +5101,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-1-9774-0725-2}
       \field{title}{Evaluating the Effectiveness of Artificial Intelligence Systems in Intelligence Analysis}
       \field{volume}{RR-A464-1}
       \field{year}{2022}
@@ -5392,15 +5144,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-1-6654-9988-0}
       \field{journaltitle}{2021 International Carnahan Conference on Security Technology (ICCST)}
       \field{title}{Designing a Modular and Distributed Web Crawler Focused on Unstructured Cybersecurity Intelligence}
       \field{year}{2021}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/ICCST49569.2021.9717379
-      \endverb
     \endentry
     \entry{kayser2024}{misc}{}{}
       \name{author}{1}{}{%
@@ -5483,9 +5231,6 @@
       \field{year}{2020}
       \field{pages}{e18939}
       \range{pages}{-1}
-      \verb{doi}
-      \verb 10.2196/18939
-      \endverb
     \endentry
     \entry{Kuehn.2023}{article}{}{}
       \name{author}{4}{}{%
@@ -5581,9 +5326,6 @@
       \field{year}{2018}
       \field{pages}{961\bibrangedash 971}
       \range{pages}{11}
-      \verb{doi}
-      \verb 10.1016/j.asoc.2017.04.055
-      \endverb
     \endentry
     \entry{Lowenthal.2020}{book}{}{}
       \name{author}{1}{}{%
@@ -5617,7 +5359,6 @@
       \field{labeltitlesource}{title}
       \field{abstract}{{"}Mark M. Lowenthal's trusted guide is the go-to resource for understanding how the intelligence community's history, structure, procedures, and functions affect policy decisions. In this Eighth Edition, the author addresses cyber security and cyber intelligence throughout, expands the coverage of collection, comprehensively updates the chapters on nation state issues and transnational issues, and looks at foreign intelligence services, both large and small{"}}
       \field{edition}{Eighth edition}
-      \field{isbn}{978-1544325064}
       \field{title}{Intelligence: From secrets to policy}
       \field{year}{2020}
     \endentry
@@ -5662,9 +5403,6 @@
       \field{title}{Research on Domain-Specific Knowledge Graph Based on the RoBERTa-wwm-ext Pretraining Model}
       \field{volume}{2022}
       \field{year}{2022}
-      \verb{doi}
-      \verb 10.1155/2022/8656013
-      \endverb
     \endentry
     \entry{Mercado.2005}{article}{}{}
       \name{author}{1}{}{%
@@ -5726,7 +5464,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{ExpertInneninterviews - vielfach erprobt, wenig bedacht: ein Beitrag zur qualitativen Methodendiskussion}
+      \field{title}{{ExpertInneninterviews - vielfach erprobt, wenig bedacht: ein Beitrag zur qualitativen Methodendiskussion}}
       \field{year}{1991}
       \field{pages}{441\bibrangedash 471}
       \range{pages}{31}
@@ -5779,15 +5517,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{9781450379946}
       \field{journaltitle}{12th ACM Conference on Web Science Companion}
       \field{title}{Information Extraction from the Long Tail}
       \field{year}{2020}
       \field{pages}{82\bibrangedash 88}
       \range{pages}{7}
-      \verb{doi}
-      \verb 10.1145/3394332.3402838
-      \endverb
     \endentry
     \entry{Nobili.2021}{article}{}{}
       \name{author}{6}{}{%
@@ -5846,15 +5580,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-1-6654-2621-3}
       \field{journaltitle}{2021 International Conference on Cyber-Physical Social Intelligence (ICCSI)}
       \field{title}{An OSINT platform to analyse violence against workers in public trasportation}
       \field{year}{2021}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/ICCSI53130.2021.9736240
-      \endverb
     \endentry
     \entry{NorthAtlanticTreatyOrganization.2001}{book}{}{}
       \name{author}{1}{}{%
@@ -6005,9 +5735,6 @@
       \field{year}{2020}
       \field{pages}{10282\bibrangedash 10304}
       \range{pages}{23}
-      \verb{doi}
-      \verb 10.1109/ACCESS.2020.2965257
-      \endverb
     \endentry
     \entry{Peffers.2007}{article}{}{}
       \name{author}{4}{}{%
@@ -6059,9 +5786,6 @@
       \field{year}{2007}
       \field{pages}{45\bibrangedash 77}
       \range{pages}{33}
-      \verb{doi}
-      \verb 10.2753/MIS0742-1222240302
-      \endverb
     \endentry
     \entry{Phythian.2013}{book}{}{}
       \name{editor}{1}{}{%
@@ -6305,9 +6029,6 @@
       \field{year}{2012}
       \field{pages}{1\bibrangedash 4}
       \range{pages}{4}
-      \verb{doi}
-      \verb 10.1109/ICCICT.2012.6398180
-      \endverb
     \endentry
     \entry{SmithBoyle.24.07.2023}{article}{}{}
       \name{author}{1}{}{%
@@ -6389,9 +6110,6 @@
       \field{year}{2022}
       \field{pages}{1\bibrangedash 4}
       \range{pages}{4}
-      \verb{doi}
-      \verb 10.1109/CONIT55038.2022.9848337
-      \endverb
     \endentry
     \entry{Sonnenberg.2012}{inbook}{}{}
       \name{author}{2}{}{%
@@ -6429,9 +6147,6 @@
       \field{year}{2012}
       \field{pages}{381\bibrangedash 397}
       \range{pages}{17}
-      \verb{doi}
-      \verb 10.1007/978-3-642-29863-9{\textunderscore }28
-      \endverb
     \endentry
     \entry{Stich.2022}{book}{}{}
       \name{author}{5}{}{%
@@ -6537,15 +6252,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{979-8-3503-9654-6}
       \field{journaltitle}{2023 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT {\&} NCON)}
       \field{title}{Machine learning-based classification of competitors performance: evidence from Chinese logistics companies}
       \field{year}{2023}
       \field{pages}{131\bibrangedash 137}
       \range{pages}{7}
-      \verb{doi}
-      \verb 10.1109/ECTIDAMTNCON57770.2023.10139375
-      \endverb
     \endentry
     \entry{JointChiefsofStaffU.S.Army.2013}{inbook}{}{}
       \name{author}{1}{}{%
@@ -6656,9 +6367,6 @@
       \field{year}{2020}
       \field{pages}{1\bibrangedash 13}
       \range{pages}{13}
-      \verb{doi}
-      \verb 10.1007/978-3-030-46781-4{\textunderscore }1
-      \endverb
     \endentry
     \entry{Webster.2002}{article}{}{}
       \name{author}{3}{}{%
@@ -6733,7 +6441,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-0-8330-9883-2}
       \field{series}{Research reports}
       \field{title}{Defining Second Generation Open Source Intelligence (OSINT) for the Defense Enterprise}
       \field{volume}{RR-1964-OSD}
@@ -6780,9 +6487,6 @@
       \field{title}{{Zulässigkeit von Open Source-Ermittlungen zur Strafverfolgung im Darknet}}
       \field{year}{2022}
       \field{dateera}{ce}
-      \verb{doi}
-      \verb 10.18420/inf2022{\textunderscore }47
-      \endverb
     \endentry
     \entry{Wright.2020}{article}{}{}
       \name{author}{4}{}{%
@@ -6835,9 +6539,6 @@
       \field{year}{2020}
       \field{pages}{748\bibrangedash 751}
       \range{pages}{4}
-      \verb{doi}
-      \verb 10.1109/ASONAM49781.2020.9381427
-      \endverb
     \endentry
     \entry{wulfmettbrenn2017}{article}{}{}
       \name{author}{3}{}{%
@@ -6939,9 +6640,6 @@
       \field{year}{2022}
       \field{pages}{17\bibrangedash 23}
       \range{pages}{7}
-      \verb{doi}
-      \verb 10.1109/DSC55868.2022.00010
-      \endverb
     \endentry
     \entry{Yogish.2021}{article}{}{}
       \name{author}{2}{}{%
@@ -6973,11 +6671,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Applied Engineering and Management Letters}
+      \field{number}{2}
       \field{title}{Open Source Intelligence and its Applications in Next Generation Cyber Security - A Literature Review}
+      \field{volume}{5}
       \field{year}{2021}
-      \verb{doi}
-      \verb 10.5281/zenodo.5171580
-      \endverb
     \endentry
   \enddatalist
 \endrefsection
