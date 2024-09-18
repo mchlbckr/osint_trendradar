@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  18 SEP 2024 15:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  18 SEP 2024 16:09
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -634,7 +634,7 @@ runsystem(rm hicss.aex)...executed.
 \@quotelevel=\count442
 \@quotereset=\count443
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
-3.
+7.
 
 (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ot1p
 tm.fd
@@ -646,20 +646,20 @@ LaTeX Warning: Label `sec:eval' multiply defined.
 )
 \openout1 = `hicss.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -787,63 +787,63 @@ Package biblatex Warning: Biber reported the following issues
 ormat '10.06.2023' of date field 'urldate' - ignoring.
 
 )
-Package biblatex Info: Reference section=0 on input line 43.
-Package biblatex Info: Reference segment=0 on input line 43.
+Package biblatex Info: Reference section=0 on input line 47.
+Package biblatex Info: Reference segment=0 on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 44.
+(Font)              <7> on input line 48.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 44.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 44
+(Font)              <5> on input line 48.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 48
 .
 
 (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/base/ulasy.
 fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Underfull \vbox (badness 10000) detected at line 44
+Underfull \vbox (badness 10000) detected at line 48
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 44.
+(Font)              <8> on input line 48.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 44.
+(Font)              <6> on input line 48.
 
-Underfull \hbox (badness 2735) in paragraph at lines 46--48
+Underfull \hbox (badness 2735) in paragraph at lines 50--52
 \OT1/ptm/m/it/10 were iden-ti-fied: ma-tu-rity, In-tel-li-gence Cy-cle (IC)
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 46--48
+Underfull \hbox (badness 2856) in paragraph at lines 50--52
 \OT1/ptm/m/it/10 phase, and use case. The re-sult-ing frame-work,
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 46--48
+Underfull \hbox (badness 1590) in paragraph at lines 50--52
 \OT1/ptm/m/it/10 de-vel-oped into a trend radar (TR), was eval-u-ated
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 46--48
+Underfull \hbox (badness 2150) in paragraph at lines 50--52
 \OT1/ptm/m/it/10 phases. Al-though in-tel-li-gent sup-port tech-nolo-gies
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 46--48
+Underfull \hbox (badness 1824) in paragraph at lines 50--52
 \OT1/ptm/m/it/10 ex-ist, prac-ti-cal im-ple-men-ta-tion lags be-hind the-ory,
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 46--48
+Underfull \hbox (badness 3019) in paragraph at lines 50--52
 \OT1/ptm/m/it/10 Find-ings sug-gest fu-ture re-search should fo-cus on
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 46--48
+Underfull \hbox (badness 2343) in paragraph at lines 50--52
 \OT1/ptm/m/it/10 in-ves-ti-gat-ing why proven so-lu-tions are not widely
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 54--55
+Underfull \hbox (badness 2608) in paragraph at lines 58--59
 \OT1/ptm/m/n/10 sys-tems re-main unan-swered ([]Ghioni et al., 2023[];
  []
 
@@ -857,38 +857,23 @@ s/enc/dvips/base/8r.enc}
 
 
 ]
-Underfull \hbox (badness 3058) in paragraph at lines 65--75
+Underfull \hbox (badness 3058) in paragraph at lines 69--79
 []\OT1/ptm/m/n/10 One of the ear-li-est ref-er-enced def-i-ni-tions was
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 65--75
+Underfull \hbox (badness 1242) in paragraph at lines 69--79
 \OT1/ptm/m/it/10 broad di-ver-sity of open sources [...] and cre-ates
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 65--75
+Underfull \hbox (badness 1173) in paragraph at lines 69--79
 \OT1/ptm/m/n/10 sys-tems ([]Dok-man and Ivan-jko, 2020). The fo-cus
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 78--86
-\OT1/ptm/m/n/10 link be-tween the phases is that the re-sult of each
- []
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 78--86
-\OT1/ptm/m/n/10 it-er-ated to meet new re-quire-ments ([]Gib-son, 2016).
- []
-
-
-Underfull \hbox (badness 3746) in paragraph at lines 78--86
-\OT1/ptm/m/n/10 To-day, to rep-re-sent ex-ter-nal in-flu-ences or as-sign
- []
-
-
-Underfull \hbox (badness 1337) in paragraph at lines 78--86
-\OT1/ptm/m/n/10 re-spon-si-bil-i-ties ([]Lowen-thal, 2020[]; Phythian, 2013,)
+Underfull \hbox (badness 1603) in paragraph at lines 82--90
+\OT1/ptm/m/n/10 2013,) nu-mer-ous vari-a-tions can be found ([]Reuser,
  []
 
 
@@ -899,61 +884,91 @@ nclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: PDF/images/crop_Intelligence Cycle.pdf Graphic file (type pdf)
 <use PDF/images/crop_Intelligence Cycle.pdf>
 Package pdftex.def Info: PDF/images/crop_Intelligence Cycle.pdf  used on input 
-line 89.
+line 93.
 (pdftex.def)             Requested size: 134.01381pt x 135.0779pt.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 90.
+(Font)              using `OT1/cmss/bx/n' instead on input line 94.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 90.
+(Font)              using `OT1/cmss/bx/n' instead on input line 94.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--109
+Underfull \hbox (badness 10000) in paragraph at lines 98--113
 []\OT1/ptm/m/n/10 The plan-ning/direction phase com-bines the
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 94--109
-\OT1/ptm/m/n/10 data vol-umes into action-relevant in-for-ma-tion ([]U.S.
+Underfull \hbox (badness 2980) in paragraph at lines 98--113
+\OT1/ptm/m/n/10 phase refers to the gath-er-ing of raw data ([]CIA,
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 94--109
-\OT1/ptm/m/n/10 a timely and ac-cu-rate in-tel-li-gence prod-uct ([]NATO,
+Underfull \hbox (badness 4048) in paragraph at lines 98--113
+\OT1/ptm/m/n/10 ([]NATO, 2001) to make the query more pre-cise
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 94--109
+Underfull \hbox (badness 1163) in paragraph at lines 98--113
+\OT1/ptm/m/n/10 with each run ([]Pastor-Galindo et al., 2020). The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--113
+\OT1/ptm/m/n/10 pro-cess-ing/exploitation phase in-volves con-dens-ing
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 98--113
+\OT1/ptm/m/n/10 these data vol-umes into action-relevant in-for-ma-tion
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 98--113
+\OT1/ptm/m/n/10 ([]USJF-COM, 2013). Anal-y-sis/production refers to
+ []
+
+
+Underfull \hbox (badness 3623) in paragraph at lines 98--113
+\OT1/ptm/m/n/10 the syn-the-sis of the in-for-ma-tion ob-tained into a
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 98--113
+\OT1/ptm/m/n/10 timely and ac-cu-rate in-tel-li-gence prod-uct ([]NATO,
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 98--113
 \OT1/ptm/m/n/10 prod-uct to the 'cus-tomer' in a us-able form ([]CIA,
  []
 
 
-Underfull \hbox (badness 5022) in paragraph at lines 112--121
+Underfull \hbox (badness 5022) in paragraph at lines 116--125
 \OT1/ptm/m/n/10 ve-rac-ity as-sess-ment of pub-lic in-for-ma-tion, while
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 112--121
+Underfull \hbox (badness 1460) in paragraph at lines 116--125
 \OT1/ptm/m/n/10 to sim-plify OS-INT given in-creas-ing data vol-umes.
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 112--121
+Underfull \hbox (badness 1460) in paragraph at lines 116--125
 \OT1/ptm/m/n/10 cy-ber crim-i-nal-ity through OS-INT mis-use. []Ghioni
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 124--127
+Underfull \hbox (badness 1888) in paragraph at lines 128--131
 []\OT1/ptm/m/n/10 The study fol-lows the it-er-a-tive DSR ap-proach,
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 124--127
+Underfull \hbox (badness 1275) in paragraph at lines 128--131
 \OT1/ptm/m/n/10 a theory-based re-search paradigm for de-vel-op-ing a
  []
 
@@ -964,269 +979,266 @@ pdfTeX warning: pdflatex (file ./PDF/images/cropped DSR_V01.pdf): PDF inclusion
 <PDF/images/cropped DSR_V01.pdf, id=27, 797.81062pt x 305.68204pt>
 File: PDF/images/cropped DSR_V01.pdf Graphic file (type pdf)
 <use PDF/images/cropped DSR_V01.pdf>
-Package pdftex.def Info: PDF/images/cropped DSR_V01.pdf  used on input line 130
+Package pdftex.def Info: PDF/images/cropped DSR_V01.pdf  used on input line 134
 .
 (pdftex.def)             Requested size: 328.82695pt x 125.99277pt.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 131.
+(Font)              using `OT1/cmss/bx/n' instead on input line 135.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 131.
+(Font)              using `OT1/cmss/bx/n' instead on input line 135.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--145
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
 []\OT1/ptm/m/n/10 Third-generation OS-INT sys-tems re-main
  []
 
 
-Underfull \hbox (badness 3514) in paragraph at lines 145--147
+Underfull \hbox (badness 3514) in paragraph at lines 149--151
 []\OT1/ptm/m/n/10 Key use cases ([]AlK-i-lani and Qusef, 2021[];
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 145--147
+Underfull \hbox (badness 1389) in paragraph at lines 149--151
 \OT1/ptm/m/n/10 in OS-INT re-search ([]Ish et al., 2022). The
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 145--147
+Underfull \hbox (badness 2744) in paragraph at lines 149--151
 \OT1/ptm/m/n/10 ar-ti-fact must in-clude tech-nol-ogy ma-tu-rity to
  []
 
 
-Underfull \hbox (badness 4608) in paragraph at lines 149--151
+Underfull \hbox (badness 4608) in paragraph at lines 153--155
 []\OT1/ptm/m/n/10 Due to the high field dy-namic, pre-dict-ing
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 154--155
+Underfull \hbox (badness 1253) in paragraph at lines 158--159
 []\OT1/ptm/m/n/10 In sec-tion 2[], the the-o-ret-i-cal back-ground of the
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 154--155
+Underfull \hbox (badness 1210) in paragraph at lines 158--159
 \OT1/ptm/m/n/10 for its com-pat-i-bil-ity within the OS-INT frame-work.
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 154--155
+Underfull \hbox (badness 1194) in paragraph at lines 158--159
 \OT1/ptm/m/n/10 Ad-di-tion-ally, the re-view of prior stud-ies high-lights
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 157--161
+Underfull \hbox (badness 3019) in paragraph at lines 161--165
 \OT1/ptm/m/n/10 anal-y-sis ([]Web-ster et al., 2002). To stan-dard-ize
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-61.
+65.
 
 (/opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/psnfss/ts1p
 tm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
 []\OT1/ptm/b/n/10 Process: \OT1/ptm/m/n/10 De-gree of au-toma-tion in the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
 \OT1/ptm/m/n/10 tech-nolo-gies (man-ual, semi-automated,
  []
 
 
-Underfull \hbox (badness 3229) in paragraph at lines 163--164
+Underfull \hbox (badness 3229) in paragraph at lines 167--168
 \OT1/ptm/m/n/10 au-to-mated, fully au-to-mated; []Billings, 1997[];
  []
 
 
-Underfull \hbox (badness 4391) in paragraph at lines 165--166
+Underfull \hbox (badness 4391) in paragraph at lines 169--170
 []\OT1/ptm/b/n/10 Technology Com-plex-ity: \OT1/ptm/m/n/10 As-sessed through
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 166--167
+Underfull \hbox (badness 4120) in paragraph at lines 170--171
 []\OT1/ptm/b/n/10 Maturity Level: \OT1/ptm/m/n/10 Ac-cord-ing to the phases
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 169--170
+Underfull \hbox (badness 3128) in paragraph at lines 173--174
 \OT1/ptm/m/n/10 spec-trum: de-scrip-tive, di-ag-nos-tic, pre-dic-tive, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 []\OT1/ptm/m/n/10 Technologies were cat-e-go-rized and an-a-lyzed
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 171--172
+Underfull \hbox (badness 1067) in paragraph at lines 175--176
 \OT1/ptm/m/n/10 for in-ter-re-la-tion-ships within the OS-INT frame-work.
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 171--172
+Underfull \hbox (badness 1348) in paragraph at lines 175--176
 \OT1/ptm/m/n/10 the pa-pers for pre-de-fined key-words. The ver-i-fied
  []
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 171--172
+Underfull \hbox (badness 2237) in paragraph at lines 175--176
 \OT1/ptm/m/n/10 cat-e-gories and re-la-tion-ships in-formed the ar-ti-fact's
  []
 
 
-Underfull \hbox (badness 6125) in paragraph at lines 176--177
+Underfull \hbox (badness 6125) in paragraph at lines 180--181
 \OT1/ptm/m/n/10 of-fer-ing clar-ity and an in-tu-itive frame-work that
  []
 
 
-Underfull \hbox (badness 3942) in paragraph at lines 176--177
+Underfull \hbox (badness 3942) in paragraph at lines 180--181
 \OT1/ptm/m/n/10 sim-pli-fies tech-nol-ogy ex-trac-tion and re-search gap
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 176--177
+Underfull \hbox (badness 1014) in paragraph at lines 180--181
 \OT1/ptm/m/n/10 iden-ti-fi-ca-tion. Its de-sign also en-sures ap-pli-ca-bil-ity
 
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 176--177
+Underfull \hbox (badness 2269) in paragraph at lines 180--181
 \OT1/ptm/m/n/10 across di-verse in-tel-li-gence dis-ci-plines in Ger-many,
  []
 
 
-Underfull \hbox (badness 1558) in paragraph at lines 176--177
+Underfull \hbox (badness 1558) in paragraph at lines 180--181
 \OT1/ptm/m/n/10 and stan-dard-ized de-sign. Rig-or-ous ver-i-fi-ca-tion of
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 176--177
+Underfull \hbox (badness 1394) in paragraph at lines 180--181
 \OT1/ptm/m/n/10 meet-ing crit-i-cal eval-u-a-tion cri-te-ria in con-tem-po-rary
 
  []
 
 [3]
-Underfull \hbox (badness 2165) in paragraph at lines 180--181
+Underfull \hbox (badness 2165) in paragraph at lines 184--185
 []\OT1/ptm/m/n/10 The TR was demon-strated via guideline-based,
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 182--183
+Underfull \hbox (badness 1924) in paragraph at lines 186--187
 \OT1/ptm/m/n/10 sam-pling ([]Glaser and Strauss, 1967), fo-cus-ing on
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 182--183
+Underfull \hbox (badness 2856) in paragraph at lines 186--187
 \OT1/ptm/m/n/10 a se-cu-rity au-thor-ity, the se-cu-rity in-dus-try, and a
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 182--183
+Underfull \hbox (badness 1210) in paragraph at lines 186--187
 \OT1/ptm/m/n/10 startup was cho-sen to cap-ture di-verse per-spec-tives.
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 185.
+(Font)              using `OT1/cmss/bx/n' instead on input line 189.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 185.
+(Font)              using `OT1/cmss/bx/n' instead on input line 189.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 []\OT1/ptm/m/n/10 The qual-i-ta-tive data col-lec-tion uti-lized
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 \OT1/ptm/m/n/10 semi-structured in-ter-views, ideal for un-cov-er-ing
  []
 
 
-Underfull \hbox (badness 2521) in paragraph at lines 201--202
+Underfull \hbox (badness 2521) in paragraph at lines 205--206
 \OT1/ptm/m/n/10 un-der-ly-ing the-o-ret-i-cal re-la-tion-ships ([]Bogner et al.
 ,
  []
 
 
-Underfull \hbox (badness 3209) in paragraph at lines 201--202
+Underfull \hbox (badness 3209) in paragraph at lines 205--206
 \OT1/ptm/m/n/10 2014). The in-ter-view guide, based on the IC,
  []
 
 
-Underfull \hbox (badness 2088) in paragraph at lines 201--202
+Underfull \hbox (badness 2088) in paragraph at lines 205--206
 \OT1/ptm/m/n/10 com-menced with a pre-sen-ta-tion of the TR. Open
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 201--202
+Underfull \hbox (badness 3291) in paragraph at lines 205--206
 \OT1/ptm/m/n/10 ques-tions were ini-tially posed for each phase to
  []
 
 
-Underfull \hbox (badness 2486) in paragraph at lines 201--202
+Underfull \hbox (badness 2486) in paragraph at lines 205--206
 \OT1/ptm/m/n/10 com-pare it with re-spon-dents' prac-ti-cal ex-pe-ri-ence,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
 []\OT1/ptm/m/n/10 The TR demon-stra-tion af-firmed its in-tu-itive
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 205--206
+Underfull \hbox (badness 3271) in paragraph at lines 209--210
 \OT1/ptm/m/n/10 es-sen-tial eval-u-a-tion cri-te-ria ([]Son-nen-berg and vom
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 211--212
+Underfull \hbox (badness 1661) in paragraph at lines 215--216
 []\OT1/ptm/m/n/10 Interviews were tran-scribed and an-a-lyzed us-ing
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 211--212
+Underfull \hbox (badness 1668) in paragraph at lines 215--216
 \OT1/ptm/m/n/10 de-vel-oped in MAXQDA, with first-level cat-e-gories
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 211--212
+Underfull \hbox (badness 1024) in paragraph at lines 215--216
 \OT1/ptm/m/n/10 align-ing with the phases of the In-tel-li-gence Cy-cle.
  []
 
 
-Underfull \hbox (badness 6708) in paragraph at lines 211--212
+Underfull \hbox (badness 6708) in paragraph at lines 215--216
 \OT1/ptm/m/n/10 Second-level cat-e-gories re-flect ex-pert sup-port or
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 215--220
+Underfull \hbox (badness 2744) in paragraph at lines 219--224
 \OT1/ptm/m/n/10 edge to the in-side core. Each one-fifth of the
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4 <./PDF/images/cropped DSR_V01.pdf>]
+[4 <./PDF/images/cropped DSR_V01.pdf>]
 
 pdfTeX warning: pdflatex (file ./PDF/images/crop_Trendradar.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
 <PDF/images/crop_Trendradar.pdf, id=44, 919.2237pt x 542.025pt>
 File: PDF/images/crop_Trendradar.pdf Graphic file (type pdf)
 <use PDF/images/crop_Trendradar.pdf>
-Package pdftex.def Info: PDF/images/crop_Trendradar.pdf  used on input line 223
+Package pdftex.def Info: PDF/images/crop_Trendradar.pdf  used on input line 227
 .
 (pdftex.def)             Requested size: 328.82695pt x 193.88824pt.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 224.
+(Font)              using `OT1/cmss/bx/n' instead on input line 228.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 224.
+(Font)              using `OT1/cmss/bx/n' instead on input line 228.
 
 
 
@@ -1236,227 +1248,224 @@ DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: PDF/images/crop_Trendradar explanation.pdf Graphic file (type pdf)
 <use PDF/images/crop_Trendradar explanation.pdf>
 Package pdftex.def Info: PDF/images/crop_Trendradar explanation.pdf  used on in
-put line 230.
+put line 234.
 (pdftex.def)             Requested size: 465.05986pt x 216.58815pt.
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 231.
+(Font)              using `OT1/cmss/bx/n' instead on input line 235.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 231.
+(Font)              using `OT1/cmss/bx/n' instead on input line 235.
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 237--244
+Underfull \hbox (badness 1953) in paragraph at lines 241--248
 \OT1/ptm/m/n/10 ap-pli-ca-tion cov-ers all phases as a third-generation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--244
+Underfull \hbox (badness 10000) in paragraph at lines 241--248
 \OT1/ptm/m/n/10 phase is least cov-ered, fol-lowed closely by
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 237--244
+Underfull \hbox (badness 1953) in paragraph at lines 241--248
 \OT1/ptm/m/n/10 plan-ning/direction. These find-ings align with the
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 237--244
+Underfull \hbox (badness 1596) in paragraph at lines 241--248
 \OT1/ptm/m/n/10 as "state of the art" (cf. E3) but note dif-fer-ent
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 237--244
+Underfull \hbox (badness 1303) in paragraph at lines 241--248
 \OT1/ptm/m/n/10 plan-ning/direction phase is of-ten ne-glected, de-spite
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 237--244
+Underfull \hbox (badness 1226) in paragraph at lines 241--248
 \OT1/ptm/m/n/10 is rarely trans-par-ent be-tween the par-ties (cf. E1;
  []
 
 
-Underfull \hbox (badness 5924) in paragraph at lines 247--258
+Underfull \hbox (badness 5924) in paragraph at lines 251--262
 \OT1/ptm/m/n/10 cy-ber se-cu-rity, health, se-cu-rity, jour-nal-ism, and
  []
 
 
-Underfull \hbox (badness 3525) in paragraph at lines 247--258
+Underfull \hbox (badness 3525) in paragraph at lines 251--262
 \OT1/ptm/m/n/10 fo-cus on Open Source Cy-ber Threat In-tel-li-gence
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 247--258
+Underfull \hbox (badness 1337) in paragraph at lines 251--262
 \OT1/ptm/m/n/10 of Chi-nese lo-gis-tics com-pa-nies ([]Tao et al., 2023).
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1009) in paragraph at lines 259--260
+Underfull \hbox (badness 1009) in paragraph at lines 263--264
 []\OT1/ptm/m/n/10 The ex-perts in-di-cate that OS-INT is used in all
  []
 
 
-Underfull \hbox (badness 1184) in paragraph at lines 259--260
+Underfull \hbox (badness 1184) in paragraph at lines 263--264
 \OT1/ptm/m/n/10 la-beled as such (cf. E2). It is most com-monly
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 259--260
+Underfull \hbox (badness 3068) in paragraph at lines 263--264
 \OT1/ptm/m/n/10 es-pe-cially within the Ger-man Armed Forces, the
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 259--260
+Underfull \hbox (badness 1112) in paragraph at lines 263--264
 \OT1/ptm/m/n/10 (Fed-eral) In-tel-li-gence Ser-vice, do-mes-tic in-tel-li-gence
 
  []
 
 
-Underfull \hbox (badness 1931) in paragraph at lines 263--264
+Underfull \hbox (badness 1931) in paragraph at lines 267--268
 []\OT1/ptm/m/n/10 Automated tech-nolo-gies are used in all phases
  []
 
 
-Underfull \hbox (badness 4416) in paragraph at lines 263--264
+Underfull \hbox (badness 4416) in paragraph at lines 267--268
 \OT1/ptm/m/n/10 tech-nolo-gies ex-hibit con-sid-er-able mar-ket ma-tu-rity,
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 265--266
+Underfull \hbox (badness 3323) in paragraph at lines 269--270
 []\OT1/ptm/m/n/10 The most ad-vanced au-to-mated tech-nolo-gies in
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 265--266
+Underfull \hbox (badness 1442) in paragraph at lines 269--270
 \OT1/ptm/m/n/10 crawlers and scrap-ers for en-hanced data col-lec-tion
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 265--266
+Underfull \hbox (badness 1377) in paragraph at lines 269--270
 \OT1/ptm/m/n/10 (e.g., []Jenk-ins et al., 2021). A pro-to-type method
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 265--266
+Underfull \hbox (badness 1466) in paragraph at lines 269--270
 \OT1/ptm/m/n/10 called 'fo-cused crawl-ing' adapts the crawl-ing path
  []
 
 
-Underfull \hbox (badness 2189) in paragraph at lines 265--266
+Underfull \hbox (badness 2189) in paragraph at lines 269--270
 \OT1/ptm/m/n/10 dy-nam-i-cally us-ing a content-driven ML al-go-rithm,
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 265--266
+Underfull \hbox (badness 2181) in paragraph at lines 269--270
 \OT1/ptm/m/n/10 BERT ('Bidi-rec-tional En-coder Rep-re-sen-ta-tion from
  []
 
 
-Underfull \hbox (badness 1331) in paragraph at lines 265--266
+Underfull \hbox (badness 1331) in paragraph at lines 269--270
 \OT1/ptm/m/n/10 im-ple-men-ta-tion chal-lenges. Screenshot-based 'web
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
 []\OT1/ptm/m/n/10 NLP (Nat-u-ral Lan-guage Pro-cess-ing) meth-ods
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 267--268
+Underfull \hbox (badness 6978) in paragraph at lines 271--272
 \OT1/ptm/m/n/10 and 'en-tity and re-la-tion an-no-ta-tion' demon-strate
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 267--268
+Underfull \hbox (badness 1173) in paragraph at lines 271--272
 \OT1/ptm/m/n/10 phase. Com-mon tech-nolo-gies in-clude the 'Python
  []
 
 
-Underfull \hbox (badness 5119) in paragraph at lines 267--268
+Underfull \hbox (badness 5119) in paragraph at lines 271--272
 \OT1/ptm/m/n/10 NLTK Toolkit' ([]Hub-bard et al., 2022) and the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
 \OT1/ptm/m/n/10 Ad-di-tion-ally, 'Deep Learn-ing' (DL), par-tic-u-larly
  []
 
 
-Underfull \hbox (badness 8019) in paragraph at lines 267--268
+Underfull \hbox (badness 8019) in paragraph at lines 271--272
 \OT1/ptm/m/n/10 through 'word em-bed-ding' with the 'word2vec'
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 267--268
+Underfull \hbox (badness 1521) in paragraph at lines 271--272
 \OT1/ptm/m/n/10 in-for-ma-tion show lower au-toma-tion than long-term
  []
 
 
-Underfull \hbox (badness 4995) in paragraph at lines 269--270
+Underfull \hbox (badness 4995) in paragraph at lines 273--274
 []\OT1/ptm/m/n/10 The high-est au-toma-tion level is seen in the
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 269--270
+Underfull \hbox (badness 1292) in paragraph at lines 273--274
 \OT1/ptm/m/n/10 anal-y-sis/production phase, where AI, ML, and DL
  []
 
 
-Underfull \hbox (badness 2318) in paragraph at lines 269--270
+Underfull \hbox (badness 2318) in paragraph at lines 273--274
 \OT1/ptm/m/n/10 al-go-rithms, es-pe-cially var-i-ous BERT ver-sions, are
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 269--270
+Underfull \hbox (badness 1365) in paragraph at lines 273--274
 \OT1/ptm/m/n/10 2022). AI tech-nolo-gies are less spec-i-fied, ex-cept
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 269--270
+Underfull \hbox (badness 1194) in paragraph at lines 273--274
 \OT1/ptm/m/n/10 Reg-u-la-tion'), hin-der tech-nol-ogy adop-tion (cf. E2;
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 271--272
+Underfull \hbox (badness 1721) in paragraph at lines 275--276
 \OT1/ptm/m/n/10 'Power BI' ([]Tao et al., 2023) are used to cre-ate
  []
 
 
-Underfull \hbox (badness 3954) in paragraph at lines 271--272
+Underfull \hbox (badness 3954) in paragraph at lines 275--276
 \OT1/ptm/m/n/10 ap-pli-ca-tions, and on-line plat-forms are de-vel-oped,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--272
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
 \OT1/ptm/m/n/10 in-clud-ing Python GUIs and spe-cific browser
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 271--272
+Underfull \hbox (badness 1571) in paragraph at lines 275--276
 \OT1/ptm/m/n/10 and graph-based vi-su-al-iza-tions uti-lize tools/libraries
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 271--272
+Underfull \hbox (badness 3417) in paragraph at lines 275--276
 \OT1/ptm/m/n/10 like 'Mat-plot,' 'Net-workx,' 'Py-graphistry,' or the
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 271--272
+Underfull \hbox (badness 1509) in paragraph at lines 275--276
 \OT1/ptm/m/n/10 No in-for-ma-tion on user tests or new de-vel-op-ment
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 271--272
+Underfull \hbox (badness 1226) in paragraph at lines 275--276
 \OT1/ptm/m/n/10 in-volv-ing user feed-back was found in any stud-ies.
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 271--272
+Underfull \hbox (badness 2726) in paragraph at lines 275--276
 \OT1/ptm/m/n/10 How-ever, var-i-ous au-to-mated tools be-yond OS-INT
  []
 
@@ -1464,514 +1473,514 @@ Underfull \hbox (badness 2726) in paragraph at lines 271--272
 Underfull \vbox (badness 2269) has occurred while \output is active []
 
  [6 <./PDF/images/crop_Trendradar.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 \OT1/ptm/m/n/10 au-to-mated third-generation OS-INT sys-tem (e.g.,
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 277--278
+Underfull \hbox (badness 2538) in paragraph at lines 281--282
 \OT1/ptm/m/n/10 Iden-ti-fied ap-pli-ca-tions do not fully cover the IC,
  []
 
 
-Underfull \hbox (badness 4940) in paragraph at lines 277--278
+Underfull \hbox (badness 4940) in paragraph at lines 281--282
 \OT1/ptm/m/n/10 par-tic-u-larly lack-ing in the plan-ning/direction and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 \OT1/ptm/m/n/10 dis-sem-i-na-tion/integration phases, mak-ing hu-man
  []
 
 
-Underfull \hbox (badness 2707) in paragraph at lines 277--278
+Underfull \hbox (badness 2707) in paragraph at lines 281--282
 \OT1/ptm/m/n/10 use, es-pe-cially in Ger-man in-tel-li-gence au-thor-i-ties.
  []
 
 
-Underfull \hbox (badness 7133) in paragraph at lines 279--280
+Underfull \hbox (badness 7133) in paragraph at lines 283--284
 []\OT1/ptm/m/n/10 Addressing these ques-tions in-volves re-solv-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
 []\OT1/ptm/m/n/10 Effective dis-sem-i-na-tion and in-te-gra-tion
  []
 
 
-Underfull \hbox (badness 1629) in paragraph at lines 306--307
+Underfull \hbox (badness 1629) in paragraph at lines 310--311
 \OT1/ptm/m/n/10 pri-mar-ily due to in-ad-e-quate user test-ing and
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 306--307
-\OT1/ptm/m/n/10 ([]NATO, 2001[]; U.S. Joint Force Com-mand,
- []
-
-
-Underfull \hbox (badness 1062) in paragraph at lines 308--309
+Underfull \hbox (badness 1062) in paragraph at lines 312--313
 \OT1/ptm/m/n/10 con-cepts, yet re-search in this area is lim-ited
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 310--311
+Underfull \hbox (badness 1796) in paragraph at lines 314--315
 []\OT1/ptm/m/n/10 It is cru-cial to move away from mono-lithic
  []
 
 
-Underfull \hbox (badness 1577) in paragraph at lines 310--311
+Underfull \hbox (badness 1577) in paragraph at lines 314--315
 \OT1/ptm/m/n/10 stand-alone se-tups in pro-cure-ment pro-ce-dures
  []
 
 
-Underfull \hbox (badness 3930) in paragraph at lines 312--313
+Underfull \hbox (badness 3930) in paragraph at lines 316--317
 []\OT1/ptm/m/n/10 Ensuring com-pli-ance with eth-i-cal and le-gal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
 \OT1/ptm/m/n/10 prin-ci-ples is vi-tal for prod-uct adop-tion,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
 \OT1/ptm/m/n/10 ne-ces-si-tat-ing ro-bust leg-isla-tive up-dates and
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 314--315
+Underfull \hbox (badness 1112) in paragraph at lines 318--319
 []\OT1/ptm/m/n/10 Addressing chal-lenges re-quires a foun-da-tional
  []
 
-[7 <./PDF/images/crop_Trendradar explanation.pdf>]
-Underfull \hbox (badness 5711) in paragraph at lines 316--317
+
+Underfull \hbox (badness 5711) in paragraph at lines 320--321
 []\OT1/ptm/m/n/10 While LLMs show promise in in-tel-li-gence
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 316--317
+Underfull \hbox (badness 1107) in paragraph at lines 320--321
 \OT1/ptm/m/n/10 anal-y-sis, their op-er-a-tional ap-pli-ca-tion re-mains
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 318--319
+Underfull \hbox (badness 1057) in paragraph at lines 322--323
 \OT1/ptm/m/n/10 yet there is a lack of ro-bust col-lec-tion tools
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
+[7 <./PDF/images/crop_Trendradar explanation.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
 []\OT1/ptm/m/n/10 Coordination gaps be-tween an-a-lysts and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
 \OT1/ptm/m/n/10 tech-ni-cians risk ex-ces-sive data col-lec-tion,
  []
 
 
-Underfull \hbox (badness 2012) in paragraph at lines 320--321
+Underfull \hbox (badness 2012) in paragraph at lines 324--325
 \OT1/ptm/m/n/10 high-light-ing the need for tools that en-hance
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 320--321
+Underfull \hbox (badness 2460) in paragraph at lines 324--325
 \OT1/ptm/m/n/10 trans-parency and mit-i-gate bi-ases ([]Lowen-thal,
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 328--329
+Underfull \hbox (badness 1888) in paragraph at lines 332--333
 []\OT1/ptm/m/n/10 The sec-ond lim-i-ta-tion arises from clas-si-fi-ca-tion
  []
 
 
-Underfull \hbox (badness 4266) in paragraph at lines 328--329
+Underfull \hbox (badness 4266) in paragraph at lines 332--333
 \OT1/ptm/m/n/10 the au-thors' word-ing was fol-lowed for ob-jec-tive
  []
 
 
-Underfull \hbox (badness 2253) in paragraph at lines 330--331
+Underfull \hbox (badness 2253) in paragraph at lines 334--335
 []\OT1/ptm/m/n/10 The third lim-i-ta-tion in-volves the small sam-ple
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 330--331
+Underfull \hbox (badness 1552) in paragraph at lines 334--335
 \OT1/ptm/m/n/10 size of ex-pert in-ter-views, which were con-fined to
  []
 
 
-Underfull \hbox (badness 3679) in paragraph at lines 330--331
+Underfull \hbox (badness 3679) in paragraph at lines 334--335
 \OT1/ptm/m/n/10 ver-i-fi-ca-tion of cod-ing by a sec-ond re-searcher is
  []
 
 
-Underfull \hbox (badness 5431) in paragraph at lines 332--333
+Underfull \hbox (badness 5431) in paragraph at lines 336--337
 []\OT1/ptm/m/n/10 Despite these lim-i-ta-tions, this study pro-vides
  []
 
 
-Underfull \hbox (badness 3407) in paragraph at lines 332--333
+Underfull \hbox (badness 3407) in paragraph at lines 336--337
 \OT1/ptm/m/n/10 a com-pre-hen-sive OS-INT knowl-edge base through
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 332--333
+Underfull \hbox (badness 1810) in paragraph at lines 336--337
 \OT1/ptm/m/n/10 a practice-evaluated TR. It in-tro-duces a struc-tured
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 332--333
+Underfull \hbox (badness 1661) in paragraph at lines 336--337
 \OT1/ptm/m/n/10 light on the pub-lic se-cu-rity sec-tor. More-over, it
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 419--419
+Underfull \hbox (badness 1838) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Adewopo, V., Go-nen, B., & Ade-wopo, F. (2020).
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 419--419
+Underfull \hbox (badness 1895) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Ahuja, K., Khushi, Di-pali, & Sharma, N. (2022).
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 419--419
+Underfull \hbox (badness 1127) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 In J. A. Lara Tor-ralbo, S. A. Al-jawarneh,
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 419--419
+Underfull \hbox (badness 1406) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 S., & Ashok, K. M. (2020). Peo-plex-ploit:
  []
 
 
-Underfull \hbox (badness 2261) in paragraph at lines 419--419
+Underfull \hbox (badness 2261) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 based on at-ten-tion neu-ral net-works. \OT1/ptm/m/it/10 IEEE
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 419--419
+Underfull \hbox (badness 1168) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 B[]ar, D., Calderon, F., Lawlor, M., Lick-led-erer, S.,
  []
 
 
-Underfull \hbox (badness 7047) in paragraph at lines 419--419
+Underfull \hbox (badness 7047) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 Totza-uer, M., & Feuer-riegel, S. (2023).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 paradigm. \OT1/ptm/m/it/10 Jour-nal of Strate-gic Se-cu-rity\OT
 1/ptm/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 419--419
+Underfull \hbox (badness 2042) in paragraph at lines 423--423
 \OT1/ptm/m/it/10 for a human-centered ap-proach\OT1/ptm/m/n/10 . Lawrence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Bleck, S. (2004). \OT1/ptm/m/it/10 En-twick-lung einer Meth
 odik
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 \OT1/ptm/m/it/10 zur in-te-gri-erten Pla-nung von
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 \OT1/ptm/m/it/10 Informationstechnologie-Einsatz und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 \OT1/ptm/m/it/10 in-ter-medi[]aren In-for-ma-tions-di-en-stleis-tun-gen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 \OT1/ptm/m/it/10 mit Ex-perten: Eine prax-isori-en-tierte
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 419--419
+Underfull \hbox (badness 7613) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 B[]ohm, I., & Lo-la-gar, S. (2021). Open source
  []
 
+
+Underfull \hbox (badness 3482) in paragraph at lines 423--423
+[][]\OT1/ptm/m/n/10 Central In-tel-li-gence Agency. (1987). \OT1/ptm/m/it/10 Fa
+ct-book on
+ []
+
 [8]
-Underfull \hbox (badness 2922) in paragraph at lines 419--419
+Underfull \hbox (badness 2922) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 Si-mons, A., & vom Brocke, Jan, Mar-tin
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 419--419
+Underfull \hbox (badness 1137) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 Hilti. (2009). Re-con-struct-ing the gi-ant: On
  []
 
 
-Underfull \hbox (badness 3579) in paragraph at lines 419--419
+Underfull \hbox (badness 3579) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 the im-por-tance of rigour in doc-u-ment-ing
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 419--419
+Underfull \hbox (badness 2698) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Dokman, T., & Ivan-jko, T. (2020). Open Source
  []
 
 
-Underfull \hbox (badness 7963) in paragraph at lines 419--419
+Underfull \hbox (badness 7963) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 In-tel-li-gence (OS-INT): is-sues and trends.
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 419--419
+Underfull \hbox (badness 1033) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Elmas, T., Ibanez, T. R., Hut-ter, A., Over-dorf, R.,
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 419--419
+Underfull \hbox (badness 1062) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Endsley, M. R., & Kaber, D. B. (1999). Level of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 European Par-lia-ment (Ed.). (2016). Doc-u-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 32016R0679: Reg-u-la-tion (EU) 2016/679
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 419--419
+Underfull \hbox (badness 1675) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Gibson, H. (2016). Ac-qui-si-tion and prepa-ra-tion of
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 419--419
+Underfull \hbox (badness 1424) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 P. S. Bay-erl, & F. Samp-son (Eds.), \OT1/ptm/m/it/10 Open
  []
 
 
-Underfull \hbox (badness 7186) in paragraph at lines 419--419
+Underfull \hbox (badness 7186) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Herrera-Cubides, J. F., Gaona-Garc[]^^Pa, P. A., &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 S[]anchez-Alonso, S. (2020). Open-source
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 419--419
+Underfull \hbox (badness 1383) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 (2023). Con-struc-tion of do-main knowl-edge
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 419--419
+Underfull \hbox (badness 1521) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 A novel open-source in-tel-li-gence pass-word
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 419--419
+Underfull \hbox (badness 1205) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 us-ing ma-chine learn-ing mod-els. \OT1/ptm/m/it/10 2020 19th
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 419--419
+Underfull \hbox (badness 2478) in paragraph at lines 423--423
 \OT1/ptm/m/it/10 in in-tel-li-gence anal-y-sis \OT1/ptm/m/n/10 (Vol. RR-A464-1)
 .
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 419--419
+Underfull \hbox (badness 1259) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Jenkins, D., Liebrock, L. M., & Urias, V. (2021).
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 419--419
+Underfull \hbox (badness 2573) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 De-sign-ing a mod-u-lar and dis-tributed web
  []
 
 
-Underfull \hbox (badness 8000) in paragraph at lines 419--419
+Underfull \hbox (badness 8000) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Kayser, F. (2024). Ad-dress-ing Chal-lenges in a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 Dan-ger-ous World: De-vel-op-ing a De-sign
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 In-tel-li-gence (OS-INT) Re-search [$https :
  []
 
 
-Underfull \hbox (badness 4899) in paragraph at lines 419--419
+Underfull \hbox (badness 4899) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 for the Cy-ber-se-cu-rity Do-main (PEASEC,
  []
 
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Lee, C.[]Y., & Chen, B.[]S. (2018).
  []
 
 
-Overfull \hbox (2.9089pt too wide) in paragraph at lines 419--419
+Overfull \hbox (2.9089pt too wide) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 Mutually-exclusive-and-collectively-exhaustive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 fea-ture se-lec-tion scheme. \OT1/ptm/m/it/10 Ap-plied Soft
  []
 
-
-Underfull \hbox (badness 3396) in paragraph at lines 419--419
+[9]
+Underfull \hbox (badness 3396) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Ma, H., Liu, X., & Zhao, W. (2022). Re-search
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 419--419
+Underfull \hbox (badness 1314) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 on domain-specific knowl-edge graph based
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 419--419
+Underfull \hbox (badness 1365) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 on the roberta-wwm-ext pre-train-ing model.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 - vielfach er-probt, wenig be-dacht: ein
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Middleton, S., La-vorgna, A., Neu-mann, G., &
  []
 
 
-Underfull \hbox (badness 7814) in paragraph at lines 419--419
-[][]\OT1/ptm/m/n/10 NATO. (2001). \OT1/ptm/m/it/10 NATO Open Source In-tel-li-g
-ence
- []
-
-
-Underfull \hbox (badness 1596) in paragraph at lines 419--419
+Underfull \hbox (badness 1596) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Nobili, M., Fara-mondi, L., Se-tola, R., Ghelli, M.,
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 419--419
+Underfull \hbox (badness 2158) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 os-int plat-form to anal-yse vi-o-lence against
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 419--419
+Underfull \hbox (badness 1424) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 in-ter-net gold-mine: Spain as an un-ex-plored
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 419--419
+Underfull \hbox (badness 1142) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Pastor-Galindo, J., Ne-spoli, P., Gomez Mar-mol, F.,
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 419--419
+Underfull \hbox (badness 1057) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 Open Chal-lenges and Fu-ture Trends. \OT1/ptm/m/it/10 IEEE
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 419--419
+Underfull \hbox (badness 4967) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Peffers, K., Tu-u-na-nen, T., Rothen-berger, M. A.,
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 419--419
+Underfull \hbox (badness 1231) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 & Chat-ter-jee, S. (2007). A de-sign sci-ence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Phythian, M. (Ed.). (2013). \OT1/ptm/m/it/10 Un-der-stand-i
 ng the
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 419--419
+Underfull \hbox (badness 2245) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Saunders, M., Lewis, P., & Thorn-hill, A. (2012).
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 419--419
+Underfull \hbox (badness 1454) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 (2022). Tor-sion: Web re-con-nais-sance us-ing
  []
 
 
-Underfull \hbox (badness 6995) in paragraph at lines 419--419
+Underfull \hbox (badness 6995) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 re-search. In \OT1/ptm/m/it/10 De-sign sci-ence re-search in
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 419--419
+Underfull \hbox (badness 2856) in paragraph at lines 423--423
 \OT1/ptm/m/it/10 Deutsch-land: Technologie- und Tren-dradar
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Tao, Z., Charoenkwan, P., Pa-phaw-a-sit, B., &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 Ru-jeer-a-pai-boon, N. (2023). Ma-chine
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 419--419
+Underfull \hbox (badness 2452) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 learning-based clas-si-fi-ca-tion of com-peti-tors
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 419--419
+Underfull \hbox (badness 2418) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 com-pa-nies. \OT1/ptm/m/it/10 IEEE ECTI DAMT & NCON\OT1/ptm/m/n
 /10 ,
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 419--419
+Underfull \hbox (badness 1163) in paragraph at lines 423--423
 \OT1/ptm/m/it/10 De-sign sci-ence re-search. cases \OT1/ptm/m/n/10 (pp. 1{13).
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 419--419
+Underfull \hbox (badness 1297) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 Project um-bra. \OT1/ptm/m/it/10 2020 IEEE/ACM Int. Conf.
  []
 
 
-Underfull \hbox (badness 2277) in paragraph at lines 419--419
+Underfull \hbox (badness 2277) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 a trend radar for com-pet-i-tive in-tel-li-gence:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 Lessons from an in-dus-trial prod-uct
  []
 
 
-Underfull \hbox (badness 2080) in paragraph at lines 419--419
+Underfull \hbox (badness 2080) in paragraph at lines 423--423
 \OT1/ptm/m/n/10 ser-vice sys-tem man-u-fac-turer. \OT1/ptm/m/it/10 Tech-no-log-
 i-cal
  []
 
+
+Underfull \hbox (badness 2027) in paragraph at lines 423--423
+[][]\OT1/ptm/m/n/10 Yang, J.[]Z., Liu, F., Zhao, Y.[]J., Liang, L.[]L., &
+ []
+
 [10]
-Underfull \hbox (badness 5036) in paragraph at lines 419--419
+Underfull \hbox (badness 5036) in paragraph at lines 423--423
 [][]\OT1/ptm/m/n/10 Yogish, P. U., & Kr-ishna, P. K. (2021). Open
  []
 
@@ -1991,10 +2000,10 @@ Package logreq Info: Writing requests to 'hicss.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15267 strings out of 474116
- 311803 string characters out of 5732613
+ 15272 strings out of 474116
+ 311945 string characters out of 5732613
  1947187 words of memory out of 5000000
- 37440 multiletter control sequences out of 15000+600000
+ 37445 multiletter control sequences out of 15000+600000
  574508 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  82i,13n,84p,2187b,5052s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2006,7 +2015,7 @@ ist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></opt/homebrew/Cellar/texlive/2024
 opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/u
 tmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on hicss.pdf (11 pages, 171884 bytes).
+Output written on hicss.pdf (11 pages, 172245 bytes).
 PDF statistics:
  115 PDF objects out of 1000 (max. 8388607)
  83 compressed objects within 1 object stream

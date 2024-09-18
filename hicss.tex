@@ -10,6 +10,10 @@
 
 \setlength\titlebox{7cm}
 
+\makeatletter
+\AtEveryCitekey{\ifnameundef{shortauthor}{}{\def\cbx@apa@ifnamesaved{\@firstoftwo}}}
+\makeatother
+
 % You can expand the titlebox if you need extra space
 % to show all the authors. Please do not make the title box
 % smaller than 5cm (the original size).

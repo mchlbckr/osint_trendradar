@@ -539,6 +539,11 @@
     \endentry
     \entry{CentralIntelligenceAgency.1987}{book}{}{}
       \name{author}{1}{}{%
+        {{hash=a9f620b61e8a256713dc8b633d194210}{%
+           family={{Central Intelligence Agency}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
         {{un=0,uniquepart=base,hash=a22a8145b8191aba30ed8da23988446e}{%
            family={{CIA}},
            familyi={C\bibinitperiod}}}%
@@ -547,20 +552,24 @@
         {Washington, DC}%
       }
       \strng{namehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{fullhash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{fullhashraw}{a22a8145b8191aba30ed8da23988446e}
+      \strng{fullhash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{fullhashraw}{a9f620b61e8a256713dc8b633d194210}
       \strng{bibnamehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authorbibnamehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authornamehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authorfullhash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authorfullhashraw}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorbibnamehash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{authornamehash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{authorfullhash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{authorfullhashraw}{a9f620b61e8a256713dc8b633d194210}
+      \strng{shortauthorbibnamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{shortauthornamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{shortauthorfullhash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{shortauthorfullhashraw}{a22a8145b8191aba30ed8da23988446e}
       \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{note}{Retrieved April 15, 2023, from \url{https://fh.ms/osint-factbook}}
       \field{title}{Factbook on Intelligence}
@@ -572,25 +581,34 @@
     \endentry
     \entry{CentralIntelligenceAgency.2023}{book}{}{}
       \name{author}{1}{}{%
+        {{hash=a9f620b61e8a256713dc8b633d194210}{%
+           family={{Central Intelligence Agency}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
         {{un=0,uniquepart=base,hash=a22a8145b8191aba30ed8da23988446e}{%
            family={{CIA}},
            familyi={C\bibinitperiod}}}%
       }
       \strng{namehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{fullhash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{fullhashraw}{a22a8145b8191aba30ed8da23988446e}
+      \strng{fullhash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{fullhashraw}{a9f620b61e8a256713dc8b633d194210}
       \strng{bibnamehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authorbibnamehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authornamehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authorfullhash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authorfullhashraw}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorbibnamehash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{authornamehash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{authorfullhash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{authorfullhashraw}{a9f620b61e8a256713dc8b633d194210}
+      \strng{shortauthorbibnamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{shortauthornamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{shortauthorfullhash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{shortauthorfullhashraw}{a22a8145b8191aba30ed8da23988446e}
       \field{extraname}{2}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{note}{Retrieved April 15, 2023, from \url{https://fh.ms/osint-icbriefing}}
       \field{title}{The Intelligence Cycle: Briefing}
@@ -1987,56 +2005,6 @@
       \field{pages}{82\bibrangedash 88}
       \range{pages}{7}
     \endentry
-    \entry{NorthAtlanticTreatyOrganization.2001}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bffcc931f95bfaa3bc6249b16fd85ee7}{%
-           family={{NATO}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{fullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{fullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{bibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authorbibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authornamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authorfullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authorfullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \field{extraname}{1}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{NATO Open Source Intelligence Handbook}}
-      \field{year}{2001}
-    \endentry
-    \entry{NorthAtlanticTreatyOrganization.2002}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bffcc931f95bfaa3bc6249b16fd85ee7}{%
-           family={{NATO}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{fullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{fullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{bibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authorbibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authornamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authorfullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authorfullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \field{extraname}{2}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{NATO Open Source Intelligence Reader}}
-      \field{year}{2002}
-    \endentry
     \entry{Nobili.2021}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=75232a918176a820fbcf676159a1a94b}{%
@@ -2099,6 +2067,76 @@
       \field{year}{2021}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
+    \endentry
+    \entry{NorthAtlanticTreatyOrganization.2001}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=cf5593968e997d7e64c3760f7ee7b17c}{%
+           family={{North Atlantic Treaty Organization}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=bffcc931f95bfaa3bc6249b16fd85ee7}{%
+           family={{NATO}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{fullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{bibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorbibnamehash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{authornamehash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{authorfullhash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{authorfullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{shortauthorbibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{shortauthornamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{shortauthorfullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{shortauthorfullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{https://fh.ms/osint-nato}}
+      \field{title}{{NATO Open Source Intelligence Handbook}}
+      \field{year}{2001}
+    \endentry
+    \entry{NorthAtlanticTreatyOrganization.2002}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=cf5593968e997d7e64c3760f7ee7b17c}{%
+           family={{North Atlantic Treaty Organization}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=bffcc931f95bfaa3bc6249b16fd85ee7}{%
+           family={{NATO}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{fullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{bibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorbibnamehash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{authornamehash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{authorfullhash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{authorfullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{shortauthorbibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{shortauthornamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{shortauthorfullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{shortauthorfullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{https://fh.ms/osint-natoreader}}
+      \field{title}{{NATO Open Source Intelligence Reader}}
+      \field{year}{2002}
     \endentry
     \entry{PastorGalindo.2019}{article}{}{}
       \name{author}{4}{}{%
@@ -2690,27 +2728,36 @@
     \endentry
     \entry{JointChiefsofStaffU.S.Army.2013}{inbook}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9d0d4b42e6f361f89d3cd8aa606d9e2b}{%
+        {{hash=9d0d4b42e6f361f89d3cd8aa606d9e2b}{%
            family={{U.S. Joint Force Command}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=bf935783bc78c129944c8acee3d6bdc4}{%
+           family={USJFCOM},
            familyi={U\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {USA}%
       }
-      \strng{namehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{namehash}{bf935783bc78c129944c8acee3d6bdc4}
       \strng{fullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
       \strng{fullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{bibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{bibnamehash}{bf935783bc78c129944c8acee3d6bdc4}
       \strng{authorbibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
       \strng{authornamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
       \strng{authorfullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
       \strng{authorfullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{shortauthorbibnamehash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{shortauthornamehash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{shortauthorfullhash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{shortauthorfullhashraw}{bf935783bc78c129944c8acee3d6bdc4}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{booktitle}{{Joint Publication 2-0 (JP 2-0)}}
       \field{series}{{Joint Publications Intelligence Series}}
@@ -3056,7 +3103,7 @@
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-7480-1}
       \field{journaltitle}{7th IEEE DSC}
-      \field{title}{NiNSRAPM: An Ensemble Learning Based Non-intrusive Network Security Risk Assessment Prediction Model}
+      \field{title}{{NiNSRAPM}: An Ensemble Learning Based Non-intrusive Network Security Risk Assessment Prediction Model}
       \field{year}{2022}
       \field{pages}{17\bibrangedash 23}
       \range{pages}{7}
@@ -3619,6 +3666,11 @@
     \endentry
     \entry{CentralIntelligenceAgency.1987}{book}{}{}
       \name{author}{1}{}{%
+        {{hash=a9f620b61e8a256713dc8b633d194210}{%
+           family={{Central Intelligence Agency}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
         {{un=0,uniquepart=base,hash=a22a8145b8191aba30ed8da23988446e}{%
            family={{CIA}},
            familyi={C\bibinitperiod}}}%
@@ -3627,20 +3679,24 @@
         {Washington, DC}%
       }
       \strng{namehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{fullhash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{fullhashraw}{a22a8145b8191aba30ed8da23988446e}
+      \strng{fullhash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{fullhashraw}{a9f620b61e8a256713dc8b633d194210}
       \strng{bibnamehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authorbibnamehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authornamehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authorfullhash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authorfullhashraw}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorbibnamehash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{authornamehash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{authorfullhash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{authorfullhashraw}{a9f620b61e8a256713dc8b633d194210}
+      \strng{shortauthorbibnamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{shortauthornamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{shortauthorfullhash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{shortauthorfullhashraw}{a22a8145b8191aba30ed8da23988446e}
       \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{note}{Retrieved April 15, 2023, from \url{https://fh.ms/osint-factbook}}
       \field{title}{Factbook on Intelligence}
@@ -3652,25 +3708,34 @@
     \endentry
     \entry{CentralIntelligenceAgency.2023}{book}{}{}
       \name{author}{1}{}{%
+        {{hash=a9f620b61e8a256713dc8b633d194210}{%
+           family={{Central Intelligence Agency}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
         {{un=0,uniquepart=base,hash=a22a8145b8191aba30ed8da23988446e}{%
            family={{CIA}},
            familyi={C\bibinitperiod}}}%
       }
       \strng{namehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{fullhash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{fullhashraw}{a22a8145b8191aba30ed8da23988446e}
+      \strng{fullhash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{fullhashraw}{a9f620b61e8a256713dc8b633d194210}
       \strng{bibnamehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authorbibnamehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authornamehash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authorfullhash}{a22a8145b8191aba30ed8da23988446e}
-      \strng{authorfullhashraw}{a22a8145b8191aba30ed8da23988446e}
+      \strng{authorbibnamehash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{authornamehash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{authorfullhash}{a9f620b61e8a256713dc8b633d194210}
+      \strng{authorfullhashraw}{a9f620b61e8a256713dc8b633d194210}
+      \strng{shortauthorbibnamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{shortauthornamehash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{shortauthorfullhash}{a22a8145b8191aba30ed8da23988446e}
+      \strng{shortauthorfullhashraw}{a22a8145b8191aba30ed8da23988446e}
       \field{extraname}{2}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{note}{Retrieved April 15, 2023, from \url{https://fh.ms/osint-icbriefing}}
       \field{title}{The Intelligence Cycle: Briefing}
@@ -5067,56 +5132,6 @@
       \field{pages}{82\bibrangedash 88}
       \range{pages}{7}
     \endentry
-    \entry{NorthAtlanticTreatyOrganization.2001}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bffcc931f95bfaa3bc6249b16fd85ee7}{%
-           family={{NATO}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{fullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{fullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{bibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authorbibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authornamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authorfullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authorfullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \field{extraname}{1}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{NATO Open Source Intelligence Handbook}}
-      \field{year}{2001}
-    \endentry
-    \entry{NorthAtlanticTreatyOrganization.2002}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bffcc931f95bfaa3bc6249b16fd85ee7}{%
-           family={{NATO}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{fullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{fullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{bibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authorbibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authornamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authorfullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \strng{authorfullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
-      \field{extraname}{2}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{NATO Open Source Intelligence Reader}}
-      \field{year}{2002}
-    \endentry
     \entry{Nobili.2021}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=75232a918176a820fbcf676159a1a94b}{%
@@ -5179,6 +5194,76 @@
       \field{year}{2021}
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
+    \endentry
+    \entry{NorthAtlanticTreatyOrganization.2001}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=cf5593968e997d7e64c3760f7ee7b17c}{%
+           family={{North Atlantic Treaty Organization}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=bffcc931f95bfaa3bc6249b16fd85ee7}{%
+           family={{NATO}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{fullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{bibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorbibnamehash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{authornamehash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{authorfullhash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{authorfullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{shortauthorbibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{shortauthornamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{shortauthorfullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{shortauthorfullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{https://fh.ms/osint-nato}}
+      \field{title}{{NATO Open Source Intelligence Handbook}}
+      \field{year}{2001}
+    \endentry
+    \entry{NorthAtlanticTreatyOrganization.2002}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=cf5593968e997d7e64c3760f7ee7b17c}{%
+           family={{North Atlantic Treaty Organization}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=bffcc931f95bfaa3bc6249b16fd85ee7}{%
+           family={{NATO}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{fullhash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{fullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{bibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{authorbibnamehash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{authornamehash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{authorfullhash}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{authorfullhashraw}{cf5593968e997d7e64c3760f7ee7b17c}
+      \strng{shortauthorbibnamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{shortauthornamehash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{shortauthorfullhash}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \strng{shortauthorfullhashraw}{bffcc931f95bfaa3bc6249b16fd85ee7}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{https://fh.ms/osint-natoreader}}
+      \field{title}{{NATO Open Source Intelligence Reader}}
+      \field{year}{2002}
     \endentry
     \entry{PastorGalindo.2019}{article}{}{}
       \name{author}{4}{}{%
@@ -5770,27 +5855,36 @@
     \endentry
     \entry{JointChiefsofStaffU.S.Army.2013}{inbook}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9d0d4b42e6f361f89d3cd8aa606d9e2b}{%
+        {{hash=9d0d4b42e6f361f89d3cd8aa606d9e2b}{%
            family={{U.S. Joint Force Command}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=bf935783bc78c129944c8acee3d6bdc4}{%
+           family={USJFCOM},
            familyi={U\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {USA}%
       }
-      \strng{namehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{namehash}{bf935783bc78c129944c8acee3d6bdc4}
       \strng{fullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
       \strng{fullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{bibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{bibnamehash}{bf935783bc78c129944c8acee3d6bdc4}
       \strng{authorbibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
       \strng{authornamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
       \strng{authorfullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
       \strng{authorfullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{shortauthorbibnamehash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{shortauthornamehash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{shortauthorfullhash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{shortauthorfullhashraw}{bf935783bc78c129944c8acee3d6bdc4}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{booktitle}{{Joint Publication 2-0 (JP 2-0)}}
       \field{series}{{Joint Publications Intelligence Series}}
@@ -6136,7 +6230,7 @@
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-7480-1}
       \field{journaltitle}{7th IEEE DSC}
-      \field{title}{NiNSRAPM: An Ensemble Learning Based Non-intrusive Network Security Risk Assessment Prediction Model}
+      \field{title}{{NiNSRAPM}: An Ensemble Learning Based Non-intrusive Network Security Risk Assessment Prediction Model}
       \field{year}{2022}
       \field{pages}{17\bibrangedash 23}
       \range{pages}{7}
