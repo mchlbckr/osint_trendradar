@@ -104,7 +104,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-0052-7}
-      \field{journaltitle}{2022 2nd ICAIS}
+      \field{journaltitle}{IEEE ICAIS}
       \field{title}{Cyber Security Threats and Their Connection with Twitter}
       \field{year}{2022}
       \field{pages}{1458\bibrangedash 1463}
@@ -229,8 +229,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-1-7281-6509-7}
-      \field{journaltitle}{2020 4th ICCCSP}
+      \field{journaltitle}{IEEE ICCCSP}
       \field{title}{PeopleXploit: A hybrid tool to collect public data}
       \field{year}{2020}
       \field{pages}{1\bibrangedash 6}
@@ -449,7 +448,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{3-8322-3480-2}
       \field{series}{{Schriftenreihe Rationalisierung und Humanisierung}}
       \field{title}{Entwicklung einer {Methodik} zur integrierten {Planung} von {Informationstechnologie}-{Einsatz} und intermediären {Informationsdienstleistungen} im elektronischen {Geschäftsverkehr}}
       \field{volume}{72}
@@ -592,7 +590,7 @@
       \field{title}{The Intelligence Cycle: Briefing}
       \field{year}{2023}
     \endentry
-    \entry{Cleven.2009}{misc}{}{}
+    \entry{Cleven.2009}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=43b518d60ae022600b5d60f4025f626f}{%
            family={Cleven},
@@ -628,9 +626,6 @@
            family={{vom Brocke, Jan, Martin Hilti}},
            familyi={v\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {17th European Conference on Information Systems}%
-      }
       \strng{namehash}{084397cac309610bdac6a69dfa479461}
       \strng{fullhash}{5128cce8c7546614f769b55442a51880}
       \strng{fullhashraw}{5128cce8c7546614f769b55442a51880}
@@ -646,6 +641,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{17th European Conference on Information Systems}
       \field{title}{Reconstructing the Giant: On the Importance of Rigour in Documenting the Literature Search Process}
       \field{year}{2009}
       \field{dateera}{ce}
@@ -801,9 +797,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{INFuture2019: Knowledge in the Digital Age}
+      \field{journaltitle}{INFuture2019}
       \field{series}{Int. Conf. The Future of Information Sciences INFuture}
-      \field{title}{Open Source Intelligence (OSINT): issues and trends}
+      \field{title}{{Open Source Intelligence (OSINT): issues and trends}}
       \field{year}{2020}
     \endentry
     \entry{DosPassos.2017}{article}{}{}
@@ -1668,10 +1664,15 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://fh.ms/osint-paper}}
       \field{journaltitle}{GitHub repository}
       \field{title}{{Addressing Challenges in a Dangerous World: Developing a Design Science Artifact for Advancing Open Source Intelligence (OSINT) Research}}
       \field{year}{2024}
+      \verb{urlraw}
+      \verb \url{https://fh.ms/osint-paper}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://fh.ms/osint-paper%7D
+      \endverb
     \endentry
     \entry{Kpozehouen.2020}{article}{}{}
       \name{author}{4}{}{%
@@ -2607,7 +2608,7 @@
         {Berlin}%
       }
       \list{publisher}{1}{%
-        {Bundesministerium für Wirtschaft und Klimaschutz}%
+        {BMWK}%
       }
       \strng{namehash}{d5c705f40db6714c971e6b36b499c83d}
       \strng{fullhash}{37a0bb23acf17d29c6555d38dbf5fdb5}
@@ -2682,30 +2683,30 @@
     \endentry
     \entry{JointChiefsofStaffU.S.Army.2013}{inbook}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9d0d4b42e6f361f89d3cd8aa606d9e2b}{%
-           family={{U.S. Joint Force Command}},
+        {{un=0,uniquepart=base,hash=bf935783bc78c129944c8acee3d6bdc4}{%
+           family={{USJFCOM}},
            familyi={U\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
-        {{hash=89dd443d2e430da1c2ad2ab3e1841ed0}{%
-           family={{Joint Chiefs of Staff U.S. Army}},
-           familyi={J\bibinitperiod}}}%
+        {{hash=9d0d4b42e6f361f89d3cd8aa606d9e2b}{%
+           family={{U.S. Joint Force Command}},
+           familyi={U\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {USA}%
       }
-      \strng{namehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{fullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{fullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{bibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{authorbibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{authornamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{authorfullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{authorfullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{editorbibnamehash}{89dd443d2e430da1c2ad2ab3e1841ed0}
-      \strng{editornamehash}{89dd443d2e430da1c2ad2ab3e1841ed0}
-      \strng{editorfullhash}{89dd443d2e430da1c2ad2ab3e1841ed0}
-      \strng{editorfullhashraw}{89dd443d2e430da1c2ad2ab3e1841ed0}
+      \strng{namehash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{fullhash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{fullhashraw}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{bibnamehash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{authorbibnamehash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{authornamehash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{authorfullhash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{authorfullhashraw}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{editorbibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{editornamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{editorfullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{editorfullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{extradatescope}{labelyear}
@@ -3185,7 +3186,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-6654-0052-7}
-      \field{journaltitle}{2022 2nd ICAIS}
+      \field{journaltitle}{IEEE ICAIS}
       \field{title}{Cyber Security Threats and Their Connection with Twitter}
       \field{year}{2022}
       \field{pages}{1458\bibrangedash 1463}
@@ -3310,8 +3311,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{978-1-7281-6509-7}
-      \field{journaltitle}{2020 4th ICCCSP}
+      \field{journaltitle}{IEEE ICCCSP}
       \field{title}{PeopleXploit: A hybrid tool to collect public data}
       \field{year}{2020}
       \field{pages}{1\bibrangedash 6}
@@ -3530,7 +3530,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{3-8322-3480-2}
       \field{series}{{Schriftenreihe Rationalisierung und Humanisierung}}
       \field{title}{Entwicklung einer {Methodik} zur integrierten {Planung} von {Informationstechnologie}-{Einsatz} und intermediären {Informationsdienstleistungen} im elektronischen {Geschäftsverkehr}}
       \field{volume}{72}
@@ -3673,7 +3672,7 @@
       \field{title}{The Intelligence Cycle: Briefing}
       \field{year}{2023}
     \endentry
-    \entry{Cleven.2009}{misc}{}{}
+    \entry{Cleven.2009}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=43b518d60ae022600b5d60f4025f626f}{%
            family={Cleven},
@@ -3709,9 +3708,6 @@
            family={{vom Brocke, Jan, Martin Hilti}},
            familyi={v\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {17th European Conference on Information Systems}%
-      }
       \strng{namehash}{084397cac309610bdac6a69dfa479461}
       \strng{fullhash}{5128cce8c7546614f769b55442a51880}
       \strng{fullhashraw}{5128cce8c7546614f769b55442a51880}
@@ -3727,6 +3723,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{17th European Conference on Information Systems}
       \field{title}{Reconstructing the Giant: On the Importance of Rigour in Documenting the Literature Search Process}
       \field{year}{2009}
       \field{dateera}{ce}
@@ -3882,9 +3879,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{INFuture2019: Knowledge in the Digital Age}
+      \field{journaltitle}{INFuture2019}
       \field{series}{Int. Conf. The Future of Information Sciences INFuture}
-      \field{title}{Open Source Intelligence (OSINT): issues and trends}
+      \field{title}{{Open Source Intelligence (OSINT): issues and trends}}
       \field{year}{2020}
     \endentry
     \entry{DosPassos.2017}{article}{}{}
@@ -4749,10 +4746,15 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://fh.ms/osint-paper}}
       \field{journaltitle}{GitHub repository}
       \field{title}{{Addressing Challenges in a Dangerous World: Developing a Design Science Artifact for Advancing Open Source Intelligence (OSINT) Research}}
       \field{year}{2024}
+      \verb{urlraw}
+      \verb \url{https://fh.ms/osint-paper}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://fh.ms/osint-paper%7D
+      \endverb
     \endentry
     \entry{Kpozehouen.2020}{article}{}{}
       \name{author}{4}{}{%
@@ -5688,7 +5690,7 @@
         {Berlin}%
       }
       \list{publisher}{1}{%
-        {Bundesministerium für Wirtschaft und Klimaschutz}%
+        {BMWK}%
       }
       \strng{namehash}{d5c705f40db6714c971e6b36b499c83d}
       \strng{fullhash}{37a0bb23acf17d29c6555d38dbf5fdb5}
@@ -5763,30 +5765,30 @@
     \endentry
     \entry{JointChiefsofStaffU.S.Army.2013}{inbook}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9d0d4b42e6f361f89d3cd8aa606d9e2b}{%
-           family={{U.S. Joint Force Command}},
+        {{un=0,uniquepart=base,hash=bf935783bc78c129944c8acee3d6bdc4}{%
+           family={{USJFCOM}},
            familyi={U\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
-        {{hash=89dd443d2e430da1c2ad2ab3e1841ed0}{%
-           family={{Joint Chiefs of Staff U.S. Army}},
-           familyi={J\bibinitperiod}}}%
+        {{hash=9d0d4b42e6f361f89d3cd8aa606d9e2b}{%
+           family={{U.S. Joint Force Command}},
+           familyi={U\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {USA}%
       }
-      \strng{namehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{fullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{fullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{bibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{authorbibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{authornamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{authorfullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{authorfullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{editorbibnamehash}{89dd443d2e430da1c2ad2ab3e1841ed0}
-      \strng{editornamehash}{89dd443d2e430da1c2ad2ab3e1841ed0}
-      \strng{editorfullhash}{89dd443d2e430da1c2ad2ab3e1841ed0}
-      \strng{editorfullhashraw}{89dd443d2e430da1c2ad2ab3e1841ed0}
+      \strng{namehash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{fullhash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{fullhashraw}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{bibnamehash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{authorbibnamehash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{authornamehash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{authorfullhash}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{authorfullhashraw}{bf935783bc78c129944c8acee3d6bdc4}
+      \strng{editorbibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{editornamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{editorfullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{editorfullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{extradatescope}{labelyear}

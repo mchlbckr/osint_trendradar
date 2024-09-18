@@ -562,8 +562,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{Retrieved April 15, 2023, from \url{https://fh.ms/osint-factbook}}
       \field{title}{Factbook on Intelligence}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
       \field{year}{1987}
+      \field{urldateera}{ce}
     \endentry
     \entry{CentralIntelligenceAgency.2023}{book}{}{}
       \name{author}{1}{}{%
@@ -587,8 +592,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{Retrieved April 15, 2023, from \url{https://fh.ms/osint-icbriefing}}
       \field{title}{The Intelligence Cycle: Briefing}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
       \field{year}{2023}
+      \field{urldateera}{ce}
     \endentry
     \entry{Cleven.2009}{article}{}{}
       \name{author}{6}{}{%
@@ -1664,8 +1674,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://fh.ms/osint-paper}}
       \field{journaltitle}{GitHub repository}
+      \field{note}{\url{ https://fh.ms/osint-paper}}
       \field{title}{{Addressing Challenges in a Dangerous World: Developing a Design Science Artifact for Advancing Open Source Intelligence (OSINT) Research}}
       \field{year}{2024}
     \endentry
@@ -2474,6 +2484,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Open-source intelligence, or OSINT, has given Ukraine an edge both militarily and politically. This edge has allowed Ukraine to withstand Russia's assault.}
       \field{journaltitle}{{American Security Project (ASP)}}
+      \field{note}{Retrieved April 15, 2023, from \url{https://fh.ms/osint-boyle}}
       \field{title}{How OSINT Has Shaped the War in Ukraine}
       \field{year}{2022}
     \endentry
@@ -2620,6 +2631,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{\url{Retrieved April 15, 2023, from https://fh.ms/osint-trendradar}}
       \field{title}{{Digitalisierung der Wirtschaft in Deutschland: Technologie- und Trendradar 2022}}
       \field{year}{2022}
       \field{dateera}{ce}
@@ -2678,30 +2690,21 @@
     \endentry
     \entry{JointChiefsofStaffU.S.Army.2013}{inbook}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bf935783bc78c129944c8acee3d6bdc4}{%
-           family={{USJFCOM}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=9d0d4b42e6f361f89d3cd8aa606d9e2b}{%
+        {{un=0,uniquepart=base,hash=9d0d4b42e6f361f89d3cd8aa606d9e2b}{%
            family={{U.S. Joint Force Command}},
            familyi={U\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {USA}%
       }
-      \strng{namehash}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{fullhash}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{fullhashraw}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{bibnamehash}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{authorbibnamehash}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{authornamehash}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{authorfullhash}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{authorfullhashraw}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{editorbibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{editornamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{editorfullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{editorfullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{namehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{fullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{fullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{bibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{authorbibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{authornamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{authorfullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{authorfullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{extradatescope}{labelyear}
@@ -3639,8 +3642,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{Retrieved April 15, 2023, from \url{https://fh.ms/osint-factbook}}
       \field{title}{Factbook on Intelligence}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
       \field{year}{1987}
+      \field{urldateera}{ce}
     \endentry
     \entry{CentralIntelligenceAgency.2023}{book}{}{}
       \name{author}{1}{}{%
@@ -3664,8 +3672,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{Retrieved April 15, 2023, from \url{https://fh.ms/osint-icbriefing}}
       \field{title}{The Intelligence Cycle: Briefing}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
       \field{year}{2023}
+      \field{urldateera}{ce}
     \endentry
     \entry{Cleven.2009}{article}{}{}
       \name{author}{6}{}{%
@@ -4741,8 +4754,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://fh.ms/osint-paper}}
       \field{journaltitle}{GitHub repository}
+      \field{note}{\url{ https://fh.ms/osint-paper}}
       \field{title}{{Addressing Challenges in a Dangerous World: Developing a Design Science Artifact for Advancing Open Source Intelligence (OSINT) Research}}
       \field{year}{2024}
     \endentry
@@ -5551,6 +5564,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Open-source intelligence, or OSINT, has given Ukraine an edge both militarily and politically. This edge has allowed Ukraine to withstand Russia's assault.}
       \field{journaltitle}{{American Security Project (ASP)}}
+      \field{note}{Retrieved April 15, 2023, from \url{https://fh.ms/osint-boyle}}
       \field{title}{How OSINT Has Shaped the War in Ukraine}
       \field{year}{2022}
     \endentry
@@ -5697,6 +5711,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{\url{Retrieved April 15, 2023, from https://fh.ms/osint-trendradar}}
       \field{title}{{Digitalisierung der Wirtschaft in Deutschland: Technologie- und Trendradar 2022}}
       \field{year}{2022}
       \field{dateera}{ce}
@@ -5755,30 +5770,21 @@
     \endentry
     \entry{JointChiefsofStaffU.S.Army.2013}{inbook}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bf935783bc78c129944c8acee3d6bdc4}{%
-           family={{USJFCOM}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=9d0d4b42e6f361f89d3cd8aa606d9e2b}{%
+        {{un=0,uniquepart=base,hash=9d0d4b42e6f361f89d3cd8aa606d9e2b}{%
            family={{U.S. Joint Force Command}},
            familyi={U\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {USA}%
       }
-      \strng{namehash}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{fullhash}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{fullhashraw}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{bibnamehash}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{authorbibnamehash}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{authornamehash}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{authorfullhash}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{authorfullhashraw}{bf935783bc78c129944c8acee3d6bdc4}
-      \strng{editorbibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{editornamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{editorfullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
-      \strng{editorfullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{namehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{fullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{fullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{bibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{authorbibnamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{authornamehash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{authorfullhash}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
+      \strng{authorfullhashraw}{9d0d4b42e6f361f89d3cd8aa606d9e2b}
       \field{sortinit}{U}
       \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
       \field{extradatescope}{labelyear}

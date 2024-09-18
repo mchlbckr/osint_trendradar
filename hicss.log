@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  18 SEP 2024 00:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.14)  18 SEP 2024 15:34
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -872,8 +872,23 @@ Underfull \hbox (badness 1173) in paragraph at lines 65--75
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 78--86
-\OT1/ptm/m/n/10 2013,) nu-mer-ous vari-a-tions can be found ([]Reuser,
+Underfull \hbox (badness 1132) in paragraph at lines 78--86
+\OT1/ptm/m/n/10 link be-tween the phases is that the re-sult of each
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 78--86
+\OT1/ptm/m/n/10 it-er-ated to meet new re-quire-ments ([]Gib-son, 2016).
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 78--86
+\OT1/ptm/m/n/10 To-day, to rep-re-sent ex-ter-nal in-flu-ences or as-sign
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 78--86
+\OT1/ptm/m/n/10 re-spon-si-bil-i-ties ([]Lowen-thal, 2020[]; Phythian, 2013,)
  []
 
 
@@ -903,43 +918,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--109
  []
 
 
-Underfull \hbox (badness 2980) in paragraph at lines 94--109
-\OT1/ptm/m/n/10 phase refers to the gath-er-ing of raw data ([]CIA,
+Underfull \hbox (badness 1189) in paragraph at lines 94--109
+\OT1/ptm/m/n/10 data vol-umes into action-relevant in-for-ma-tion ([]U.S.
  []
 
 
-Underfull \hbox (badness 4048) in paragraph at lines 94--109
-\OT1/ptm/m/n/10 ([]NATO, 2001) to make the query more pre-cise
- []
-
-
-Underfull \hbox (badness 1163) in paragraph at lines 94--109
-\OT1/ptm/m/n/10 with each run ([]Pastor-Galindo et al., 2020). The
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--109
-\OT1/ptm/m/n/10 pro-cess-ing/exploitation phase in-volves con-dens-ing
- []
-
-
-Underfull \hbox (badness 1308) in paragraph at lines 94--109
-\OT1/ptm/m/n/10 these data vol-umes into action-relevant in-for-ma-tion
- []
-
-
-Underfull \hbox (badness 1769) in paragraph at lines 94--109
-\OT1/ptm/m/n/10 ([]USJF-COM, 2013). Anal-y-sis/production refers to
- []
-
-
-Underfull \hbox (badness 3623) in paragraph at lines 94--109
-\OT1/ptm/m/n/10 the syn-the-sis of the in-for-ma-tion ob-tained into a
- []
-
-
-Underfull \hbox (badness 5403) in paragraph at lines 94--109
-\OT1/ptm/m/n/10 timely and ac-cu-rate in-tel-li-gence prod-uct ([]NATO,
+Underfull \hbox (badness 1348) in paragraph at lines 94--109
+\OT1/ptm/m/n/10 a timely and ac-cu-rate in-tel-li-gence prod-uct ([]NATO,
  []
 
 
@@ -1222,7 +1207,10 @@ Underfull \hbox (badness 2744) in paragraph at lines 215--220
 \OT1/ptm/m/n/10 edge to the in-side core. Each one-fifth of the
  []
 
-[4 <./PDF/images/cropped DSR_V01.pdf>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./PDF/images/cropped DSR_V01.pdf>]
 
 pdfTeX warning: pdflatex (file ./PDF/images/crop_Trendradar.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
@@ -1302,6 +1290,9 @@ Underfull \hbox (badness 3525) in paragraph at lines 247--258
 Underfull \hbox (badness 1337) in paragraph at lines 247--258
 \OT1/ptm/m/n/10 of Chi-nese lo-gis-tics com-pa-nies ([]Tao et al., 2023).
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \hbox (badness 1009) in paragraph at lines 259--260
@@ -1513,6 +1504,11 @@ Underfull \hbox (badness 1629) in paragraph at lines 306--307
  []
 
 
+Underfull \hbox (badness 1178) in paragraph at lines 306--307
+\OT1/ptm/m/n/10 ([]NATO, 2001[]; U.S. Joint Force Com-mand,
+ []
+
+
 Underfull \hbox (badness 1062) in paragraph at lines 308--309
 \OT1/ptm/m/n/10 con-cepts, yet re-search in this area is lim-ited
  []
@@ -1547,7 +1543,7 @@ Underfull \hbox (badness 1112) in paragraph at lines 314--315
 []\OT1/ptm/m/n/10 Addressing chal-lenges re-quires a foun-da-tional
  []
 
-
+[7 <./PDF/images/crop_Trendradar explanation.pdf>]
 Underfull \hbox (badness 5711) in paragraph at lines 316--317
 []\OT1/ptm/m/n/10 While LLMs show promise in in-tel-li-gence
  []
@@ -1562,7 +1558,7 @@ Underfull \hbox (badness 1057) in paragraph at lines 318--319
 \OT1/ptm/m/n/10 yet there is a lack of ro-bust col-lec-tion tools
  []
 
-[7 <./PDF/images/crop_Trendradar explanation.pdf>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 320--321
 []\OT1/ptm/m/n/10 Coordination gaps be-tween an-a-lysts and
  []
@@ -1704,7 +1700,7 @@ Underfull \hbox (badness 7613) in paragraph at lines 419--419
 [][]\OT1/ptm/m/n/10 B[]ohm, I., & Lo-la-gar, S. (2021). Open source
  []
 
-
+[8]
 Underfull \hbox (badness 2922) in paragraph at lines 419--419
 \OT1/ptm/m/n/10 Si-mons, A., & vom Brocke, Jan, Mar-tin
  []
@@ -1719,7 +1715,7 @@ Underfull \hbox (badness 3579) in paragraph at lines 419--419
 \OT1/ptm/m/n/10 the im-por-tance of rigour in doc-u-ment-ing
  []
 
-[8]
+
 Underfull \hbox (badness 2698) in paragraph at lines 419--419
 [][]\OT1/ptm/m/n/10 Dokman, T., & Ivan-jko, T. (2020). Open Source
  []
@@ -1811,11 +1807,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 419--419
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+\OT1/ptm/m/n/10 In-tel-li-gence (OS-INT) Re-search [$https :
+ []
+
+
 Underfull \hbox (badness 4899) in paragraph at lines 419--419
 \OT1/ptm/m/n/10 for the Cy-ber-se-cu-rity Do-main (PEASEC,
  []
 
-
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 419--419
 [][]\OT1/ptm/m/n/10 Lee, C.[]Y., & Chen, B.[]S. (2018).
  []
@@ -1845,7 +1846,7 @@ Underfull \hbox (badness 1365) in paragraph at lines 419--419
 \OT1/ptm/m/n/10 on the roberta-wwm-ext pre-train-ing model.
  []
 
-[9]
+
 Underfull \hbox (badness 10000) in paragraph at lines 419--419
 \OT1/ptm/m/n/10 - vielfach er-probt, wenig be-dacht: ein
  []
@@ -1969,12 +1970,14 @@ Underfull \hbox (badness 2080) in paragraph at lines 419--419
 i-cal
  []
 
-
+[10]
 Underfull \hbox (badness 5036) in paragraph at lines 419--419
 [][]\OT1/ptm/m/n/10 Yogish, P. U., & Kr-ishna, P. K. (2021). Open
  []
 
-[10] (./hicss.aux)
+[11
+
+] (./hicss.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -2003,10 +2006,10 @@ ist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></opt/homebrew/Cellar/texlive/2024
 opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/urw/times/u
 tmr8a.pfb></opt/homebrew/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on hicss.pdf (10 pages, 171342 bytes).
+Output written on hicss.pdf (11 pages, 171884 bytes).
 PDF statistics:
- 112 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  27 words of extra memory for PDF output out of 10000 (max. 10000000)
 
