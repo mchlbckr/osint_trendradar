@@ -2099,7 +2099,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{note}{\url{https://fh.ms/osint-nato}}
+      \field{note}{Retrieved April 21, 2023, from \url{https://fh.ms/osint-nato}}
       \field{title}{{NATO Open Source Intelligence Handbook}}
       \field{year}{2001}
     \endentry
@@ -2134,7 +2134,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{note}{\url{https://fh.ms/osint-natoreader}}
+      \field{note}{Retrieved April 21, 2023, from \url{https://fh.ms/osint-natoreader}}
       \field{title}{{NATO Open Source Intelligence Reader}}
       \field{year}{2002}
     \endentry
@@ -2669,7 +2669,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{\url{Retrieved April 15, 2023, from https://fh.ms/osint-trendradar}}
+      \field{note}{Retrieved April 15, 2023, from \url{https://fh.ms/osint-trendradar}}
       \field{title}{{Digitalisierung der Wirtschaft in Deutschland: Technologie- und Trendradar 2022}}
       \field{year}{2022}
       \field{dateera}{ce}
@@ -5226,7 +5226,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{note}{\url{https://fh.ms/osint-nato}}
+      \field{note}{Retrieved April 21, 2023, from \url{https://fh.ms/osint-nato}}
       \field{title}{{NATO Open Source Intelligence Handbook}}
       \field{year}{2001}
     \endentry
@@ -5261,7 +5261,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
-      \field{note}{\url{https://fh.ms/osint-natoreader}}
+      \field{note}{Retrieved April 21, 2023, from \url{https://fh.ms/osint-natoreader}}
       \field{title}{{NATO Open Source Intelligence Reader}}
       \field{year}{2002}
     \endentry
@@ -5796,7 +5796,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{\url{Retrieved April 15, 2023, from https://fh.ms/osint-trendradar}}
+      \field{note}{Retrieved April 15, 2023, from \url{https://fh.ms/osint-trendradar}}
       \field{title}{{Digitalisierung der Wirtschaft in Deutschland: Technologie- und Trendradar 2022}}
       \field{year}{2022}
       \field{dateera}{ce}
