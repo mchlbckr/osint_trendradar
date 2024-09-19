@@ -31,13 +31,13 @@
 \title{Addressing Challenges in a Dangerous World: Developing a Design Science Artifact for Advancing Open Source Intelligence (OSINT) Research}
 %Mission Critical in a Dangerous World: Developing a Literature-Based Foundation for Better Open Source Intelligence (OSINT) Research}
 
-\author{Franz Kayser\thanks{~~The authors would like to thank Mike Wasserman for his valuable and profound comments.} \\
- ESG \\
+\author{Franz Kayser\\
+ESG \\
  {\underline{ franz.kayser@esg.de}} \\\And
- Thomas Mayer \\
- ESG  \\
+ Dr. Thomas Mayer \\
+ ESG \\
  {\underline{ thomas3.mayer@esg.de} }\\\And 
- Michael Bücker \\
+ Prof. Dr. Michael Bücker \\
 University of Applied Sciences Münster\\
  {\underline{michael.buecker@fh-muenster.de}} \\}
   
@@ -81,19 +81,19 @@ developing OSINT into third-generation robust, autonomous solutions (\cite{Pasto
 
 \subsection{Intelligence and Intelligence Cycle}
 
-OSINT core task is to generate decision-making intelligence
+OSINT's core task is to generate decision-making intelligence
 (\cite{NorthAtlanticTreatyOrganization.2001}). The generation process of such an intelligence product
 is referred to as the IC specified by the Central lntelligence Agency (\cite{CentralIntelligenceAgency.1987}).
 It represents the central element of every intelligence discipline (\cite{Reuser.2017}).
 The link between the phases is that the result of each preceding phase serves as input for the subsequent phase, following the U.S. Joint Force Command (\cite{JointChiefsofStaffU.S.Army.2013}), continuously iterated to meet new requirements (\cite{Gibson.2016}).
-Today, to represent external influences or assign responsibilities (\cite{Lowenthal.2020,Phythian.2013}) numerous
+Today, to represent external influences or assign responsibilities (\cite{Lowenthal.2020,Phythian.2013}), numerous
 variations can be found (\cite{Reuser.2017}). The IC should hence be seen less as a guideline and more as an informal
 coordination element (\cite{Hwang.2022}). \textcite{JointChiefsofStaffU.S.Army.2013} segmented the cycle into six phases (Figure \ref{fig: Intelligence Cycle}).
 
 \begin{figure}[h]
     \centering
     \includegraphics[clip,width=0.6\linewidth]{PDF/images/crop_Intelligence Cycle}
-    \caption{Intelligence Cycle (cf. \textcite{JointChiefsofStaffU.S.Army.2013})}
+    \caption{Intelligence Cycle (\textcite{JointChiefsofStaffU.S.Army.2013})}
     \label{fig: Intelligence Cycle}
 \end{figure}
 
@@ -160,15 +160,15 @@ The design objectives, derived from the research question (\cite{Peffers.2007}),
 In section \ref{sec:theoreticalbackground}, the theoretical background of the research is outlined, focusing on the IC, which is crucial for the artifact's development. The artifact is evaluated for its compatibility within the OSINT framework. Additionally, the review of prior studies highlights a significant gap in comprehensive OSINT research, emphasizing the inquiry's importance and relevance.
 
 \subsection{Design and Development}
-The third activity is a systematic literature review, guided by \textcite{Cleven.2009}.  The taxonomy by \cite{Cooper.1988} scoped the review, setting up classification categories for concept matrices to structure the literature analysis (\cite{Webster.2002}).
-To standardize verification across the IC, general categories reflecting established technology evaluation criteria were defined, except the iterative evaluation/feedback phase. For the collection phase, six categories were developed:
+The third activity is a systematic literature review, guided by \textcite{Cleven.2009}.  The taxonomy by \textcite{Cooper.1988} scoped the review, setting up classification categories for concept matrices to structure the literature analysis (\cite{Webster.2002}).
+To standardize verification across the IC, general categories reflecting established technology evaluation criteria were defined for each phase, except the iterative evaluation/feedback phase. For the collection phase, six categories were developed:
 \setlist{noitemsep}
 \begin{itemize}
     \item \textbf{Use case:} Application areas of the technologies.
     \item \textbf{Data:} Composition and types of data foundations, including data format and source.
     \item \textbf{Process:} Degree of automation in the technologies (manual, semi-automated, automated, fully automated; \cite{Duncheon.2002, Billings.1997, Endsley.1999}).
     \item \textbf{Technology:} Material and immaterial means used for managing information (\cite{Bleck.2004}).
-    \item \textbf{Technology Complexity:} Assessed through subcategories of volume, variety, and velocity (\cite{Elgendy.2014}).
+    \item \textbf{Technology Complexity:} Assessed through subcategories of volume, variety, and velocity (\cite{Singh.2012}).
     \item \textbf{Maturity Level:} According to the phases innovation, prototype, and  market establishment (\cite{Stich.2022}).
 \end{itemize}
 
@@ -179,7 +179,7 @@ Technologies were categorized and analyzed for interrelationships within the OSI
 For this study, a TR was selected as the artifact. This strategic tool identifies, monitors, and evaluates trends affecting industries or organizations, typically using circular diagrams with layers representing relevance or impact (\cite{wulfmettbrenn2017}).
 
 \subsection{Evaluation of the Design Specifications}
-The IC forms the foundation of the TR, offering clarity and an intuitive framework that simplifies technology extraction and research gap identification. Its design also ensures applicability across diverse intelligence disciplines in Germany, where this research was conducted. By emulating the structure of the German Federal government's TR (\cite{Stich.2022}), the categories included in this radar have been limited to use case, technology, and maturity level. This focus enhances robustness, user-friendliness, and appropriate detail in the artifact. The concept matrices enable regular updates to the radar, ensuring current and standardized design. Rigorous verification of internal consistency maintains categorization integrity, meeting critical evaluation criteria in contemporary design research (\cite{vomBrocke.2020b}).
+The IC forms the foundation of the TR, offering clarity and an intuitive framework that simplifies technology extraction and research gap identification. Its design also ensures applicability across diverse intelligence disciplines in Germany, where this research was conducted. By emulating the structure of the German Federal government's TR (\cite{Stich.2022}), the categories included in this radar have been limited to use case, technology, and maturity level. This focus enhances robustness, user-friendliness, and appropriate detail in the artifact. The concept matrices enable regular updates to the radar, ensuring current and standardized design. Rigorous verification of internal consistency maintains categorization integrity, meeting critical evaluation criteria in contemporary design research (\cite{Sonnenberg.2012}).
 
 
 \subsection{Demonstration}
@@ -268,15 +268,15 @@ The Experts note that OSINT is used in all authorities and various use cases, ev
 
 \subsection{Technologies and Maturity Levels in Theory-Practice Comparison} \label{sec:matcomp}
 
-Automated technologies are used in all phases and use cases except the initial one. While these technologies exhibit considerable market maturity, manual activities remain prevalent, particularly in cyber security, which shows the highest level of automation.
+Automated technologies are used in all phases and use cases except the initial one. While these technologies exhibit considerable market maturity, manual activities remain prevalent. Particularly cyber security shows the highest level of automation.
 
-The most advanced automated technologies in the collection phase are web crawlers and scrapers. Established tools include 'off-the-shelf' options (cf. \cite{Middleton.2020}) and open-source solutions like 'Tweepy,' a Python library for Twitter crawlers (e.g., \cite{Adewopo.2020}). More advanced prototypes combine parallelized, recursive, source-specific web crawlers and scrapers for enhanced data collection (e.g., \cite{Jenkins.2021}). A prototype method called 'focused crawling' adapts the crawling path dynamically using a content-driven ML algorithm, BERT ('Bidirectional Encoder Representation from Transformers', \cite{Kuehn.2023}). Technologies for crawling the dark web, like 'Torsion' (\cite{Sonawane.2022}), belong to the innovation phase. Experts note an increasing use of open-source tools alongside manual work (cf. E1; E3). However, they find traditional web crawling and scraping outdated due to errors and implementation challenges. Screenshot-based 'web shooting' with OCR (Optical Character Recognition) extraction is seen as more modern and robust (cf. E3).
+The most advanced automated technologies in the collection phase are web crawlers and scrapers. Established tools include 'off-the-shelf' options (cf. \cite{Middleton.2020}) and open-source solutions like 'Tweepy', a Python library for Twitter crawlers (e.g., \cite{Adewopo.2020}). More advanced prototypes combine parallelized, recursive, source-specific web crawlers and scrapers for enhanced data collection (e.g., \cite{Jenkins.2021}). A prototype method called 'focused crawling' adapts the crawling path dynamically using a content-driven ML algorithm, BERT ('Bidirectional Encoder Representation from Transformers', \cite{Kuehn.2023}). Technologies for crawling the dark web, like 'Torsion' (\cite{Sonawane.2022}), belong to the innovation phase. Experts note an increasing use of open-source tools alongside manual work (cf. E1; E3). However, they find traditional web crawling and scraping outdated due to errors and implementation challenges. Screenshot-based 'web shooting' with OCR ('Optical Character Recognition') extraction is seen as more modern and robust (cf. E3).
 
-NLP (Natural Language Processing) methods such as 'topic classification,' 'part-of-speech tagging,' and 'entity and relation annotation' demonstrate high automation levels in the processing/exploitation phase. Common technologies include the 'Python NLTK Toolkit' (\cite{Hubbard.2022}) and the 'Stanford CoreNLP Toolkit' (\cite{Middleton.2020}). Additionally, 'Deep Learning' (DL), particularly through 'word embedding' with the 'word2vec' algorithm, is prominent (e.g., \cite{Bai.2020}). Experts note that this phase mainly involves manual work within authorities due to the need for domain knowledge (cf. E1; E2; E3). The degree of automation varies with task abstraction: operational tasks requiring specific information show lower automation than long-term strategic analyses needing extensive data (cf. E3).
+NLP ('Natural Language Processing') methods such as 'topic classification', 'part-of-speech tagging', and 'entity and relation annotation' demonstrate high automation levels in the processing/exploitation phase. Common technologies include the 'Python NLTK Toolkit' (\cite{Hubbard.2022}) and the 'Stanford CoreNLP Toolkit' (\cite{Middleton.2020}). Additionally, 'Deep Learning' (DL), particularly through 'word embedding' with the 'word2vec' algorithm, is prominent (e.g., \cite{Bai.2020}). Experts note that this phase mainly involves manual work within authorities due to the need for domain knowledge (cf. E1; E2; E3). The degree of automation varies with task abstraction: operational tasks requiring specific information show lower automation than long-term strategic analyses needing extensive data (cf. E3).
 
 The highest automation level is seen in the analysis/production phase, where AI, ML, and DL technologies are prevalent. Under DL, vectorization algorithms, especially BERT versions, are used (e.g., \cite{Ma.2022}). ML models like BERT and 'Supervised Support Vector Machines' (e.g., \cite{Iorga.2020}) are also included, along with 'Random Forests', 'XGBoost', 'lightGBM', 'Naive Bayes', and 'Logistic Regression'. Publications frequently utilize multiple algorithms for performance comparison (e.g., \cite{Tao.2023}) or layered analysis (e.g., \cite{Yang.2022}). AI technologies are less specified, except for \textcite{Dale.2023}, who developed a bidirectional recurrent neural network with BiGur ('Bidirectional Gated Recurrent Unit') layers. Using modular public models, technologies are mainly classified as market-ready. The Experts indicate that this phase largely relies on manual content analysis due to limited technological understanding and acceptance in German authorities (cf. E2; E3; E4). Ethical and legal barriers, like GDPR ('General Data Protection Regulation'), hinder technology adoption (cf. E2; E4). Security concerns favor standalone systems, with smart technologies often used unofficially (cf. E2; E4). However, there is a need for modular, expandable systems to keep pace with advancements (cf. E1; E3; E4). Nonetheless, human experience and specialization are crucial for product quality, while the potential of 'Large Language Models' (LLM) remains uncertain (cf. E4).
 
-In the dissemination/integration phase, tools like 'Power BI' (\cite{Tao.2023}) are used to create dashboards and visualizations. Interfaces, including Python GUIs and browser applications (\cite{Elmas.2022}), along with input masks for entire tool stacks (\cite{Arjun.2020}) are developed. Automated alert technologies for cyber security risk assessments are also common (\cite{Ahuja.2022}), and graph-based visualizations utilize tools/libraries like 'Matplot,' 'Networkx,' 'Pygraphistry,' or the 'Neo4j-Browser' (\cite{Middleton.2020}). Except for alerts, the retrieval of results is largely semi-automated, with technologies in the market establishment phase. No information on user tests or new development involving user feedback was found in any studies. Experts state that automation within authorities during this phase remains very limited. The final product often consists of only a PDF document, email, or verbal report (cf. E1), which suffices in many cases (cf. E3). However, various automated tools beyond OSINT exist that could be applied (cf. E4), and there is a lack of necessary feedback for product improvement in practice (cf. E3).
+In the dissemination/integration phase, tools like 'Power BI' (\cite{Tao.2023}) are used to create dashboards and visualizations. Interfaces, including Python GUIs and browser applications (\cite{Elmas.2022}), along with input masks for entire tool stacks (\cite{Arjun.2020}) are developed. Automated alert technologies for cyber security risk assessments are also common (\cite{Ahuja.2022}), and graph-based visualizations utilize tools/libraries like 'Matplot', 'Networkx', 'Pygraphistry', or the 'Neo4j-Browser' (\cite{Middleton.2020}). Except for alerts, the retrieval of results is largely semi-automated, with technologies in the market establishment phase. No information on user tests or new development involving user feedback was found in any studies. Experts state that automation within authorities during this phase remains very limited. The final product often consists of only a PDF document, email, or verbal report (cf. E1), which suffices in many cases (cf. E3). However, various automated tools beyond OSINT exist that could be applied (cf. E4), and there is a lack of necessary feedback for product improvement in practice (cf. E3).
 
 \section{Discussion and Conclusion} \label{sec:discussion}
 %\section{Discussion} \label{sec:discussion}
@@ -285,7 +285,7 @@ In the dissemination/integration phase, tools like 'Power BI' (\cite{Tao.2023}) 
 The investigation into the existence of a robust, automated third-generation OSINT system (e.g., \cite{Ghioni.2023}) concludes negatively for Germany. Identified applications do not fully cover the IC, particularly lacking in the planning/direction and dissemination/integration phases, making human analysis essential. Numerous intelligent tools were identified in other phases, but integration has not met theoretical potential. This finding does not support the thesis of \textcite{Yogish.2021} that automated, AI-driven solutions are indispensable in all OSINT domains. The key research question is why proven applications have not gained widespread use, especially in German intelligence authorities. Future research should also explore enhancing technical support for the initial and final phases of the IC.
 
 %Addressing these questions involves resolving various research gaps (RGs) related to the three key IC groups:
-These questions require resolving research gaps (RGs) in the three key IC groups
+These questions require resolving research gaps (RGs) across the three key IC groups:
 
 
 %\begin{itemize}
